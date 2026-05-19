@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /SIKUBAH/
+    
+    # Skip rewrite untuk file dan folder yang ada
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+    
+    # Redirect index.html ke admin.php jika tidak ada
+    RewriteCond %{REQUEST_FILENAME} -s [OR]
+    RewriteCond %{REQUEST_FILENAME} -l [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^.*$ - [NC,L]
+    
+    # Catch requests untuk admin routes: auth, pages, portfolio, content, settings, dashboard
+    RewriteRule ^(auth|pages|portfolio|content|settings|dashboard)(.*)$ admin.php?route=$1$2 [QSA,L]
+    
+    # Root request goes to admin.php
+    RewriteRule ^$ admin.php?route= [QSA,L]
+    
+    # Everything else goes to index.php
+    RewriteRule ^(.+)$ index.php?route=$1 [QSA,L]
+</IfModule>
