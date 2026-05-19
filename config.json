@@ -1,0 +1,61 @@
+{
+  "site": {
+    "title": "Bigspring Light - HTML/CSS Version",
+    "base_url": "./",
+    "favicon": "images/favicon.png",
+    "logo": "images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Bigspring Light",
+    "description": "A modern SAAS template built with HTML and CSS"
+  },
+  "nav": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "index.html"
+      },
+      {
+        "name": "Blog",
+        "url": "pages/blog.html"
+      },
+      {
+        "name": "Pricing",
+        "url": "pages/pricing.html"
+      },
+      {
+        "name": "Contact",
+        "url": "pages/contact.html"
+      },
+      {
+        "name": "FAQ",
+        "url": "pages/faq.html"
+      }
+    ]
+  },
+  "colors": {
+    "primary": "#0aa8a7",
+    "secondary": "#0aa8a7",
+    "text": "#777",
+    "text_dark": "#222",
+    "border": "#e9e9e9",
+    "light_bg": "#edf6f5"
+  },
+  "cta_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "pages/contact.html"
+  },
+  "footer": {
+    "content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "Designed and Developed By <a class='underline font-bold' href='https://themefisher.com/' target='_blank'>Themefisher</a> • Distributed by <a class='underline font-bold' href='https://themewagon.com/' target='_blank'>ThemeWagon</a>"
+  },
+  "social": {
+    "facebook": "#!",
+    "twitter": "#!",
+    "linkedin": "#!",
+    "instagram": "",
+    "youtube": "",
+    "github": ""
+  }
+}
