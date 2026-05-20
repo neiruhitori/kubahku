@@ -1374,11 +1374,19 @@
     <!-- Google Ads snippet added by Site Kit -->
     <script src="https://www.googletagmanager.com/gtag/js?id=G-GBHP9RL402" id="google_gtagjs-js" async></script>
     <script id="google_gtagjs-js-after">
-        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-        gtag("set", "linker", { "domains": ["www.jualkubahmasjid.id"] });
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("set", "linker", {
+            "domains": ["www.jualkubahmasjid.id"]
+        });
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "G-GBHP9RL402", { "googlesitekit_post_type": "page" });
+        gtag("config", "G-GBHP9RL402", {
+            "googlesitekit_post_type": "page"
+        });
         gtag("config", "AW-737332955");
         //# sourceURL=google_gtagjs-js-after
     </script>
@@ -1422,28 +1430,39 @@
     </style>
     <!--BEGIN: TRACKING CODE MANAGER (v2.5.0) BY INTELLYWP.COM IN HEAD//-->
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
+    </script>
     <!-- End Google Tag Manager -->
     <!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//-->
     <!-- Google Tag Manager snippet added by Site Kit -->
     <script>
-        (function (w, d, s, l, i) {
+        (function(w, d, s, l, i) {
             w[l] = w[l] || [];
-            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
             var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
-
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
@@ -1493,9 +1512,9 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
+                                                <a href="#">
                                                     <img width="60" height="2"
-                                                        src="../../images/icontrans.png"
+                                                        src="../../images/PRODUSEN-gold.png"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1815,7 +1834,7 @@
                                                                             data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-button-wrapper">
-                                                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                                                         class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow"
                                                                                         role="button" id="wa-generic" target="_blank">
                                                                                         <span
@@ -1976,7 +1995,7 @@
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                            <p><a href="https://www.jualkubahmasjid.id/kubah-titanium-gold/"
+                                                            <p><a href="#"
                                                                     target="_blank" rel="noopener"><strong>Kubah
                                                                         Titanium Gold</strong></a> adalah kubah panel
                                                                 berbahan plat Stainless Steel 304 Gold. Kandungan plat
@@ -2260,7 +2279,8 @@
                                                                                                     <b>plat besi SPCC SD
                                                                                                         0,9 &#8211; 1
                                                                                                         mm</b> (Spek
-                                                                                                    Enamel Grade).</li>
+                                                                                                    Enamel Grade).
+                                                                                                </li>
                                                                                                 <li>Finishing Coating
                                                                                                     Enamel dengan
                                                                                                     800-900 Celcius.
@@ -2854,11 +2874,12 @@
                                                         <span class="elementor-icon-list-text">Ikuti Kami :</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow"> <
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
+                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
+                                                            <
+                                                                <span class="elementor-icon-list-icon">
+                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
+                                                                </span>
+                                                                <span class="elementor-icon-list-text">Facebook</span>
                                                     </li>
                                                     <!-- <li class="elementor-icon-list-item elementor-inline-item">
                                                         <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
@@ -2898,7 +2919,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -2907,7 +2928,7 @@
                                                                 <i aria-hidden="true" class="fab fa-whatsapp"></i>
                                                             </span>
                                                             <span class="elementor-button-text">WhatsApp
-                                                                085168613452</span>
+                                                                085188588596</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -2934,7 +2955,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -2960,7 +2981,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2985,16 +3006,76 @@
     </div>
 
     <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
     <script>
-        function ht(a, b, c, d) { let z1 = a * c; let z2 = d * c; let h1 = Math.round(z1); let h2 = Math.round(z2); let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. "); document.getElementById(b).innerHTML = hasil; } function bx() { let d = document.getElementById('d').value; let t = document.getElementById('t').value; let g = 3.1428571428571; let k = d * t * g; ht(2797727, "enamel", k, 3317273); ht(1499091, "galvalum", k, 1968636) } bx(); function d() { bx(); } function t() { bx(); } function fr(ak, prefix) { var number_string = ak.toString().replace(/[^,\d]/g, ''); var split = number_string.split(','); var sis = split[0].length % 3; var dph = split[0].substr(0, sis); var bnr = split[0].substr(sis).match(/\d{3}/gi); if (bnr) { separator = sis ? '.' : ''; dph += separator + bnr.join('.'); } dph = split[1] != undefined ? dph + ',' + split[1] : dph; return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : ''); }; document.getElementById('tombolhitung').addEventListener('click', function () { bx(); });
+        function ht(a, b, c, d) {
+            let z1 = a * c;
+            let z2 = d * c;
+            let h1 = Math.round(z1);
+            let h2 = Math.round(z2);
+            let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. ");
+            document.getElementById(b).innerHTML = hasil;
+        }
+
+        function bx() {
+            let d = document.getElementById('d').value;
+            let t = document.getElementById('t').value;
+            let g = 3.1428571428571;
+            let k = d * t * g;
+            ht(2797727, "enamel", k, 3317273);
+            ht(1499091, "galvalum", k, 1968636)
+        }
+        bx();
+
+        function d() {
+            bx();
+        }
+
+        function t() {
+            bx();
+        }
+
+        function fr(ak, prefix) {
+            var number_string = ak.toString().replace(/[^,\d]/g, '');
+            var split = number_string.split(',');
+            var sis = split[0].length % 3;
+            var dph = split[0].substr(0, sis);
+            var bnr = split[0].substr(sis).match(/\d{3}/gi);
+            if (bnr) {
+                separator = sis ? '.' : '';
+                dph += separator + bnr.join('.');
+            }
+            dph = split[1] != undefined ? dph + ',' + split[1] : dph;
+            return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : '');
+        };
+        document.getElementById('tombolhitung').addEventListener('click', function() {
+            bx();
+        });
     </script>
     <script id="generate-a11y">
-        !function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("pointerdown", (function () { e.classList.add("using-mouse") }), { passive: !0 }), e.addEventListener("keydown", (function () { e.classList.remove("using-mouse") }), { passive: !0 }) } }();
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("pointerdown", (function() {
+                    e.classList.add("using-mouse")
+                }), {
+                    passive: !0
+                }), e.addEventListener("keydown", (function() {
+                    e.classList.remove("using-mouse")
+                }), {
+                    passive: !0
+                })
+            }
+        }();
     </script>
     <script id="generate-menu-js-before">
-        var generatepressMenu = { "toggleOpenedSubMenus": true, "openSubMenuLabel": "Open Sub-Menu", "closeSubMenuLabel": "Close Sub-Menu" };
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": true,
+            "openSubMenuLabel": "Open Sub-Menu",
+            "closeSubMenuLabel": "Close Sub-Menu"
+        };
         //# sourceURL=generate-menu-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1"
@@ -3017,7 +3098,89 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.10"
         id="elementor-sticky-js"></script>
     <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php", "nonce": "7e3e625fa2", "i18n": { "toc_no_headings_found": "No headings were found on this page." }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "google": { "title": "Google+", "has_counter": true }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" } }, "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
+        var ElementorProFrontendConfig = {
+            "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php",
+            "nonce": "7e3e625fa2",
+            "i18n": {
+                "toc_no_headings_found": "No headings were found on this page."
+            },
+            "shareButtonsNetworks": {
+                "facebook": {
+                    "title": "Facebook",
+                    "has_counter": true
+                },
+                "twitter": {
+                    "title": "Twitter"
+                },
+                "google": {
+                    "title": "Google+",
+                    "has_counter": true
+                },
+                "linkedin": {
+                    "title": "LinkedIn",
+                    "has_counter": true
+                },
+                "pinterest": {
+                    "title": "Pinterest",
+                    "has_counter": true
+                },
+                "reddit": {
+                    "title": "Reddit",
+                    "has_counter": true
+                },
+                "vk": {
+                    "title": "VK",
+                    "has_counter": true
+                },
+                "odnoklassniki": {
+                    "title": "OK",
+                    "has_counter": true
+                },
+                "tumblr": {
+                    "title": "Tumblr"
+                },
+                "digg": {
+                    "title": "Digg"
+                },
+                "skype": {
+                    "title": "Skype"
+                },
+                "stumbleupon": {
+                    "title": "StumbleUpon",
+                    "has_counter": true
+                },
+                "mix": {
+                    "title": "Mix"
+                },
+                "telegram": {
+                    "title": "Telegram"
+                },
+                "pocket": {
+                    "title": "Pocket",
+                    "has_counter": true
+                },
+                "xing": {
+                    "title": "XING",
+                    "has_counter": true
+                },
+                "whatsapp": {
+                    "title": "WhatsApp"
+                },
+                "email": {
+                    "title": "Email"
+                },
+                "print": {
+                    "title": "Print"
+                }
+            },
+            "facebook_sdk": {
+                "lang": "en_US",
+                "app_id": ""
+            },
+            "lottie": {
+                "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+            }
+        };
         //# sourceURL=elementor-pro-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.10"
@@ -3035,7 +3198,62 @@
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6"
         id="swiper-js"></script>
     <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false, "isImprovedAssetsLoading": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.1.1", "is_static": false, "experimentalFeatures": [], "urls": { "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 11464, "title": "PRODUK%3A%20Kubah%20Enamel%2C%20Kubah%20Galvalum%2C%20Kubah%20Titanium%20Gold", "excerpt": "", "featuredImage": false } };
+        var elementorFrontendConfig = {
+            "environmentMode": {
+                "edit": false,
+                "wpPreview": false,
+                "isScriptDebug": false,
+                "isImprovedAssetsLoading": false
+            },
+            "i18n": {
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnTwitter": "Share on Twitter",
+                "pinIt": "Pin it",
+                "download": "Download",
+                "downloadImage": "Download image",
+                "fullscreen": "Fullscreen",
+                "zoom": "Zoom",
+                "share": "Share",
+                "playVideo": "Play Video",
+                "previous": "Previous",
+                "next": "Next",
+                "close": "Close"
+            },
+            "is_rtl": false,
+            "breakpoints": {
+                "xs": 0,
+                "sm": 480,
+                "md": 768,
+                "lg": 1025,
+                "xl": 1440,
+                "xxl": 1600
+            },
+            "version": "3.1.1",
+            "is_static": false,
+            "experimentalFeatures": [],
+            "urls": {
+                "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/"
+            },
+            "settings": {
+                "page": [],
+                "editorPreferences": []
+            },
+            "kit": {
+                "global_image_lightbox": "yes",
+                "lightbox_enable_counter": "yes",
+                "lightbox_enable_fullscreen": "yes",
+                "lightbox_enable_zoom": "yes",
+                "lightbox_enable_share": "yes",
+                "lightbox_title_src": "title",
+                "lightbox_description_src": "description"
+            },
+            "post": {
+                "id": 11464,
+                "title": "PRODUK%3A%20Kubah%20Enamel%2C%20Kubah%20Galvalum%2C%20Kubah%20Titanium%20Gold",
+                "excerpt": "",
+                "featuredImage": false
+            }
+        };
         //# sourceURL=elementor-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.1"
@@ -3044,11 +3262,105 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.1"
         id="preloaded-elements-handlers-js"></script>
     <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
-</script>
+        {
+            "baseUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/",
+            "ext": ".png",
+            "svgUrl": "https://s.w.org/images/core/emoji/17.0.2/svg/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"
+            }
+        }
+    </script>
     <script type="module">
         /*! This file is auto-generated */
-        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent), o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"), s = ["flag", "emoji"]; function i(e) { try { var t = { supportTests: e, timestamp: (new Date).valueOf() }; sessionStorage.setItem(o, JSON.stringify(t)) } catch (e) { } } function c(e, t, n) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0); const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); return t.every((e, t) => e === a[t]) } function p(e, t) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); var n = e.getImageData(16, 16, 1, 1); for (let e = 0; e < n.data.length; e++)if (0 !== n.data[e]) return !1; return !0 } function u(e, t, n, a) { switch (t) { case "flag": return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !a(e, "\ud83e\u1fac8") }return !1 } function f(e, t, n, a) { let r; const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", { willReadFrequently: !0 }), s = (o.textBaseline = "top", o.font = "600 32px Arial", {}); return e.forEach(e => { s[e] = t(o, e, n, a) }), s } function r(e) { var t = document.createElement("script"); t.src = e, t.defer = !0, document.head.appendChild(t) } a.supports = { everything: !0, everythingExceptFlag: !0 }, new Promise(t => { let n = function () { try { var e = JSON.parse(sessionStorage.getItem(o)); if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests } catch (e) { } return null }(); if (!n) { if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try { var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));", a = new Blob([e], { type: "text/javascript" }); const r = new Worker(URL.createObjectURL(a), { name: "wpTestEmojiSupports" }); return void (r.onmessage = e => { i(n = e.data), r.terminate(), t(n) }) } catch (e) { } i(n = f(s, u, c, p)) } t(n) }).then(e => { for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]); var t; a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji))) });
+        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent),
+            o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"),
+            s = ["flag", "emoji"];
+
+        function i(e) {
+            try {
+                var t = {
+                    supportTests: e,
+                    timestamp: (new Date).valueOf()
+                };
+                sessionStorage.setItem(o, JSON.stringify(t))
+            } catch (e) {}
+        }
+
+        function c(e, t, n) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0);
+            const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            return t.every((e, t) => e === a[t])
+        }
+
+        function p(e, t) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            var n = e.getImageData(16, 16, 1, 1);
+            for (let e = 0; e < n.data.length; e++)
+                if (0 !== n.data[e]) return !1;
+            return !0
+        }
+
+        function u(e, t, n, a) {
+            switch (t) {
+                case "flag":
+                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+                case "emoji":
+                    return !a(e, "\ud83e\u1fac8")
+            }
+            return !1
+        }
+
+        function f(e, t, n, a) {
+            let r;
+            const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", {
+                    willReadFrequently: !0
+                }),
+                s = (o.textBaseline = "top", o.font = "600 32px Arial", {});
+            return e.forEach(e => {
+                s[e] = t(o, e, n, a)
+            }), s
+        }
+
+        function r(e) {
+            var t = document.createElement("script");
+            t.src = e, t.defer = !0, document.head.appendChild(t)
+        }
+        a.supports = {
+            everything: !0,
+            everythingExceptFlag: !0
+        }, new Promise(t => {
+            let n = function() {
+                try {
+                    var e = JSON.parse(sessionStorage.getItem(o));
+                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                } catch (e) {}
+                return null
+            }();
+            if (!n) {
+                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));",
+                        a = new Blob([e], {
+                            type: "text/javascript"
+                        });
+                    const r = new Worker(URL.createObjectURL(a), {
+                        name: "wpTestEmojiSupports"
+                    });
+                    return void(r.onmessage = e => {
+                        i(n = e.data), r.terminate(), t(n)
+                    })
+                } catch (e) {}
+                i(n = f(s, u, c, p))
+            }
+            t(n)
+        }).then(e => {
+            for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]);
+            var t;
+            a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
+        });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
 

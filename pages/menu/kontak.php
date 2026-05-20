@@ -1516,9 +1516,9 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="../../images/icontrans.png">
+                                                <a href="../../images/PRODUSEN-gold.png">
                                                     <img width="60" height="2"
-                                                        src="../../images/icontrans.png"
+                                                        src="../../images/PRODUSEN-gold.png"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" />
                                                 </a>
@@ -1700,7 +1700,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image">
                                                             <img decoding="async" width="175" height="128"
-                                                                src="../../images/icontrans.png"
+                                                                src="../../images/PRODUSEN-gold.png"
                                                                 class="attachment-large size-large" alt="" />
                                                         </div>
                                                     </div>
@@ -2003,7 +2003,7 @@
                                                     data-widget_type="button.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
-                                                            <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                            <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                                 class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow"
                                                                 role="button" id="wa-kontak">
                                                                 <span class="elementor-button-content-wrapper">
@@ -2079,7 +2079,7 @@
                                                             </li>
                                                             <li class="elementor-icon-list-item">
                                                                 <span class="elementor-icon-list-text"><b>+62
-                                                                        +6285168613452</b></span>
+                                                                        +6285188588596</b></span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -2629,11 +2629,12 @@
                                                         <span class="elementor-icon-list-text">Ikuti Kami :</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow"> <
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
+                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
+                                                            <
+                                                                <span class="elementor-icon-list-icon">
+                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
+                                                                </span>
+                                                                <span class="elementor-icon-list-text">Facebook</span>
                                                     </li>
                                                     <!-- <li class="elementor-icon-list-item elementor-inline-item">
                                                         <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
@@ -2673,7 +2674,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -2682,7 +2683,7 @@
                                                                 <i aria-hidden="true" class="fab fa-whatsapp"></i>
                                                             </span>
                                                             <span class="elementor-button-text">WhatsApp
-                                                                085168613452</span>
+                                                                085188588596</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -2709,7 +2710,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -2735,7 +2736,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">

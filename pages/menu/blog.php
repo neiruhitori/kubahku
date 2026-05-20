@@ -1627,9 +1627,9 @@ if ($result && $result->num_rows > 0) {
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
+                                                <a href="#">
                                                     <img width="60" height="2"
-                                                        src="../../images/icontrans.png"
+                                                        src="../../images/PRODUSEN-gold.png"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1927,7 +1927,7 @@ if ($result && $result->num_rows > 0) {
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
                             <p>Silakan konsultasi gratis dengan Call/WhatsApp saya di nomor <a
-                                    href="tel:+6285168613452"><strong>085168613452</strong></a> untuk mengetahui info
+                                    href="tel:+6285188588596"><strong>085188588596</strong></a> untuk mengetahui info
                                 harga pemesanan kubah enamel dan kubah masjid galvalum.</p>
                         </div>
                     </aside>
@@ -1943,35 +1943,35 @@ if ($result && $result->num_rows > 0) {
                         <h2 class="widget-title">Info Terkini</h2>
                         <ul>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-pusdai-bandung/">Mengintip Desain Ikonik
+                                <a href="#">Mengintip Desain Ikonik
                                     Masjid PUSDAI Bandung Jawa Barat</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-al-muttaqin-bogor/">Fasilitas dan
+                                <a href="#">Fasilitas dan
                                     Kegiatan di Masjid Raya Al Muttaqin Bogor</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-nurani-kranji/">Megahnya Masjid Nurani
+                                <a href="#">Megahnya Masjid Nurani
                                     Kranji Perpaduan Modern dan Spanyol</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-raudhatul-irfan/">Pesona Arsitektur
+                                <a href="#">Pesona Arsitektur
                                     Masjid Raya Raudhatul Irfan Sukabumi</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-agung-kalianda/">Pesona Masjid Agung
+                                <a href="#">Pesona Masjid Agung
                                     Kalianda Ikon Megah Lampung Selatan</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/nama-nama-masjid-yang-bagus/">90 Daftar
+                                <a href="#">90 Daftar
                                     Nama-Nama Masjid yang Bagus dan Maknanya</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-terdekat/">Cara Cepat Cari Masjid
+                                <a href="#">Cara Cepat Cari Masjid
                                     Terdekat Agar Ibadah Tetap Lancar</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/jual-kubah-masjid-donggala/">Jual Kubah Masjid
+                                <a href="#">Jual Kubah Masjid
                                     Donggala Harga Pabrik Termurah Bergaransi</a>
                             </li>
                         </ul>
@@ -2065,7 +2065,7 @@ if ($result && $result->num_rows > 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
                                                         role="button" id="wa-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2074,7 +2074,7 @@ if ($result && $result->num_rows > 0) {
                                                                 <i aria-hidden="true" class="fab fa-whatsapp"></i>
                                                             </span>
                                                             <span class="elementor-button-text">WhatsApp
-                                                                085168613452</span>
+                                                                085188588596</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -2101,7 +2101,7 @@ if ($result && $result->num_rows > 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="wa-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2127,7 +2127,7 @@ if ($result && $result->num_rows > 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">

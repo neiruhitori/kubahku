@@ -1674,9 +1674,9 @@ if (strpos($uri, 'blog') === 0) {
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
+                                                <a href="#">
                                                     <img width="60" height="2"
-                                                        src="./images/icontrans.png"
+                                                        src="./images/PRODUSEN-gold.png"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1931,7 +1931,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-button-wrapper">
-                                                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                                                         class="elementor-button-link elementor-button elementor-size-lg elementor-animation-grow"
                                                                                         role="button" id="wa-generic" target="_blank">
                                                                                         <span
@@ -2067,7 +2067,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             data-widget_type="button.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-button-wrapper">
-                                                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                                                         class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow"
                                                                                         role="button" id="wa-generic" target="_blank">
                                                                                         <span
@@ -2351,7 +2351,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    <a href="https://www.jualkubahmasjid.id/harga-kubah-enamel-per-m2/"
+                                                                                    <a href="#"
                                                                                         target="_blank">Kubah Enamel</a>
                                                                                 </p>
                                                                             </div>
@@ -2417,7 +2417,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    <a href="https://www.jualkubahmasjid.id/kubah-titanium-gold/"
+                                                                                    <a href="#"
                                                                                         target="_blank">Kubah Stainless
                                                                                         Gold</a>
                                                                                 </p>
@@ -2609,8 +2609,8 @@ if (strpos($uri, 'blog') === 0) {
                                                             <p>Harga kubah di atas hanya perkiraan. Untuk tahu biaya
                                                                 pembuatan kubah masjid yang lebih akurat, silakan
                                                                 konsultasi gratis ke kami di <a
-                                                                    href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F">+62
-                                                                    851-6861-3452</a> (<strong>bisa dinego</strong>).
+                                                                    href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F">+62
+                                                                    851-8858-8596</a> (<strong>bisa dinego</strong>).
                                                             </p>
                                                         </div>
                                                     </div>
@@ -2677,7 +2677,7 @@ if (strpos($uri, 'blog') === 0) {
                                                     data-widget_type="button.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
-                                                            <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                            <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                                 class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow"
                                                                 role="button" id="wa-generic" target="_blank">
                                                                 <span class="elementor-button-content-wrapper">
@@ -3240,7 +3240,7 @@ if (strpos($uri, 'blog') === 0) {
                                                             <p style="text-align: left;">Qoobah siap membantu anda
                                                                 mewujudkan kubah masjid yang megah dan indah dipandang,
                                                                 sesuai impian jamaah dan identitas masjid anda. Hubungi
-                                                                tim sales kami di <strong>+62 851-6861-3452</strong>
+                                                                tim sales kami di <strong>+62 851-8858-8596</strong>
                                                                 untuk konsultasi langsung.</p>
                                                         </div>
                                                     </div>
@@ -3457,7 +3457,7 @@ if (strpos($uri, 'blog') === 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -3466,7 +3466,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                 <i aria-hidden="true" class="fab fa-whatsapp"></i>
                                                             </span>
                                                             <span class="elementor-button-text">WhatsApp
-                                                                085168613452</span>
+                                                                085188588596</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -3493,7 +3493,7 @@ if (strpos($uri, 'blog') === 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
@@ -3519,7 +3519,7 @@ if (strpos($uri, 'blog') === 0) {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285168613452?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">
