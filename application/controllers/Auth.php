@@ -8,7 +8,7 @@ class Auth extends Controller {
     
     public function login() {
         if ($this->_is_logged_in()) {
-            header('Location: /SIKUBAH/');
+            header('Location: /SIKUBAH/dashboard');
             exit;
         }
         
@@ -31,8 +31,8 @@ class Auth extends Controller {
                     $_SESSION['admin_username'] = $user['username'];
                     $_SESSION['admin_email'] = $user['email'];
                     $_SESSION['admin_logged_in'] = true;
-                    
-                    header('Location: /SIKUBAH/');
+
+                    header('Location: /SIKUBAH/dashboard');
                     exit;
                 } else {
                     $data['message'] = '<div class="alert alert-danger">Username atau password salah!</div>';

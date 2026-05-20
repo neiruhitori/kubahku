@@ -1,3 +1,161 @@
+<?php
+session_start();
+
+// ============================================
+// SIKUBAH ROUTING - Handle admin routes
+// ============================================
+
+define('APPPATH', __DIR__ . '/application/');
+define('BASEPATH', __DIR__ . '/system/');
+define('VIEWPATH', APPPATH . 'views/');
+
+// Auto-loader untuk classes
+spl_autoload_register(function ($class) {
+    $file = APPPATH . 'models/' . $class . '.php';
+    if (file_exists($file)) {
+        require $file;
+        return;
+    }
+
+    $file = APPPATH . 'controllers/' . $class . '.php';
+    if (file_exists($file)) {
+        require $file;
+        return;
+    }
+});
+
+// Simple Database Class
+class Database
+{
+    public $conn;
+
+    public function __construct()
+    {
+        $this->conn = new mysqli('localhost', 'root', '', 'db_sikubah');
+        if ($this->conn->connect_error) {
+            die('Database connection failed: ' . $this->conn->connect_error);
+        }
+        $this->conn->set_charset('utf8mb4');
+    }
+
+    public function query($sql)
+    {
+        return $this->conn->query($sql);
+    }
+
+    public function prepare($sql)
+    {
+        return $this->conn->prepare($sql);
+    }
+
+    public function escape_string($str)
+    {
+        return $this->conn->real_escape_string($str);
+    }
+
+    public function insert_id()
+    {
+        return $this->conn->insert_id;
+    }
+
+    public function affected_rows()
+    {
+        return $this->conn->affected_rows;
+    }
+}
+
+// Base Controller
+class Controller
+{
+    public $db;
+
+    public function __construct()
+    {
+        $this->db = new Database();
+    }
+
+    public function load_view($view, $data = [])
+    {
+        extract($data);
+        require VIEWPATH . $view . '.php';
+    }
+}
+
+// Check if this is an admin route request
+$uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$uri = str_replace('/SIKUBAH', '', $uri); // Remove base path
+$uri = trim($uri, '/');
+
+// Admin routes that need special handling
+$admin_routes = ['auth', 'dashboard', 'pages', 'portfolio', 'articles', 'content', 'settings'];
+$is_admin_route = false;
+
+foreach ($admin_routes as $route) {
+    if (strpos($uri, $route) === 0) {
+        $is_admin_route = true;
+        break;
+    }
+}
+
+if ($is_admin_route) {
+    // Route to admin controllers
+    if (strpos($uri, 'auth') === 0) {
+        $segments = explode('/', 'auth/' . trim(str_replace('auth', '', $uri), '/'));
+    } elseif (strpos($uri, 'dashboard') === 0) {
+        $segments = explode('/', 'dashboard/' . trim(str_replace('dashboard', '', $uri), '/'));
+    } else {
+        $segments = explode('/', $uri);
+    }
+
+    // Clean up empty segments
+    $segments = array_filter($segments, function ($v) {
+        return $v !== '';
+    });
+    $segments = array_values($segments); // Re-index array
+
+    $controller = ucfirst($segments[0] ?? 'Auth');
+    $method = isset($segments[1]) && !empty($segments[1]) ? $segments[1] : 'index';
+    $params = array_slice($segments, 2);
+
+    // Load appropriate controller
+    $controller_file = APPPATH . 'controllers/' . $controller . '.php';
+
+    if (file_exists($controller_file)) {
+        require $controller_file;
+        if (class_exists($controller)) {
+            $ctrl_obj = new $controller();
+            if (method_exists($ctrl_obj, $method)) {
+                call_user_func_array([$ctrl_obj, $method], $params);
+                exit;
+            }
+        }
+    }
+}
+
+// Check for blog and other frontend routes
+if (strpos($uri, 'blog') === 0) {
+    $segments = explode('/', $uri);
+    $segments = array_filter($segments, function ($v) {
+        return $v !== '';
+    });
+    $segments = array_values($segments);
+
+    require APPPATH . 'controllers/Home.php';
+    $ctrl_obj = new Home();
+
+    if (isset($segments[1]) && !empty($segments[1])) {
+        // Single article: /blog/article-slug
+        $slug = $segments[1];
+        $ctrl_obj->article($slug);
+    } else {
+        // Blog listing: /blog
+        $ctrl_obj->blog();
+    }
+    exit;
+}
+
+// If not an admin route or blog route, continue with landing page
+?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
 
@@ -3034,7 +3192,7 @@
                                                                 dengan skema harga yang kompetitif dan transparan.</p>
                                                             <p style="padding-left: 40px; text-align: left;">Informasi
                                                                 mengenai harga
-                                                                    kubah enamel per m2</a> serta material lainnya dapat
+                                                                kubah enamel per m2</a> serta material lainnya dapat
                                                                 dikonsultasikan secara langsung untuk mendapatkan
                                                                 penawaran terbaik.</p>
                                                             <h3 style="padding-left: 40px; text-align: left;"><strong>b.
@@ -3254,11 +3412,12 @@
                                                         <span class="elementor-icon-list-text">Ikuti Kami :</span>
                                                     </li>
                                                     <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow"> <
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
+                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
+                                                            <
+                                                                <span class="elementor-icon-list-icon">
+                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
+                                                                </span>
+                                                                <span class="elementor-icon-list-text">Facebook</span>
                                                     </li>
                                                     <!-- <li class="elementor-icon-list-item elementor-inline-item">
                                                         <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"

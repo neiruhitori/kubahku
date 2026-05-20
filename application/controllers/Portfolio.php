@@ -6,10 +6,10 @@ class Portfolio extends Controller {
         parent::__construct();
         $this->_check_auth();
     }
-    
-    // Tampilkan daftar portfolio
+
+    // Tampilkan daftar portfolio - sorted by newest first
     public function index() {
-        $sql = "SELECT * FROM portfolios ORDER BY order_number ASC, created_at DESC";
+        $sql = "SELECT * FROM portfolios ORDER BY created_at DESC";
         $result = $this->db->query($sql);
         
         $data['title'] = 'Kelola Portfolio - SIKUBAH';
@@ -184,7 +184,155 @@ class Portfolio extends Controller {
         header('Location: /SIKUBAH/portfolio');
         exit;
     }
-    
+
+    // Return create form HTML for AJAX modal
+    public function form_create()
+    {
+        $data['title'] = 'Tambah Portfolio';
+        $data['action'] = 'create';
+        $data['portfolio'] = [];
+        $data['is_ajax'] = true;
+
+        ob_start();
+        $this->load_view('admin/portfolio/form-modal', $data);
+        $html = ob_get_clean();
+
+        header('Content-Type: application/json');
+        echo json_encode(['success' => true, 'html' => $html]);
+        exit;
+    }
+
+    // Return edit form HTML for AJAX modal
+    public function form_edit($id = null)
+    {
+        if (!$id) {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'ID tidak valid']);
+            exit;
+        }
+
+        $sql = "SELECT * FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
+        $result = $this->db->query($sql);
+
+        if (!$result || $result->num_rows === 0) {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'Portfolio tidak ditemukan']);
+            exit;
+        }
+
+        $data['title'] = 'Edit Portfolio';
+        $data['action'] = 'edit';
+        $data['portfolio'] = $result->fetch_assoc();
+        $data['is_ajax'] = true;
+
+        ob_start();
+        $this->load_view('admin/portfolio/form-modal', $data);
+        $html = ob_get_clean();
+
+        header('Content-Type: application/json');
+        echo json_encode(['success' => true, 'html' => $html]);
+        exit;
+    }
+
+    // Save portfolio via AJAX (both create and update)
+    public function save_ajax()
+    {
+        if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'Invalid request method']);
+            exit;
+        }
+
+        $action = isset($_POST['action']) ? $_POST['action'] : 'create';
+        $id = isset($_POST['id']) ? intval($_POST['id']) : 0;
+        $title = isset($_POST['title']) ? trim($_POST['title']) : '';
+        $description = isset($_POST['description']) ? trim($_POST['description']) : '';
+        $image_alt = isset($_POST['image_alt']) ? trim($_POST['image_alt']) : '';
+
+        if (empty($title)) {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'Judul portfolio harus diisi!']);
+            exit;
+        }
+
+        if ($action === 'create') {
+            // Handle create
+            if (!isset($_FILES['portfolio_image']) || $_FILES['portfolio_image']['error'] !== UPLOAD_ERR_OK) {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => false, 'message' => 'Gambar harus diupload!']);
+                exit;
+            }
+
+            $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
+            if (!$image_path) {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => false, 'message' => 'Gagal upload gambar!']);
+                exit;
+            }
+
+            $sql = "INSERT INTO portfolios (title, description, image, image_alt) 
+                    VALUES (
+                        '" . $this->db->escape_string($title) . "',
+                        '" . $this->db->escape_string($description) . "',
+                        '" . $this->db->escape_string($image_path) . "',
+                        '" . $this->db->escape_string($image_alt) . "'
+                    )";
+
+            if ($this->db->query($sql)) {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => true, 'message' => 'Portfolio berhasil ditambahkan!']);
+                exit;
+            } else {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => false, 'message' => 'Gagal menambah portfolio: ' . $this->db->conn->error]);
+                exit;
+            }
+        } else if ($action === 'edit' && $id > 0) {
+            // Handle update
+            $sql_get = "SELECT image FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
+            $result_get = $this->db->query($sql_get);
+            $current_portfolio = $result_get->fetch_assoc();
+            $image_path = $current_portfolio['image'];
+
+            // Handle image upload if new image provided
+            if (isset($_FILES['portfolio_image']) && $_FILES['portfolio_image']['error'] === UPLOAD_ERR_OK) {
+                // Delete old image
+                if ($current_portfolio['image'] && file_exists(__DIR__ . '/../../' . $current_portfolio['image'])) {
+                    @unlink(__DIR__ . '/../../' . $current_portfolio['image']);
+                }
+
+                // Upload and convert new image
+                $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
+                if (!$image_path) {
+                    header('Content-Type: application/json');
+                    echo json_encode(['success' => false, 'message' => 'Gagal upload gambar!']);
+                    exit;
+                }
+            }
+
+            $sql = "UPDATE portfolios SET 
+                    title = '" . $this->db->escape_string($title) . "',
+                    description = '" . $this->db->escape_string($description) . "',
+                    image = '" . $this->db->escape_string($image_path) . "',
+                    image_alt = '" . $this->db->escape_string($image_alt) . "'
+                    WHERE id = " . intval($id);
+
+            if ($this->db->query($sql)) {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => true, 'message' => 'Portfolio berhasil diupdate!']);
+                exit;
+            } else {
+                header('Content-Type: application/json');
+                echo json_encode(['success' => false, 'message' => 'Gagal mengupdate portfolio: ' . $this->db->conn->error]);
+                exit;
+            }
+        } else {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'Action tidak valid']);
+            exit;
+        }
+    }
+
     private function _check_auth() {
         if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== true) {
             header('Location: /SIKUBAH/auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
