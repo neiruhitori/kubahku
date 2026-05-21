@@ -1569,8 +1569,8 @@ if ($result && $result->num_rows > 0) {
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon" href="../../images/PRODUSEN-gold.png" type="image/png" />
-    <link rel="apple-touch-icon" href="../../images/PRODUSEN-gold.png" />
+    <link rel="icon" href="../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../images/icon.webp" />
     <link rel='stylesheet' id='elementor-post-22203-css'
         href='https://www.jualkubahmasjid.id/wp-content/uploads/elementor/css/post-22203.css?ver=1775776833'
         media='all' />
@@ -1619,7 +1619,7 @@ if ($result && $result->num_rows > 0) {
                                             <div class="elementor-image">
                                                 <a href="#">
                                                     <img width="60" height="2"
-                                                        src="../../images/PRODUSEN-gold.png"
+                                                        src="../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1650,7 +1650,7 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1676,7 +1676,7 @@ if ($result && $result->num_rows > 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1717,7 +1717,7 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="http://localhost/SIKUBAH/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1743,7 +1743,7 @@ if ($result && $result->num_rows > 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1791,22 +1791,13 @@ if ($result && $result->num_rows > 0) {
                                 <h1 class="entry-title" itemprop="headline">
                                     <?php echo htmlspecialchars($article['title']); ?>
                                 </h1>
-                                <div class="entry-meta">
-                                    <span class="posted-on">
-                                        <time class="entry-date published"
-                                            datetime="<?php echo date('c', strtotime($article['created_at'])); ?>"
-                                            itemprop="datePublished">
-                                            <?php echo date('d/m/Y', strtotime($article['created_at'])); ?>
-                                        </time>
-                                    </span>
-                                    <span class="byline">by
-                                        <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope>
-                                            <a class="url fn n" href="#" title="View all posts by PT. Anugerah Kubah Indonesia"
-                                                rel="author" itemprop="url">
-                                                <span class="author-name" itemprop="name">PT. Anugerah Kubah Indonesia</span>
-                                            </a>
-                                        </span>
-                                    </span>
+                                <div class="entry-meta" style="margin-top: 10px; color: #666; font-size: 14px;">
+                                    <i class="bi bi-calendar3"></i>
+                                    <time class="entry-date published"
+                                        datetime="<?php echo date('c', strtotime($article['created_at'])); ?>"
+                                        itemprop="datePublished">
+                                        <?php echo date('d F Y', strtotime($article['created_at'])); ?>
+                                    </time>
                                 </div>
                             </header>
 

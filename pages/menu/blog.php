@@ -1571,8 +1571,8 @@ if ($result && $result->num_rows > 0) {
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon" href="../../images/PRODUSEN-gold.png" type="image/png" />
-    <link rel="apple-touch-icon" href="../../images/PRODUSEN-gold.png" />
+    <link rel="icon" href="../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../images/icon.webp" />
     <link rel='stylesheet' id='elementor-post-22203-css'
         href='https://www.jualkubahmasjid.id/wp-content/uploads/elementor/css/post-22203.css?ver=1775776833'
         media='all' />
@@ -1621,7 +1621,7 @@ if ($result && $result->num_rows > 0) {
                                             <div class="elementor-image">
                                                 <a href="#">
                                                     <img width="60" height="2"
-                                                        src="../../images/PRODUSEN-gold.png"
+                                                        src="../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1652,7 +1652,7 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1678,7 +1678,7 @@ if ($result && $result->num_rows > 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1719,7 +1719,7 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="http://localhost/SIKUBAH/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1745,7 +1745,7 @@ if ($result && $result->num_rows > 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"

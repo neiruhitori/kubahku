@@ -1624,8 +1624,8 @@ if (strpos($uri, 'blog') === 0) {
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon" href="./images/PRODUSEN-gold.png" type="image/png" />
-    <link rel="apple-touch-icon" href="./images/PRODUSEN-gold.png" />
+    <link rel="icon" href="./images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="./images/icon.webp" />
     <link rel='stylesheet' id='elementor-post-17338-css'
         href='https://www.jualkubahmasjid.id/wp-content/uploads/elementor/css/post-17338.css?ver=1778159667'
         media='all' />
@@ -1668,7 +1668,7 @@ if (strpos($uri, 'blog') === 0) {
                                             <div class="elementor-image">
                                                 <a href="#">
                                                     <img width="60" height="2"
-                                                        src="./images/PRODUSEN-gold.png"
+                                                        src="./images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1699,7 +1699,7 @@ if (strpos($uri, 'blog') === 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1725,7 +1725,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1766,7 +1766,7 @@ if (strpos($uri, 'blog') === 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="http://localhost/SIKUBAH/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1792,7 +1792,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1872,7 +1872,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                                     <span
                                                                                         class="elementor-divider-separator">
                                                                                         <span
-                                                                                            class="elementor-divider__text elementor-divider__element">QOOBAH</span>
+                                                                                            class="elementor-divider__text elementor-divider__element">PKM</span>
                                                                                     </span>
                                                                                 </div>
                                                                             </div>
@@ -1886,7 +1886,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                                     <span
                                                                                         class="elementor-divider-separator">
                                                                                         <span
-                                                                                            class="elementor-divider__text elementor-divider__element">QOOBAH</span>
+                                                                                            class="elementor-divider__text elementor-divider__element">PKM</span>
                                                                                     </span>
                                                                                 </div>
                                                                             </div>
@@ -1897,8 +1897,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <h1
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Jual Kubah Masjid Profesional &
-                                                                                    Terpercaya</h1>
+                                                                                    Produsen Kubah Masjid</h1>
                                                                             </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-fe04910 elementor-widget elementor-widget-text-editor"
@@ -1951,7 +1950,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                                 <div class="elementor-image">
                                                                                     <img decoding="async" width="510"
                                                                                         height="472"
-                                                                                        src="./images/pw1.webp"
+                                                                                        src="./images/indexpertama.webp"
                                                                                         class="attachment-full size-full"
                                                                                         alt="jual kubah masjid" />
                                                                                 </div>
@@ -2332,7 +2331,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="elementor-image">
                                                                                     <img decoding="async"
-                                                                                        src="http://jualkubahmasjid.id/wp-content/uploads/2023/03/kubah-enamel-1-min.jpg"
+                                                                                        src="./images/bahan-enamel.webp"
                                                                                         title="" alt="" />
                                                                                 </div>
                                                                             </div>
@@ -2363,11 +2362,9 @@ if (strpos($uri, 'blog') === 0) {
                                                                                 <div class="elementor-image">
                                                                                     <img loading="lazy" decoding="async"
                                                                                         width="600" height="600"
-                                                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/2.-kubah-galvalum-square-min-1.jpg"
+                                                                                        src="./images/bahan-galvalum.webp"
                                                                                         class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/2.-kubah-galvalum-square-min-1.jpg 600w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/2.-kubah-galvalum-square-min-1-300x300.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/2.-kubah-galvalum-square-min-1-150x150.jpg 150w"
-                                                                                        sizes="auto, (max-width: 600px) 100vw, 600px" />
+                                                                                        alt=""/>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2395,11 +2392,9 @@ if (strpos($uri, 'blog') === 0) {
                                                                                 <div class="elementor-image">
                                                                                     <img loading="lazy" decoding="async"
                                                                                         width="581" height="581"
-                                                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/3.-kubah-stainless-gold-square-min.jpg"
+                                                                                        src="./images/bahan-stainlessgold.webp"
                                                                                         class="attachment-large size-large"
-                                                                                        alt=""
-                                                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/3.-kubah-stainless-gold-square-min.jpg 581w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/3.-kubah-stainless-gold-square-min-300x300.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/3.-kubah-stainless-gold-square-min-150x150.jpg 150w"
-                                                                                        sizes="auto, (max-width: 581px) 100vw, 581px" />
+                                                                                        alt="" />
                                                                                 </div>
                                                                             </div>
                                                                         </div>

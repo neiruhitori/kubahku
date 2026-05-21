@@ -1466,8 +1466,8 @@
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon" href="../../images/PRODUSEN-gold.png" type="image/png" />
-    <link rel="apple-touch-icon" href="../../images/PRODUSEN-gold.png" />
+    <link rel="icon" href="../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../images/icon.webp" />
 </head>
 
 <body
@@ -1506,7 +1506,7 @@
                                             <div class="elementor-image">
                                                 <a href="#">
                                                     <img width="60" height="2"
-                                                        src="../../images/PRODUSEN-gold.png"
+                                                        src="../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" /> </a>
                                             </div>
@@ -1537,7 +1537,7 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1563,7 +1563,7 @@
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1604,7 +1604,7 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="http://localhost/SIKUBAH/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1630,7 +1630,7 @@
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1767,7 +1767,7 @@
                                                                                     <span
                                                                                         class="elementor-divider-separator">
                                                                                         <span
-                                                                                            class="elementor-divider__text elementor-divider__element">QOOBAH</span>
+                                                                                            class="elementor-divider__text elementor-divider__element">PKM</span>
                                                                                     </span>
                                                                                 </div>
                                                                             </div>
@@ -1807,16 +1807,17 @@
                                                                                         dijamin puas dengan hasil
                                                                                         pengerjaan pembuatan kubah
                                                                                         masjid dari kami.</p>
-                                                                                    <p>Qoobah memiliki 3 macam produk
+                                                                                    <p>PKM memiliki 4 macam produk
                                                                                         unggulan yaitu <a
-                                                                                            href="http://jualkubahmasjid.id/kubah-titanium-gold/"><span
-                                                                                                style="color: #78797b; font-weight: bold;">Kubah
-                                                                                                Titaniun
-                                                                                                Gold</span></a>, <a
-                                                                                            href="http://jualkubahmasjid.id/harga-kubah-enamel-per-m2/"><span
-                                                                                                style="color: #78797b; font-weight: bold;">Kubah
-                                                                                                Enamel</span></a>, dan
-                                                                                        <strong>Kubah Galvalum</strong>:
+                                                                                            href="#"><span
+                                                                                                style="color: #78797b; font-weight: bold;">Model Bawang
+                                                                                            </span></a>, <a
+                                                                                            href="#"><span
+                                                                                                style="color: #78797b; font-weight: bold;">Model Setengah Bola</span></a>
+                                                                                        </span></a>, <a
+                                                                                            href="#"><span
+                                                                                                style="color: #78797b; font-weight: bold;">Model Madina </span></a>, dan
+                                                                                        <strong>Model Pinang</strong>:
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -1959,7 +1960,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image">
                                                             <img decoding="async" width="396" height="366"
-                                                                src="../../images/pw32.webp"
+                                                                src="../../images/1-dot.webp"
                                                                 class="attachment-full size-full" alt="" />
                                                         </div>
                                                     </div>
@@ -1978,8 +1979,7 @@
                                                     data-id="21377e2a" data-element_type="widget"
                                                     data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Kubah
-                                                            Titanium Gold</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Model Bawang</h2>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-1ccc1fe1 elementor-widget elementor-widget-text-editor"
@@ -1988,16 +1988,11 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
                                                             <p><a href="#"
-                                                                    target="_blank" rel="noopener"><strong>Kubah
-                                                                        Titanium Gold</strong></a> adalah kubah panel
-                                                                berbahan plat Stainless Steel 304 Gold. Kandungan plat
-                                                                panel tersebut yaitu Chromium 18%, Nikel 8%, dan
-                                                                Nitrogen sehingga tahan terhadap korosi dan oksidasi
-                                                                yang menimbulkan karat.</p>
+                                                                    target="_blank" rel="noopener"><strong>Kubah Model Bawang</strong></a> adalah kubah dengan desain mengerucut dan membulat menyerupai bentuk bawang yang memberikan kesan megah, elegan, dan klasik pada bangunan masjid. Model kubah ini banyak digunakan karena memiliki nilai estetika tinggi serta mampu mempercantik tampilan arsitektur masjid secara keseluruhan. Selain tampilannya yang indah, kubah model bawang juga dapat dibuat menggunakan material berkualitas sehingga kokoh, tahan cuaca, dan memiliki daya tahan yang lama.</p>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-e861231 elementor-widget elementor-widget-toggle"
+                                                <!-- <div class="elementor-element elementor-element-e861231 elementor-widget elementor-widget-toggle"
                                                     data-id="e861231" data-element_type="widget"
                                                     data-widget_type="toggle.default">
                                                     <div class="elementor-widget-container">
@@ -2118,7 +2113,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -2142,7 +2137,7 @@
                                                         <div class="elementor-image">
                                                             <img loading="lazy" decoding="async" width="406"
                                                                 height="371"
-                                                                src="../../images/pw33.png"
+                                                                src="../../images/2-dot.webp"
                                                                 class="attachment-full size-full" alt="" />
                                                         </div>
                                                     </div>
@@ -2161,8 +2156,7 @@
                                                     data-id="432250f7" data-element_type="widget"
                                                     data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h3 class="elementor-heading-title elementor-size-default">Kubah
-                                                            Enamel</h3>
+                                                        <h3 class="elementor-heading-title elementor-size-default">Model Setengah Bola</h3>
                                                     </div>
                                                 </div>
                                                 <section
@@ -2182,28 +2176,12 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p><strong>Kubah Enamel</strong>
-                                                                                        merupakan kubah panel beratapkan
-                                                                                        plat baja putih yang dilapisi
-                                                                                        cat enamel yang mengandung
-                                                                                        porselen. Proses pelapisan
-                                                                                        enamel membutuhkan suhu
-                                                                                        800<sup>o</sup>C sehingga
-                                                                                        permukaan kubah lebih mengkilat
-                                                                                        halus tanpa pori, lebih keras,
-                                                                                        tahan cuaca, antikorosif, dan
-                                                                                        mudah dibersihkan. Proses
-                                                                                        pelapisan enamel dikerjakan
-                                                                                        langsung oleh <a
-                                                                                            href="https://id.wikipedia.org/wiki/Kedaung_Group"
-                                                                                            target="_blank"
-                                                                                            rel="nofollow noopener"><span
-                                                                                                style="color: #ffffff;">Kedaung
-                                                                                                Group</span>.</a></p>
+                                                                                    <p><a href="#" target="_blank" rel="noopener"><strong>Kubah Model Setengah Bola</strong></a>
+                                                                                        merupakan kubah dengan desain berbentuk hemisfer atau setengah lingkaran yang memberikan kesan sederhana, modern, dan elegan pada bangunan masjid. Model kubah ini memiliki struktur yang kokoh dan aerodinamis sehingga mampu menahan berbagai kondisi cuaca dengan baik. Selain tampilannya yang simetris dan estetik, kubah setengah bola juga mudah dalam perawatan, tahan lama, serta cocok digunakan untuk berbagai konsep arsitektur masjid, baik minimalis maupun klasik.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="elementor-element elementor-element-5a71f3a elementor-widget elementor-widget-toggle"
+                                                                        <!-- <div class="elementor-element elementor-element-5a71f3a elementor-widget elementor-widget-toggle"
                                                                             data-id="5a71f3a" data-element_type="widget"
                                                                             data-widget_type="toggle.default">
                                                                             <div class="elementor-widget-container">
@@ -2365,7 +2343,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> -->
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2433,6 +2411,24 @@
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
+                                                                                            <div class="elementor-repeater-item-5e8d912 swiper-slide">
+                                                                                                <div class="swiper-slide-bg"></div>
+                                                                                                <div class="swiper-slide-inner">
+                                                                                                    <div class="swiper-slide-contents"></div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-repeater-item-f3c7a4e swiper-slide">
+                                                                                                <div class="swiper-slide-bg"></div>
+                                                                                                <div class="swiper-slide-inner">
+                                                                                                    <div class="swiper-slide-contents"></div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-repeater-item-8b4d1f6 swiper-slide">
+                                                                                                <div class="swiper-slide-bg"></div>
+                                                                                                <div class="swiper-slide-inner">
+                                                                                                    <div class="swiper-slide-contents"></div>
+                                                                                                </div>
+                                                                                            </div>
                                                                                         </div>
                                                                                         <div class="swiper-pagination">
                                                                                         </div>
@@ -2484,7 +2480,7 @@
                                                         <div class="elementor-image">
                                                             <img loading="lazy" decoding="async" width="400"
                                                                 height="371"
-                                                                src="../../images/pw34.png"
+                                                                src="../../images/3-dot.webp"
                                                                 class="attachment-large size-large" alt="" />
                                                         </div>
                                                     </div>
@@ -2503,8 +2499,7 @@
                                                     data-id="ab0250a" data-element_type="widget"
                                                     data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h4 class="elementor-heading-title elementor-size-default">Kubah
-                                                            Galvalum</h4>
+                                                        <h4 class="elementor-heading-title elementor-size-default">Model Madina</h4>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-94c73a9 elementor-widget elementor-widget-spacer"
@@ -2534,18 +2529,12 @@
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
                                                                                     <p><a
-                                                                                            href="https://www.jualkubahmasjid.id/kubah-galvalum/"><b>Kubah
-                                                                                                Galvalum</b></a>
-                                                                                        merupakan kubah panel beratapkan
-                                                                                        plat galvalum. Kandungan <b>plat
-                                                                                            galvalum</b> tersebut
-                                                                                        kombinasi besi baja yang
-                                                                                        dilapisi aluminium 55%, seng
-                                                                                        43,5%, dan silikon 1,5%.</p>
+                                                                                            href="#"><b>Model Madina</b></a>
+                                                                                        merupakan kubah dengan desain khas yang terinspirasi dari arsitektur Timur Tengah, khususnya gaya masjid di Madinah. Model kubah ini memiliki bentuk elegan dengan perpaduan lekukan yang indah sehingga memberikan kesan mewah, megah, dan islami pada bangunan masjid. Selain mempercantik tampilan eksterior, kubah model Madinah juga dibuat dengan konstruksi yang kokoh, tahan terhadap berbagai kondisi cuaca, antikarat, serta memiliki daya tahan yang lama sehingga cocok digunakan untuk masjid modern maupun tradisional.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="elementor-element elementor-element-50c10a7 elementor-widget elementor-widget-toggle"
+                                                                        <!-- <div class="elementor-element elementor-element-50c10a7 elementor-widget elementor-widget-toggle"
                                                                             data-id="50c10a7" data-element_type="widget"
                                                                             data-widget_type="toggle.default">
                                                                             <div class="elementor-widget-container">
@@ -2709,7 +2698,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> -->
                                                                         <div class="elementor-element elementor-element-cb06862 elementor-widget elementor-widget-spacer"
                                                                             data-id="cb06862" data-element_type="widget"
                                                                             data-widget_type="spacer.default">
@@ -2777,6 +2766,330 @@
                                                                                             </div>
                                                                                             <div
                                                                                                 class="elementor-repeater-item-4002b95 swiper-slide">
+                                                                                                <div
+                                                                                                    class="swiper-slide-bg">
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="swiper-slide-inner">
+                                                                                                    <div
+                                                                                                        class="swiper-slide-contents">
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="elementor-repeater-item-a1b2c3d swiper-slide">
+                                                                                                <div
+                                                                                                    class="swiper-slide-bg">
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="swiper-slide-inner">
+                                                                                                    <div
+                                                                                                        class="swiper-slide-contents">
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="elementor-repeater-item-e4f5g6h swiper-slide">
+                                                                                                <div
+                                                                                                    class="swiper-slide-bg">
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="swiper-slide-inner">
+                                                                                                    <div
+                                                                                                        class="swiper-slide-contents">
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="elementor-repeater-item-i7j8k9l swiper-slide">
+                                                                                                <div
+                                                                                                    class="swiper-slide-bg">
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="swiper-slide-inner">
+                                                                                                    <div
+                                                                                                        class="swiper-slide-contents">
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="swiper-pagination">
+                                                                                        </div>
+                                                                                        <div
+                                                                                            class="elementor-swiper-button elementor-swiper-button-prev">
+                                                                                            <i class="eicon-chevron-left"
+                                                                                                aria-hidden="true"></i>
+                                                                                            <span
+                                                                                                class="elementor-screen-only">Previous</span>
+                                                                                        </div>
+                                                                                        <div
+                                                                                            class="elementor-swiper-button elementor-swiper-button-next">
+                                                                                            <i class="eicon-chevron-right"
+                                                                                                aria-hidden="true"></i>
+                                                                                            <span
+                                                                                                class="elementor-screen-only">Next</span>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section
+                            class="elementor-section elementor-top-section elementor-element elementor-element-1c9672d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                            data-id="1c9672d1" data-element_type="section" id="detail">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-row">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4510e059"
+                                        data-id="4510e059" data-element_type="column"
+                                        data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+                                        <div class="elementor-column-wrap elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-a709656 elementor-widget elementor-widget-image"
+                                                    data-id="a709656" data-element_type="widget"
+                                                    data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-image">
+                                                            <img loading="lazy" decoding="async" width="406"
+                                                                height="371"
+                                                                src="../../images/4-dot.webp"
+                                                                class="attachment-full size-full" alt="" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-3aac4669 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                    data-id="3aac4669" data-element_type="widget"
+                                                    data-widget_type="divider.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-divider">
+                                                            <span class="elementor-divider-separator">
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-432250f7 elementor-widget elementor-widget-heading"
+                                                    data-id="432250f7" data-element_type="widget"
+                                                    data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h3 class="elementor-heading-title elementor-size-default">Model Pinang</h3>
+                                                    </div>
+                                                </div>
+                                                <section
+                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-5cd4b5e1 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                    data-id="5cd4b5e1" data-element_type="section">
+                                                    <div class="elementor-container elementor-column-gap-wide">
+                                                        <div class="elementor-row">
+                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9fbb072"
+                                                                data-id="9fbb072" data-element_type="column">
+                                                                <div
+                                                                    class="elementor-column-wrap elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-21598837 elementor-widget elementor-widget-text-editor"
+                                                                            data-id="21598837"
+                                                                            data-element_type="widget"
+                                                                            data-widget_type="text-editor.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div
+                                                                                    class="elementor-text-editor elementor-clearfix">
+                                                                                    <p><a href="#" target="_blank" rel="noopener"><strong>Kubah Model Pinang</strong></a>
+                                                                                        merupakan kubah dengan desain ramping dan menjulang yang terinspirasi dari bentuk buah pinang. Model kubah ini memberikan kesan anggun, megah, dan modern pada bangunan masjid sehingga banyak digunakan untuk memperindah tampilan arsitektur. Dengan bentuknya yang proporsional dan estetis, kubah model pinang mampu menciptakan tampilan masjid yang lebih elegan dan menarik. Selain itu, kubah ini juga dibuat dengan konstruksi yang kokoh, tahan cuaca, antikarat, serta memiliki daya tahan yang lama untuk penggunaan jangka panjang.</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- <div class="elementor-element elementor-element-5a71f3a elementor-widget elementor-widget-toggle"
+                                                                            data-id="5a71f3a" data-element_type="widget"
+                                                                            data-widget_type="toggle.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-toggle"
+                                                                                    role="tablist">
+                                                                                    <div class="elementor-toggle-item">
+                                                                                        <div id="elementor-tab-title-9481"
+                                                                                            class="elementor-tab-title"
+                                                                                            data-tab="1" role="tab"
+                                                                                            aria-controls="elementor-tab-content-9481">
+                                                                                            <span
+                                                                                                class="elementor-toggle-icon elementor-toggle-icon-"
+                                                                                                aria-hidden="true">
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-closed"><i
+                                                                                                        class="fas fa-angle-double-down"></i></span>
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-opened"><i
+                                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+                                                                                            </span>
+                                                                                            <a href=""
+                                                                                                class="elementor-toggle-title">Rangka
+                                                                                                Kubah</a>
+                                                                                        </div>
+                                                                                        <div id="elementor-tab-content-9481"
+                                                                                            class="elementor-tab-content elementor-clearfix"
+                                                                                            data-tab="1" role="tabpanel"
+                                                                                            aria-labelledby="elementor-tab-title-9481">
+                                                                                            <ul>
+                                                                                                <li>Rangka primer Pipa
+                                                                                                    Galvanis dengan
+                                                                                                    ukuran 2 inchi tebal
+                                                                                                    1,6 mm.</li>
+                                                                                                <li>Rangka Pendukung
+                                                                                                    Hollow 1,5 x 3,5 cm,
+                                                                                                    tebal 0,7 mm</li>
+                                                                                            </ul>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="elementor-toggle-item">
+                                                                                        <div id="elementor-tab-title-9482"
+                                                                                            class="elementor-tab-title"
+                                                                                            data-tab="2" role="tab"
+                                                                                            aria-controls="elementor-tab-content-9482">
+                                                                                            <span
+                                                                                                class="elementor-toggle-icon elementor-toggle-icon-"
+                                                                                                aria-hidden="true">
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-closed"><i
+                                                                                                        class="fas fa-angle-double-down"></i></span>
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-opened"><i
+                                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+                                                                                            </span>
+                                                                                            <a href=""
+                                                                                                class="elementor-toggle-title">Atap
+                                                                                                Kubah</a>
+                                                                                        </div>
+                                                                                        <div id="elementor-tab-content-9482"
+                                                                                            class="elementor-tab-content elementor-clearfix"
+                                                                                            data-tab="2" role="tabpanel"
+                                                                                            aria-labelledby="elementor-tab-title-9482">
+                                                                                            <ul>
+                                                                                                <li>Bahan terbuat dari
+                                                                                                    <b>plat besi SPCC SD
+                                                                                                        0,9 &#8211; 1
+                                                                                                        mm</b> (Spek
+                                                                                                    Enamel Grade).
+                                                                                                </li>
+                                                                                                <li>Finishing Coating
+                                                                                                    Enamel dengan
+                                                                                                    800-900 Celcius.
+                                                                                                </li>
+                                                                                                <li>Garansi ketahanan
+                                                                                                    <strong>warna hingga
+                                                                                                        20
+                                                                                                        tahun</strong>.
+                                                                                                </li>
+                                                                                            </ul>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="elementor-toggle-item">
+                                                                                        <div id="elementor-tab-title-9483"
+                                                                                            class="elementor-tab-title"
+                                                                                            data-tab="3" role="tab"
+                                                                                            aria-controls="elementor-tab-content-9483">
+                                                                                            <span
+                                                                                                class="elementor-toggle-icon elementor-toggle-icon-"
+                                                                                                aria-hidden="true">
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-closed"><i
+                                                                                                        class="fas fa-angle-double-down"></i></span>
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-opened"><i
+                                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+                                                                                            </span>
+                                                                                            <a href=""
+                                                                                                class="elementor-toggle-title">Plafon
+                                                                                                Kubah</a>
+                                                                                        </div>
+                                                                                        <div id="elementor-tab-content-9483"
+                                                                                            class="elementor-tab-content elementor-clearfix"
+                                                                                            data-tab="3" role="tabpanel"
+                                                                                            aria-labelledby="elementor-tab-title-9483">
+                                                                                            <ul>
+                                                                                                <li>Bahan Kalsiboard 3
+                                                                                                    mm finishing cat
+                                                                                                    dinding dengan
+                                                                                                    lukisan Motif Awan.
+                                                                                                </li>
+                                                                                                <li>Waterproofing
+                                                                                                    Membrane Ethorching
+                                                                                                    System setebal 3 mm.
+                                                                                                </li>
+                                                                                                <li>Rangka menggunakan
+                                                                                                    pipa galvanis 1,25
+                                                                                                    inch tebal 1,6 mm
+                                                                                                    dan Hollow 1,5 x 3,5
+                                                                                                    cm.</li>
+                                                                                            </ul>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                    <div class="elementor-toggle-item">
+                                                                                        <div id="elementor-tab-title-9484"
+                                                                                            class="elementor-tab-title"
+                                                                                            data-tab="4" role="tab"
+                                                                                            aria-controls="elementor-tab-content-9484">
+                                                                                            <span
+                                                                                                class="elementor-toggle-icon elementor-toggle-icon-"
+                                                                                                aria-hidden="true">
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-closed"><i
+                                                                                                        class="fas fa-angle-double-down"></i></span>
+                                                                                                <span
+                                                                                                    class="elementor-toggle-icon-opened"><i
+                                                                                                        class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+                                                                                            </span>
+                                                                                            <a href=""
+                                                                                                class="elementor-toggle-title">Aksesoris
+                                                                                                Kubah</a>
+                                                                                        </div>
+                                                                                        <div id="elementor-tab-content-9484"
+                                                                                            class="elementor-tab-content elementor-clearfix"
+                                                                                            data-tab="4" role="tabpanel"
+                                                                                            aria-labelledby="elementor-tab-title-9484">
+                                                                                            <ul>
+                                                                                                <li>Makara kubah/mahkota
+                                                                                                    kubah: hiasan ujung
+                                                                                                    kubah bagian luar
+                                                                                                    bahan galvalume
+                                                                                                    warna gold atau
+                                                                                                    sesuai keinginan.
+                                                                                                </li>
+                                                                                                <li><strong>Bonus</strong>:
+                                                                                                    Penangkal Petir.
+                                                                                                </li>
+                                                                                            </ul>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div> -->
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b76a4c0"
+                                                                data-id="b76a4c0" data-element_type="column">
+                                                                <div
+                                                                    class="elementor-column-wrap elementor-element-populated">
+                                                                    <div class="elementor-widget-wrap">
+                                                                        <div class="elementor-element elementor-element-4pinang elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides"
+                                                                            data-id="4pinang" data-element_type="widget"
+                                                                            data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}"
+                                                                            data-widget_type="slides.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="elementor-swiper">
+                                                                                    <div class="elementor-slides-wrapper elementor-main-swiper swiper-container"
+                                                                                        dir="ltr"
+                                                                                        data-animation="fadeInUp">
+                                                                                        <div
+                                                                                            class="swiper-wrapper elementor-slides">
+                                                                                            <div
+                                                                                                class="elementor-repeater-item-p1n4ng swiper-slide">
                                                                                                 <div
                                                                                                     class="swiper-slide-bg">
                                                                                                 </div>
@@ -3354,6 +3667,502 @@
             a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
         });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
+    </script>
+
+    <!-- Custom Slider Images Style - OVERRIDE External CSS -->
+    <style>
+        /* FORCE OVERRIDE - Prioritas tinggi untuk gambar lokal */
+        /* Specificity tinggi untuk override CSS eksternal */
+
+        /* Model Bawang - Slider 1 */
+        .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-2d9da26 .swiper-slide-bg,
+        .elementor-element-1218565 .swiper-slide.elementor-repeater-item-2d9da26>.swiper-slide-bg {
+            background-image: url('../../images/pw10.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
+        .elementor-element-1218565 .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
+            background-image: url('../../images/pw27.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
+        .elementor-element-1218565 .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
+            background-image: url('../../images/pw3.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
+        .elementor-element-1218565 .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
+            background-image: url('../../images/pw26.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        /* Sembunyikan slide kelima Model 1 (sisa dari server) */
+        .elementor-element-1218565 .swiper-slide.elementor-repeater-item-463698c {
+            display: none !important;
+        }
+
+        /* Model Setengah Bola - Slider 2 (7 gambar) */
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
+            background-image: url('../../images/pw1.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
+            background-image: url('../../images/pw9.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
+            background-image: url('../../images/pw13.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-ee9f858 .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-ee9f858>.swiper-slide-bg {
+            background-image: url('../../images/pw6.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-5e8d912 .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-5e8d912>.swiper-slide-bg {
+            background-image: url('../../images/pw19.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-f3c7a4e .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-f3c7a4e>.swiper-slide-bg {
+            background-image: url('../../images/pw4.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-8b4d1f6 .swiper-slide-bg,
+        .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-8b4d1f6>.swiper-slide-bg {
+            background-image: url('../../images/pw11.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        /* Model Pinang - Slider 4 (1 Gambar) */
+        .elementor-widget-slides .elementor-element-4pinang .swiper-slide.elementor-repeater-item-p1n4ng .swiper-slide-bg,
+        .elementor-element-4pinang .swiper-slide.elementor-repeater-item-p1n4ng>.swiper-slide-bg {
+            background-image: url('../../images/pw5.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        /* Model Madina - Slider 3 (7 Gambar) */
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
+            background-image: url('../../images/pw2.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
+            background-image: url('../../images/pw25.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
+            background-image: url('../../images/pw32.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-4002b95 .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-4002b95>.swiper-slide-bg {
+            background-image: url('../../images/pw38.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-a1b2c3d .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-a1b2c3d>.swiper-slide-bg {
+            background-image: url('../../images/pw18.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-e4f5g6h .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-e4f5g6h>.swiper-slide-bg {
+            background-image: url('../../images/pw24.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-i7j8k9l .swiper-slide-bg,
+        .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-i7j8k9l>.swiper-slide-bg {
+            background-image: url('../../images/pw12.webp') !important;
+            background-size: cover !important;
+            background-position: center !important;
+        }
+
+        /* Universal styling untuk semua slider */
+        .elementor-widget-slides .swiper-container {
+            background-color: #f5f5f5 !important;
+        }
+
+        .elementor-widget-slides .swiper-slide {
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+        }
+
+        /* Slider styles untuk semua swiper */
+        .swiper-slide-bg {
+            position: absolute !important;
+            top: 0 !important;
+            left: 0 !important;
+            width: 100% !important;
+            height: 100% !important;
+            z-index: 0 !important;
+            transition: transform 0.3s ease !important;
+            background-size: cover !important;
+            background-position: center !important;
+            background-repeat: no-repeat !important;
+        }
+
+        .swiper-slide-inner {
+            position: relative !important;
+            z-index: 1 !important;
+        }
+
+        /* Ukuran slider konsisten seperti Model Madina - Square/Landscape */
+        .elementor-slides-wrapper.swiper-container {
+            width: 100% !important;
+            height: 420px !important;
+            max-width: 100% !important;
+            border-radius: 12px !important;
+            overflow: hidden !important;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2) !important;
+        }
+
+        .elementor-slides-wrapper .swiper-slide {
+            width: 100% !important;
+            height: 420px !important;
+            overflow: hidden !important;
+        }
+
+        .elementor-slides-wrapper .swiper-slide-bg {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+        }
+
+        /* Tombol navigasi slider - Lebih besar dan jelas */
+        .elementor-swiper-button {
+            background-color: rgba(255, 193, 7, 0.9) !important;
+            color: #000 !important;
+            width: 45px !important;
+            height: 45px !important;
+            border-radius: 50% !important;
+            transition: all 0.3s ease !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            cursor: pointer !important;
+            z-index: 10 !important;
+            position: absolute !important;
+            top: 50% !important;
+            transform: translateY(-50%) !important;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3) !important;
+        }
+
+        .elementor-swiper-button-prev {
+            left: 10px !important;
+        }
+
+        .elementor-swiper-button-next {
+            right: 10px !important;
+        }
+
+        .elementor-swiper-button:hover {
+            background-color: rgba(255, 193, 7, 1) !important;
+            transform: translateY(-50%) scale(1.15) !important;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5) !important;
+        }
+
+        /* Icon di dalam tombol */
+        .elementor-swiper-button i {
+            font-size: 24px !important;
+            color: #000 !important;
+            font-weight: bold !important;
+            display: block !important;
+            line-height: 1 !important;
+        }
+
+        /* Fallback jika icon tidak muncul - gunakan arrow unicode */
+        .elementor-swiper-button-prev::before {
+            content: '‹' !important;
+            font-size: 36px !important;
+            font-weight: bold !important;
+            color: #000 !important;
+            position: absolute !important;
+            left: 50% !important;
+            top: 50% !important;
+            transform: translate(-50%, -50%) !important;
+            z-index: 1 !important;
+        }
+
+        .elementor-swiper-button-next::before {
+            content: '›' !important;
+            font-size: 36px !important;
+            font-weight: bold !important;
+            color: #000 !important;
+            position: absolute !important;
+            left: 50% !important;
+            top: 50% !important;
+            transform: translate(-50%, -50%) !important;
+            z-index: 1 !important;
+        }
+
+        /* Sembunyikan text screen reader */
+        .elementor-screen-only {
+            position: absolute !important;
+            width: 1px !important;
+            height: 1px !important;
+            overflow: hidden !important;
+            clip: rect(1px, 1px, 1px, 1px) !important;
+        }
+
+        /* Pagination dots */
+        .swiper-pagination {
+            bottom: 15px !important;
+            z-index: 10 !important;
+        }
+
+        .swiper-pagination-bullet {
+            background-color: #fff !important;
+            opacity: 0.6 !important;
+            width: 10px !important;
+            height: 10px !important;
+            margin: 0 5px !important;
+            transition: all 0.3s ease !important;
+        }
+
+        .swiper-pagination-bullet-active {
+            opacity: 1 !important;
+            background-color: #FFC107 !important;
+            width: 12px !important;
+            height: 12px !important;
+        }
+
+        /* Smooth transition untuk slides */
+        .swiper-slide {
+            transition: transform 0.5s ease-in-out !important;
+        }
+
+        /* Responsive untuk mobile */
+        @media (max-width: 768px) {
+            .elementor-slides-wrapper.swiper-container {
+                height: 320px !important;
+            }
+
+            .elementor-slides-wrapper .swiper-slide {
+                height: 320px !important;
+            }
+
+            .elementor-swiper-button {
+                width: 35px !important;
+                height: 35px !important;
+            }
+
+            .elementor-swiper-button i {
+                font-size: 18px !important;
+            }
+
+            .elementor-swiper-button-prev {
+                left: 5px !important;
+            }
+
+            .elementor-swiper-button-next {
+                right: 5px !important;
+            }
+
+            .elementor-swiper-button-prev::before,
+            .elementor-swiper-button-next::before {
+                font-size: 28px !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .elementor-slides-wrapper.swiper-container {
+                height: 240px !important;
+            }
+
+            .elementor-slides-wrapper .swiper-slide {
+                height: 240px !important;
+            }
+
+            .elementor-swiper-button {
+                width: 30px !important;
+                height: 30px !important;
+            }
+
+            .elementor-swiper-button-prev::before,
+            .elementor-swiper-button-next::before {
+                font-size: 24px !important;
+            }
+        }
+
+        /* Ensure gambar tidak distorsi - selalu cover penuh container */
+        .swiper-slide img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+            object-position: center !important;
+        }
+    </style>
+
+    <script>
+        // Initialize swiper sliders
+        document.addEventListener('DOMContentLoaded', function() {
+            // Cek jika Swiper sudah tersedia
+            if (typeof Swiper !== 'undefined') {
+                console.log('Swiper initialized successfully');
+            } else {
+                console.warn('Swiper library not loaded');
+            }
+
+            // FORCE override gambar slider dengan gambar lokal
+            function forceLocalImages() {
+                // Model Bawang - Slider 1
+                const slider1Images = {
+                    '2d9da26': 'pw10.webp',
+                    'c6a286f': 'pw27.webp',
+                    'b646caf': 'pw3.webp',
+                    '1bbf9b8': 'pw26.webp',
+                };
+
+                // Model Setengah Bola - Slider 2 (7 gambar)
+                const slider2Images = {
+                    'c6a286f': 'pw1.webp',
+                    'b646caf': 'pw9.webp',
+                    '1bbf9b8': 'pw13.webp',
+                    'ee9f858': 'pw6.webp',
+                    '5e8d912': 'pw19.webp',
+                    'f3c7a4e': 'pw4.webp',
+                    '8b4d1f6': 'pw11.webp'
+                };
+
+                // Model Pinang - Slider 4 (1 Gambar)
+                const slider4Images = {
+                    'p1n4ng': 'pw5.webp'
+                };
+
+                // Model Madina - Slider 3 (7 Gambar)
+                const slider3Images = {
+                    'c6a286f': 'pw2.webp',
+                    'b646caf': 'pw25.webp',
+                    '1bbf9b8': 'pw32.webp',
+                    '4002b95': 'pw38.webp',
+                    'a1b2c3d': 'pw18.webp',
+                    'e4f5g6h': 'pw24.webp',
+                    'i7j8k9l': 'pw12.webp'
+                };
+
+                // Model Pinang - Slider 4 (1 Gambar)
+                const slider4Images = {
+                    'p1n4ng': 'pw5.webp'
+                };
+
+                // Apply slider 1
+                Object.keys(slider1Images).forEach(key => {
+                    const slides = document.querySelectorAll('.elementor-element-1218565 .elementor-repeater-item-' + key + ' .swiper-slide-bg');
+                    slides.forEach(slide => {
+                        slide.style.backgroundImage = 'url(../../images/' + slider1Images[key] + ')';
+                        slide.style.backgroundSize = 'cover';
+                        slide.style.backgroundPosition = 'center';
+                    });
+                });
+
+                // Apply slider 2
+                Object.keys(slider2Images).forEach(key => {
+                    const slides = document.querySelectorAll('.elementor-element-d1ae1fe .elementor-repeater-item-' + key + ' .swiper-slide-bg');
+                    slides.forEach(slide => {
+                        slide.style.backgroundImage = 'url(../../images/' + slider2Images[key] + ')';
+                        slide.style.backgroundSize = 'cover';
+                        slide.style.backgroundPosition = 'center';
+                    });
+                });
+
+                // Apply slider 3
+                Object.keys(slider3Images).forEach(key => {
+                    const slides = document.querySelectorAll('.elementor-element-ef2cc53 .elementor-repeater-item-' + key + ' .swiper-slide-bg');
+                    slides.forEach(slide => {
+                        slide.style.backgroundImage = 'url(../../images/' + slider3Images[key] + ')';
+                        slide.style.backgroundSize = 'cover';
+                        slide.style.backgroundPosition = 'center';
+                    });
+                });
+
+                // Apply slider 4
+                Object.keys(slider4Images).forEach(key => {
+                    const slides = document.querySelectorAll('.elementor-element-4pinang .elementor-repeater-item-' + key + ' .swiper-slide-bg');
+                    slides.forEach(slide => {
+                        slide.style.backgroundImage = 'url(../../images/' + slider4Images[key] + ')';
+                        slide.style.backgroundSize = 'cover';
+                        slide.style.backgroundPosition = 'center';
+                    });
+                });
+            }
+
+            // Jalankan saat DOM ready
+            forceLocalImages();
+
+            // Jalankan lagi setelah 500ms untuk memastikan
+            setTimeout(forceLocalImages, 500);
+            setTimeout(forceLocalImages, 1000);
+
+            // Pastikan tombol navigasi terlihat
+            const navButtons = document.querySelectorAll('.elementor-swiper-button');
+            navButtons.forEach(btn => {
+                btn.style.display = 'flex';
+                btn.style.visibility = 'visible';
+                btn.style.opacity = '1';
+            });
+
+            // Tambahkan event listener untuk tombol
+            const prevButtons = document.querySelectorAll('.elementor-swiper-button-prev');
+            const nextButtons = document.querySelectorAll('.elementor-swiper-button-next');
+
+            prevButtons.forEach(btn => {
+                btn.addEventListener('mouseenter', function() {
+                    this.style.backgroundColor = 'rgba(255, 193, 7, 1)';
+                });
+                btn.addEventListener('mouseleave', function() {
+                    this.style.backgroundColor = 'rgba(255, 193, 7, 0.9)';
+                });
+            });
+
+            nextButtons.forEach(btn => {
+                btn.addEventListener('mouseenter', function() {
+                    this.style.backgroundColor = 'rgba(255, 193, 7, 1)';
+                });
+                btn.addEventListener('mouseleave', function() {
+                    this.style.backgroundColor = 'rgba(255, 193, 7, 0.9)';
+                });
+            });
+        });
     </script>
 
 </body>

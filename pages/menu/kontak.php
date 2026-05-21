@@ -1466,8 +1466,8 @@
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon" href="../../images/PRODUSEN-gold.png" type="image/png" />
-    <link rel="apple-touch-icon" href="../../images/PRODUSEN-gold.png" />
+    <link rel="icon" href="../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../images/icon.webp" />
     <link rel='stylesheet' id='elementor-gallery-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0'
         media='all' />
@@ -1508,9 +1508,9 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="../../images/PRODUSEN-gold.png">
+                                                <a href="../../images/icon.webp">
                                                     <img width="60" height="2"
-                                                        src="../../images/PRODUSEN-gold.png"
+                                                        src="../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
                                                         decoding="async" fetchpriority="high" />
                                                 </a>
@@ -1542,7 +1542,7 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1568,7 +1568,7 @@
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1609,7 +1609,7 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
-                                                    <!-- <li
+                                                    <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="http://localhost/SIKUBAH/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
@@ -1635,7 +1635,7 @@
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
-                                                    </li> -->
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
@@ -1692,7 +1692,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image">
                                                             <img decoding="async" width="175" height="128"
-                                                                src="../../images/PRODUSEN-gold.png"
+                                                                src="../../images/icon.webp"
                                                                 class="attachment-large size-large" alt="" />
                                                         </div>
                                                     </div>
