@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Qoobah PT. Kubah Mandiri Indonesia Jasa Kubah Harga Murah</title>
+    <title>PKM - Produsen Kubah Masjid</title>
 
     <!-- All in One SEO 4.9.7.1 - aioseo.com -->
     <meta name="description"
@@ -1466,16 +1466,8 @@
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-32x32.png"
-        sizes="32x32" />
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-270x270.png" />
+    <link rel="icon" href="../../images/PRODUSEN-gold.png" type="image/png" />
+    <link rel="apple-touch-icon" href="../../images/PRODUSEN-gold.png" />
     <link rel='stylesheet' id='elementor-gallery-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0'
         media='all' />
@@ -1736,7 +1728,7 @@
                                                             <img decoding="async" width="752" height="510"
                                                                 src="../../images/pw4.webp"
                                                                 class="attachment-large size-large" alt=""
-                                                                srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2022/11/pt-qoobah-kediri-min.png 752w, https://www.jualkubahmasjid.id/wp-content/uploads/2022/11/pt-qoobah-kediri-min-300x203.png 300w"
+                                                                srcset="../../images/headerkontak.png 752w, ../../images/headerkontak.png 300w"
                                                                 sizes="(max-width: 752px) 100vw, 752px" />
                                                         </div>
                                                     </div>

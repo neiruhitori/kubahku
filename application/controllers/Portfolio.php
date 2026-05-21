@@ -23,167 +23,6 @@ class Portfolio extends Controller {
         
         $this->load_view('admin/portfolio/index', $data);
     }
-    
-    // Tampilkan form create
-    public function create() {
-        $data['title'] = 'Tambah Portfolio - SIKUBAH';
-        $data['action'] = 'create';
-        $data['portfolio'] = [];
-        
-        $this->load_view('admin/portfolio/form', $data);
-    }
-    
-    // Save portfolio baru
-    public function store() {
-        if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
-            header('Location: /SIKUBAH/portfolio');
-            exit;
-        }
-        
-        $title = isset($_POST['title']) ? trim($_POST['title']) : '';
-        $description = isset($_POST['description']) ? trim($_POST['description']) : '';
-        $image_alt = isset($_POST['image_alt']) ? trim($_POST['image_alt']) : '';
-        $order_number = isset($_POST['order_number']) ? intval($_POST['order_number']) : 0;
-        
-        if (empty($title)) {
-            $_SESSION['error'] = 'Judul portfolio harus diisi!';
-            header('Location: /SIKUBAH/portfolio/create');
-            exit;
-        }
-        
-        // Handle image upload
-        $image_path = '';
-        if (isset($_FILES['portfolio_image']) && $_FILES['portfolio_image']['error'] === UPLOAD_ERR_OK) {
-            $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
-            if (!$image_path) {
-                $_SESSION['error'] = 'Gagal upload gambar!';
-                header('Location: /SIKUBAH/portfolio/create');
-                exit;
-            }
-        } else {
-            $_SESSION['error'] = 'Gambar harus diupload!';
-            header('Location: /SIKUBAH/portfolio/create');
-            exit;
-        }
-        
-        $sql = "INSERT INTO portfolios (title, description, image, image_alt, order_number) 
-                VALUES (
-                    '" . $this->db->escape_string($title) . "',
-                    '" . $this->db->escape_string($description) . "',
-                    '" . $this->db->escape_string($image_path) . "',
-                    '" . $this->db->escape_string($image_alt) . "',
-                    " . $order_number . "
-                )";
-        
-        if ($this->db->query($sql)) {
-            $_SESSION['success'] = 'Portfolio berhasil ditambahkan!';
-        } else {
-            $_SESSION['error'] = 'Gagal menambah portfolio: ' . $this->db->conn->error;
-        }
-        
-        header('Location: /SIKUBAH/portfolio');
-        exit;
-    }
-    
-    // Tampilkan form edit
-    public function edit($id = null) {
-        if (!$id) {
-            header('Location: /SIKUBAH/portfolio');
-            exit;
-        }
-        
-        $sql = "SELECT * FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
-        $result = $this->db->query($sql);
-        
-        if (!$result || $result->num_rows === 0) {
-            $_SESSION['error'] = 'Portfolio tidak ditemukan!';
-            header('Location: /SIKUBAH/portfolio');
-            exit;
-        }
-        
-        $data['title'] = 'Edit Portfolio - SIKUBAH';
-        $data['action'] = 'edit';
-        $data['portfolio'] = $result->fetch_assoc();
-        
-        $this->load_view('admin/portfolio/form', $data);
-    }
-    
-    // Update portfolio
-    public function update($id = null) {
-        if ($_SERVER['REQUEST_METHOD'] !== 'POST' || !$id) {
-            header('Location: /SIKUBAH/portfolio');
-            exit;
-        }
-        
-        $title = isset($_POST['title']) ? trim($_POST['title']) : '';
-        $description = isset($_POST['description']) ? trim($_POST['description']) : '';
-        $image_alt = isset($_POST['image_alt']) ? trim($_POST['image_alt']) : '';
-        $order_number = isset($_POST['order_number']) ? intval($_POST['order_number']) : 0;
-        
-        if (empty($title)) {
-            $_SESSION['error'] = 'Judul portfolio harus diisi!';
-            header('Location: /SIKUBAH/portfolio/edit/' . $id);
-            exit;
-        }
-        
-        // Get current portfolio
-        $sql_get = "SELECT image FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
-        $result_get = $this->db->query($sql_get);
-        $current_portfolio = $result_get->fetch_assoc();
-        $image_path = $current_portfolio['image'];
-        
-        // Handle image upload if new image provided
-        if (isset($_FILES['portfolio_image']) && $_FILES['portfolio_image']['error'] === UPLOAD_ERR_OK) {
-            // Delete old image
-            if ($current_portfolio['image'] && file_exists(__DIR__ . '/../../' . $current_portfolio['image'])) {
-                @unlink(__DIR__ . '/../../' . $current_portfolio['image']);
-            }
-            
-            // Upload and convert new image
-            $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
-            if (!$image_path) {
-                $_SESSION['error'] = 'Gagal upload gambar!';
-                header('Location: /SIKUBAH/portfolio/edit/' . $id);
-                exit;
-            }
-        }
-        
-        $sql = "UPDATE portfolios SET 
-                title = '" . $this->db->escape_string($title) . "',
-                description = '" . $this->db->escape_string($description) . "',
-                image = '" . $this->db->escape_string($image_path) . "',
-                image_alt = '" . $this->db->escape_string($image_alt) . "',
-                order_number = " . $order_number . "
-                WHERE id = " . intval($id);
-        
-        if ($this->db->query($sql)) {
-            $_SESSION['success'] = 'Portfolio berhasil diupdate!';
-        } else {
-            $_SESSION['error'] = 'Gagal mengupdate portfolio: ' . $this->db->conn->error;
-        }
-        
-        header('Location: /SIKUBAH/portfolio');
-        exit;
-    }
-    
-    // Delete portfolio
-    public function delete($id = null) {
-        if (!$id) {
-            header('Location: /SIKUBAH/portfolio');
-            exit;
-        }
-        
-        $sql = "DELETE FROM portfolios WHERE id = " . intval($id);
-        
-        if ($this->db->query($sql)) {
-            $_SESSION['success'] = 'Portfolio berhasil dihapus!';
-        } else {
-            $_SESSION['error'] = 'Gagal menghapus portfolio!';
-        }
-        
-        header('Location: /SIKUBAH/portfolio');
-        exit;
-    }
 
     // Return create form HTML for AJAX modal
     public function form_create()
@@ -247,7 +86,6 @@ class Portfolio extends Controller {
         $id = isset($_POST['id']) ? intval($_POST['id']) : 0;
         $title = isset($_POST['title']) ? trim($_POST['title']) : '';
         $description = isset($_POST['description']) ? trim($_POST['description']) : '';
-        $image_alt = isset($_POST['image_alt']) ? trim($_POST['image_alt']) : '';
 
         if (empty($title)) {
             header('Content-Type: application/json');
@@ -257,25 +95,25 @@ class Portfolio extends Controller {
 
         if ($action === 'create') {
             // Handle create
-            if (!isset($_FILES['portfolio_image']) || $_FILES['portfolio_image']['error'] !== UPLOAD_ERR_OK) {
+            $image = '';
+            if (isset($_FILES['portfolio_image']) && $_FILES['portfolio_image']['error'] === UPLOAD_ERR_OK) {
+                $image = $this->_upload_and_convert_image($_FILES['portfolio_image']);
+                if (!$image) {
+                    header('Content-Type: application/json');
+                    echo json_encode(['success' => false, 'message' => 'Gagal upload gambar!']);
+                    exit;
+                }
+            } else {
                 header('Content-Type: application/json');
-                echo json_encode(['success' => false, 'message' => 'Gambar harus diupload!']);
+                echo json_encode(['success' => false, 'message' => 'Gambar portfolio harus diupload!']);
                 exit;
             }
 
-            $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
-            if (!$image_path) {
-                header('Content-Type: application/json');
-                echo json_encode(['success' => false, 'message' => 'Gagal upload gambar!']);
-                exit;
-            }
-
-            $sql = "INSERT INTO portfolios (title, description, image, image_alt) 
+            $sql = "INSERT INTO portfolios (title, description, image) 
                     VALUES (
                         '" . $this->db->escape_string($title) . "',
                         '" . $this->db->escape_string($description) . "',
-                        '" . $this->db->escape_string($image_path) . "',
-                        '" . $this->db->escape_string($image_alt) . "'
+                        '" . $this->db->escape_string($image) . "'
                     )";
 
             if ($this->db->query($sql)) {
@@ -292,7 +130,7 @@ class Portfolio extends Controller {
             $sql_get = "SELECT image FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
             $result_get = $this->db->query($sql_get);
             $current_portfolio = $result_get->fetch_assoc();
-            $image_path = $current_portfolio['image'];
+            $image = $current_portfolio['image'];
 
             // Handle image upload if new image provided
             if (isset($_FILES['portfolio_image']) && $_FILES['portfolio_image']['error'] === UPLOAD_ERR_OK) {
@@ -302,8 +140,8 @@ class Portfolio extends Controller {
                 }
 
                 // Upload and convert new image
-                $image_path = $this->_upload_and_convert_image($_FILES['portfolio_image']);
-                if (!$image_path) {
+                $image = $this->_upload_and_convert_image($_FILES['portfolio_image']);
+                if (!$image) {
                     header('Content-Type: application/json');
                     echo json_encode(['success' => false, 'message' => 'Gagal upload gambar!']);
                     exit;
@@ -313,8 +151,7 @@ class Portfolio extends Controller {
             $sql = "UPDATE portfolios SET 
                     title = '" . $this->db->escape_string($title) . "',
                     description = '" . $this->db->escape_string($description) . "',
-                    image = '" . $this->db->escape_string($image_path) . "',
-                    image_alt = '" . $this->db->escape_string($image_alt) . "'
+                    image = '" . $this->db->escape_string($image) . "'
                     WHERE id = " . intval($id);
 
             if ($this->db->query($sql)) {
@@ -331,6 +168,36 @@ class Portfolio extends Controller {
             echo json_encode(['success' => false, 'message' => 'Action tidak valid']);
             exit;
         }
+    }
+
+    // Delete portfolio
+    public function delete($id = null)
+    {
+        if (!$id) {
+            header('Location: /SIKUBAH/portfolio');
+            exit;
+        }
+
+        // Get portfolio to delete its image
+        $sql_get = "SELECT image FROM portfolios WHERE id = " . intval($id) . " LIMIT 1";
+        $result_get = $this->db->query($sql_get);
+        $portfolio = $result_get->fetch_assoc();
+
+        // Delete image if exists
+        if ($portfolio['image'] && file_exists(__DIR__ . '/../../' . $portfolio['image'])) {
+            @unlink(__DIR__ . '/../../' . $portfolio['image']);
+        }
+
+        $sql = "DELETE FROM portfolios WHERE id = " . intval($id);
+
+        if ($this->db->query($sql)) {
+            $_SESSION['success'] = 'Portfolio berhasil dihapus!';
+        } else {
+            $_SESSION['error'] = 'Gagal menghapus portfolio!';
+        }
+
+        header('Location: /SIKUBAH/portfolio');
+        exit;
     }
 
     private function _check_auth() {
@@ -353,7 +220,12 @@ class Portfolio extends Controller {
         if (!in_array($file['type'], $allowed_types)) {
             return false;
         }
-        
+
+        // Validate file size (max 5MB)
+        if ($file['size'] > 5 * 1024 * 1024) {
+            return false;
+        }
+
         // Generate unique filename
         $original_name = pathinfo($file['name'], PATHINFO_FILENAME);
         $filename = preg_replace('/[^a-zA-Z0-9_-]/', '-', $original_name);
@@ -370,9 +242,9 @@ class Portfolio extends Controller {
             @unlink($filepath);
             return false;
         }
-        
+
         // Return relative path
-        return './images/' . $filename;
+        return 'images/' . $filename;
     }
     
     private function _convert_to_webp($file_path) {

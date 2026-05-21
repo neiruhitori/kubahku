@@ -72,9 +72,9 @@ if ($db_conn->connect_error) {
 }
 $db_conn->set_charset('utf8mb4');
 
-// Get published portfolios, ordered by order_number
+// Get all portfolios, ordered by newest first
 $result = $db_conn->query(
-    "SELECT id, title, description, image, image_alt FROM portfolios WHERE published = 1 ORDER BY order_number ASC"
+    "SELECT id, title, description, image FROM portfolios ORDER BY created_at DESC"
 );
 
 $portfolios = [];
@@ -132,7 +132,9 @@ else:
                     <div class="elementor-row">
                         <?php
                         foreach ($chunk as $portfolio):
-                            $alt_text = $portfolio['image_alt'] ?: $portfolio['title'];
+                            $alt_text = $portfolio['title'];
+                            $clean_path = str_replace('./', '', $portfolio['image']);
+                            $image_path = 'http://localhost/SIKUBAH/' . $clean_path;
                         ?>
                             <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-<?php echo 'portfolio' . $portfolio['id']; ?>" data-id="<?php echo 'portfolio' . $portfolio['id']; ?>" data-element_type="column">
                                 <div class="elementor-column-wrap elementor-element-populated">
@@ -141,7 +143,7 @@ else:
                                         <div class="elementor-element elementor-element-<?php echo 'image' . $portfolio['id']; ?> elementor-widget elementor-widget-image" data-id="<?php echo 'image' . $portfolio['id']; ?>" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
                                                 <div class="portfolio-image-container">
-                                                    <img loading="lazy" decoding="async" src="<?php echo htmlspecialchars($portfolio['image']); ?>" alt="<?php echo htmlspecialchars($alt_text); ?>" />
+                                                    <img loading="lazy" decoding="async" src="<?php echo htmlspecialchars($image_path); ?>" alt="<?php echo htmlspecialchars($alt_text); ?>" />
                                                 </div>
                                             </div>
                                         </div>
