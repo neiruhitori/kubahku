@@ -29,7 +29,7 @@
                 <i class="bi bi-chevron-down menu-icon"></i>
             </a>
             <ul class="submenu" id="pages-menu">
-                <li class="submenu-item">
+                <!-- <li class="submenu-item">
                     <a href="/SIKUBAH/pages/produk" class="submenu-link">
                         <i class="bi bi-box"></i>
                         <span class="nav-text">Produk</span>
@@ -40,7 +40,7 @@
                         <i class="bi bi-telephone"></i>
                         <span class="nav-text">Kontak</span>
                     </a>
-                </li>
+                </li> -->
                 <li class="submenu-item">
                     <a href="/SIKUBAH/articles" class="submenu-link">
                         <i class="bi bi-file-richtext"></i>
@@ -64,22 +64,22 @@
                         <span class="nav-text">Portofolio</span>
                     </a>
                 </li>
-                <li class="submenu-item">
+                <!-- <li class="submenu-item">
                     <a href="/SIKUBAH/content/produk-kami" class="submenu-link">
                         <i class="bi bi-bag"></i>
                         <span class="nav-text">Produk Kami</span>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </li>
 
         <!-- Pengaturan -->
-        <li class="nav-item">
+        <!-- <li class="nav-item">
             <a href="/SIKUBAH/settings" class="nav-link">
                 <i class="bi bi-gear"></i>
                 <span class="nav-text">Pengaturan</span>
             </a>
-        </li>
+        </li> -->
     </ul>
 
     <div class="sidebar-footer">

@@ -1,3 +1,7 @@
+Alur Route :
+Landing Page : http://localhost:8000/
+Admin   : http://localhost:8000/SIKUBAH/auth/login
+
 <?php
 /**
  * Database Setup Script
