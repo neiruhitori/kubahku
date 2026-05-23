@@ -1781,11 +1781,11 @@
                                     <p><strong>Call/WA: <a href="tel:+6285188588596">085188588596</a> (Antok) untuk info
                                             Toko Lampu Gantung Masjid Terdekat Anda.</strong></p>
                                 </blockquote>
-                                <p><img decoding="async" class="size-full wp-image-17885 aligncenter"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid.jpg"
-                                        alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-1448x2048.jpg 1448w"
-                                        sizes="(max-width: 1587px) 100vw, 1587px" /></p>
+                                <p><img loading="lazy" decoding="async" class="aligncenter wp-image-20098 size-full"
+                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga.jpg"
+                                        alt="kontraktor menara masjid" width="1587" height="1185"
+                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-300x224.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-1024x765.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-768x573.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-1536x1147.jpg 1536w"
+                                        sizes="auto, (max-width: 1587px) 100vw, 1587px" /></p>
                                 <p>Anda sedang membutuhkan <a
                                         href="https://www.jualkubahmasjid.id/pengrajin-replika-lampu-gantung-masjid-nabawi-kuningan/">replika
                                         lampu masjid Nabawi</a> berbahan kuningan dan tembaga dengan desain custom?
@@ -2153,7 +2153,7 @@
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
                                     src="../../../images/profile.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../../images/profile-300x300.webp"
+                                    srcset="../../../images/profile.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
