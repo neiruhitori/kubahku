@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Pengrajin Pintu Masjid Nabawi Kuningan Harga Terjangkau</title>
+    <title>PKM - Produsen Kubah Masjid</title>
 
     <!-- All in One SEO 4.9.7.1 - aioseo.com -->
     <meta name="description"
@@ -1458,11 +1458,19 @@
     <!-- Google Ads snippet added by Site Kit -->
     <script src="https://www.googletagmanager.com/gtag/js?id=G-GBHP9RL402" id="google_gtagjs-js" async></script>
     <script id="google_gtagjs-js-after">
-        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-        gtag("set", "linker", { "domains": ["www.jualkubahmasjid.id"] });
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("set", "linker", {
+            "domains": ["www.jualkubahmasjid.id"]
+        });
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "G-GBHP9RL402", { "googlesitekit_post_type": "post" });
+        gtag("config", "G-GBHP9RL402", {
+            "googlesitekit_post_type": "post"
+        });
         gtag("config", "AW-737332955");
         //# sourceURL=google_gtagjs-js-after
     </script>
@@ -1506,43 +1514,46 @@
     </style>
     <!--BEGIN: TRACKING CODE MANAGER (v2.5.0) BY INTELLYWP.COM IN HEAD//-->
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
+    </script>
     <!-- End Google Tag Manager -->
     <!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//-->
     <link rel="pingback" href="https://www.jualkubahmasjid.id/xmlrpc.php">
 
     <!-- Google Tag Manager snippet added by Site Kit -->
     <script>
-        (function (w, d, s, l, i) {
+        (function(w, d, s, l, i) {
             w[l] = w[l] || [];
-            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
             var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
-
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-32x32.png"
-        sizes="32x32" />
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-270x270.png" />
+    <link rel="icon" href="../../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../../images/icon.webp" />
 </head>
 
 <body
@@ -1579,13 +1590,11 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
-                                                    <img width="584" height="147"
-                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png"
+                                                <a href="#">
+                                                    <img width="60" height="2"
+                                                        src="../../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
-                                                        decoding="async" fetchpriority="high"
-                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png 584w, https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1-300x76.png 300w"
-                                                        sizes="(max-width: 584px) 100vw, 584px" /> </a>
+                                                        decoding="async" fetchpriority="high" /> </a>
                                             </div>
                                         </div>
                                     </div>
@@ -1763,14 +1772,13 @@
                                             itemtype="https://schema.org/Person" itemscope><a class="url fn n"
                                                 href="https://www.jualkubahmasjid.id/author/isaq-naser-salasa/"
                                                 title="View all posts by PT. Anugerah Kubah Indonesia" rel="author"
-                                                itemprop="url"><span class="author-name" itemprop="name">PT. Anugerah
-                                                    Kubah Indonesia</span></a></span></span>
+                                                itemprop="url"><span class="author-name" itemprop="name">PT. Kubah Mandiri Indonesia</span></a></span></span>
                                 </div>
                             </header>
 
                             <div class="entry-content" itemprop="text">
                                 <blockquote>
-                                    <p><strong>Call/WA: <a href="tel:+6281333735000">081333735000</a> (Antok) untuk Info
+                                    <p><strong>Call/WA: <a href="tel:+6285188588596">085188588596</a> Admin Produsen Kubah Masjid untuk Info
                                             Harga Replika Pintu Nabawi Termurah</strong></p>
                                 </blockquote>
                                 <p><img decoding="async" class="aligncenter size-full wp-image-16531"
@@ -1819,10 +1827,10 @@
                                         Pemesanan Replika Pintu Nabawi Sangat Mudah</strong><span
                                         class="ez-toc-section-end"></span></h2>
                                 <p>Untuk memesan <a
-                                        href="https://www.jualkubahmasjid.id/pengrajin-pintu-masjid-nabawi-berpengalaman-harga-terjangkau/">replika
+                                        href="#">replika
                                         pintu Nabawi</a> ini, silakan menghubungi tim Sales <a
-                                        href="https://www.jualkubahmasjid.id/qoobah/">Qoobah</a> kami melalui nomor
-                                    0813-3373-5000. Kami akan memberikan pelayanan yang ramah dan membantu Anda dalam
+                                        href="#">Qoobah</a> kami melalui nomor
+                                    085188588596. Kami akan memberikan pelayanan yang ramah dan membantu Anda dalam
                                     proses pemesanan. Kami juga menawarkan kemudahan dalam pemesanan, sehingga Anda
                                     dapat dengan mudah mendapatkan replika pintu <a
                                         href="https://id.wikipedia.org/wiki/Masjid_Nabawi" target="_blank"
@@ -1840,19 +1848,20 @@
                                 <p>Jadi, jangan ragu lagi! Percayakan kebutuhan replika pintu Masjid Nabawi Anda kepada
                                     kami. Dapatkan keindahan dan kemegahan seperti Masjid Nabawi dalam masjid Anda
                                     dengan harga terjangkau. Hubungi tim Sales kami sekarang di nomor
-                                    <strong>0813-3373-5000</strong> dan mulailah menciptakan suasana yang istimewa di
-                                    ruang masjid Anda.</p>
+                                    <strong>085188588596</strong> dan mulailah menciptakan suasana yang istimewa di
+                                    ruang masjid Anda.
+                                </p>
                                 <p>&nbsp;</p>
                                 <h3><strong>Temukan Pengrajin Pintu Masjid Nabawi pada Google Maps: </strong><br />
                                     <iframe loading="lazy" style="border: 0;"
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126486.06712171304!2d111.93976523681447!3d-7.822641755067595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e0!3m2!1sen!2sid!4v1685509446766!5m2!1sen!2sid"
+                                        src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                         width="800" height="600" allowfullscreen="allowfullscreen"></iframe>
                                 </h3>
                                 <p>&nbsp;</p>
                                 <p>Baca juga: <a
-                                        href="https://www.jualkubahmasjid.id/kubah-titanium-gold/"><strong>Kubah
+                                        href="#"><strong>Kubah
                                             Stainless Gold</strong></a> dan <a
-                                        href="https://www.jualkubahmasjid.id/pasang-kubah-masjid-pakai-qoobah-banyak-gratisnya/"><strong>Pasang
+                                        href="#"><strong>Pasang
                                             Kubah Masjid Pakai Qoobah Banyak Gratisnya</strong></a></p>
                                 <div id="ez-toc-container"
                                     class="ez-toc-v2_0_83 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
@@ -1908,15 +1917,15 @@
 
                             <footer class="entry-meta" aria-label="Entry meta">
                                 <span class="cat-links"><span class="screen-reader-text">Categories </span><a
-                                        href="https://www.jualkubahmasjid.id/category/produk-masjid/"
+                                        href="#"
                                         rel="category tag">Produk Masjid</a></span>
                                 <nav id="nav-below" class="post-navigation" aria-label="Posts">
                                     <div class="nav-previous"><span class="prev"><a
-                                                href="https://www.jualkubahmasjid.id/harga-kubah-masjid-diameter-30-meter-kualitas-premium/"
+                                                href="#"
                                                 rel="prev">Harga Kubah Masjid Diameter 30 Meter Kualitas
                                                 Premium</a></span></div>
                                     <div class="nav-next"><span class="next"><a
-                                                href="https://www.jualkubahmasjid.id/jasa-pembuatan-mihrab-masjid-grc-desain-elegan-harga-murah/"
+                                                href="#"
                                                 rel="next">Jasa Pembuatan Mihrab Masjid GRC Desain Elegan Harga
                                                 Murah</a></span></div>
                                 </nav>
@@ -1928,77 +1937,67 @@
 
             <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="right-sidebar">
                 <div class="inside-right-sidebar">
-                    <aside id="search-3" class="widget inner-padding widget_search">
-                        <form method="get" class="search-form" action="https://www.jualkubahmasjid.id/">
-                            <label>
-                                <span class="screen-reader-text">Search for:</span>
-                                <input type="search" class="search-field" placeholder="Search &hellip;" value=""
-                                    name="s" title="Search for:">
-                            </label>
-                            <input type="submit" class="search-submit" value="Search">
-                        </form>
-                    </aside>
+
                     <aside id="text-4" class="widget inner-padding widget_text">
                         <div class="textwidget">
-                            <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png"
+                                    src="../../../images/profile.webp"
                                     alt="" width="300" height="300"
-                                    srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-150x150.png 150w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-768x768.png 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah.png 864w"
+                                    srcset="../../../images/profile.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
-                            <p>Assalamualaikum, saya <strong>Antok</strong>.</p>
+                            <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
                             <p>Silakan konsultasi gratis dengan Call/WhatsApp saya di nomor <a
-                                    href="tel:+6281333735000"><strong>081333735000</strong></a> untuk mengetahui info
+                                    href="tel:+6285188588596"><strong>085188588596</strong></a> untuk mengetahui info
                                 harga pemesanan kubah enamel dan kubah masjid galvalum.</p>
                         </div>
                     </aside>
                     <aside id="text-5" class="widget inner-padding widget_text">
-                        <h2 class="widget-title">Temukan PT. Anugerah Kubah Indonesia pada Google Maps</h2>
+                        <h2 class="widget-title">Temukan PT. Kubah Mandiri Indonesia pada Google Maps</h2>
                         <div class="textwidget">
                             <p><iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.986012870826!2d111.99645505089666!3d-7.896529394283357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e0!3m2!1sen!2sid!4v1646564674316!5m2!1sen!2sid"
+                                    src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                     style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
                         </div>
                     </aside>
-                    <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
+                    <!-- <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
                         <h2 class="widget-title">Info Terkini</h2>
                         <ul>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-pusdai-bandung/">Mengintip Desain Ikonik
+                                <a href="#">Mengintip Desain Ikonik
                                     Masjid PUSDAI Bandung Jawa Barat</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-al-muttaqin-bogor/">Fasilitas dan
+                                <a href="#">Fasilitas dan
                                     Kegiatan di Masjid Raya Al Muttaqin Bogor</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-nurani-kranji/">Megahnya Masjid Nurani
+                                <a href="#">Megahnya Masjid Nurani
                                     Kranji Perpaduan Modern dan Spanyol</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-raudhatul-irfan/">Pesona Arsitektur
+                                <a href="#">Pesona Arsitektur
                                     Masjid Raya Raudhatul Irfan Sukabumi</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-agung-kalianda/">Pesona Masjid Agung
+                                <a href="#">Pesona Masjid Agung
                                     Kalianda Ikon Megah Lampung Selatan</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/nama-nama-masjid-yang-bagus/">90 Daftar
+                                <a href="#">90 Daftar
                                     Nama-Nama Masjid yang Bagus dan Maknanya</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-terdekat/">Cara Cepat Cari Masjid
+                                <a href="#">Cara Cepat Cari Masjid
                                     Terdekat Agar Ibadah Tetap Lancar</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/jual-kubah-masjid-donggala/">Jual Kubah Masjid
+                                <a href="#">Jual Kubah Masjid
                                     Donggala Harga Pabrik Termurah Bergaransi</a>
                             </li>
                         </ul>
 
-                    </aside>
+                    </aside> -->
                 </div>
             </div>
 
@@ -2025,7 +2024,7 @@
                                             data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
+                                                    PT. Kubah Mandiri Indonesia - All rights reserved</p>
                                             </div>
                                         </div>
                                     </div>
@@ -2087,7 +2086,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
                                                         role="button" id="wa-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2096,7 +2095,7 @@
                                                                 <i aria-hidden="true" class="fab fa-whatsapp"></i>
                                                             </span>
                                                             <span class="elementor-button-text">WhatsApp
-                                                                081333735000</span>
+                                                                085188588596</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -2123,7 +2122,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="wa-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2149,7 +2148,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-call"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">
@@ -2174,19 +2173,79 @@
     </div>
 
     <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
     <script>
-        function ht(a, b, c, d) { let z1 = a * c; let z2 = d * c; let h1 = Math.round(z1); let h2 = Math.round(z2); let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. "); document.getElementById(b).innerHTML = hasil; } function bx() { let d = document.getElementById('d').value; let t = document.getElementById('t').value; let g = 3.1428571428571; let k = d * t * g; ht(2797727, "enamel", k, 3317273); ht(1499091, "galvalum", k, 1968636) } bx(); function d() { bx(); } function t() { bx(); } function fr(ak, prefix) { var number_string = ak.toString().replace(/[^,\d]/g, ''); var split = number_string.split(','); var sis = split[0].length % 3; var dph = split[0].substr(0, sis); var bnr = split[0].substr(sis).match(/\d{3}/gi); if (bnr) { separator = sis ? '.' : ''; dph += separator + bnr.join('.'); } dph = split[1] != undefined ? dph + ',' + split[1] : dph; return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : ''); }; document.getElementById('tombolhitung').addEventListener('click', function () { bx(); });
+        function ht(a, b, c, d) {
+            let z1 = a * c;
+            let z2 = d * c;
+            let h1 = Math.round(z1);
+            let h2 = Math.round(z2);
+            let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. ");
+            document.getElementById(b).innerHTML = hasil;
+        }
+
+        function bx() {
+            let d = document.getElementById('d').value;
+            let t = document.getElementById('t').value;
+            let g = 3.1428571428571;
+            let k = d * t * g;
+            ht(2797727, "enamel", k, 3317273);
+            ht(1499091, "galvalum", k, 1968636)
+        }
+        bx();
+
+        function d() {
+            bx();
+        }
+
+        function t() {
+            bx();
+        }
+
+        function fr(ak, prefix) {
+            var number_string = ak.toString().replace(/[^,\d]/g, '');
+            var split = number_string.split(',');
+            var sis = split[0].length % 3;
+            var dph = split[0].substr(0, sis);
+            var bnr = split[0].substr(sis).match(/\d{3}/gi);
+            if (bnr) {
+                separator = sis ? '.' : '';
+                dph += separator + bnr.join('.');
+            }
+            dph = split[1] != undefined ? dph + ',' + split[1] : dph;
+            return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : '');
+        };
+        document.getElementById('tombolhitung').addEventListener('click', function() {
+            bx();
+        });
     </script>
     <script id="generate-a11y">
-        !function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("pointerdown", (function () { e.classList.add("using-mouse") }), { passive: !0 }), e.addEventListener("keydown", (function () { e.classList.remove("using-mouse") }), { passive: !0 }) } }();
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("pointerdown", (function() {
+                    e.classList.add("using-mouse")
+                }), {
+                    passive: !0
+                }), e.addEventListener("keydown", (function() {
+                    e.classList.remove("using-mouse")
+                }), {
+                    passive: !0
+                })
+            }
+        }();
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/elementor-toc-anchor-fix.js?ver=2.0.83"
         id="eztoc-elementor-anchor-fix-js"></script>
     <script id="eztoc-scroll-scriptjs-js-extra">
-        var eztoc_smooth_local = { "scroll_offset": "30", "add_request_uri": "", "add_self_reference_link": "" };
+        var eztoc_smooth_local = {
+            "scroll_offset": "30",
+            "add_request_uri": "",
+            "add_self_reference_link": ""
+        };
         //# sourceURL=eztoc-scroll-scriptjs-js-extra
     </script>
     <script
@@ -2199,14 +2258,25 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2"
         id="eztoc-jquery-sticky-kit-js"></script>
     <script id="eztoc-js-js-extra">
-        var ezTOC = { "smooth_scroll": "1", "visibility_hide_by_default": "1", "scroll_offset": "30", "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E", "visibility_hide_by_device": "1", "chamomile_theme_is_on": "" };
+        var ezTOC = {
+            "smooth_scroll": "1",
+            "visibility_hide_by_default": "1",
+            "scroll_offset": "30",
+            "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E",
+            "visibility_hide_by_device": "1",
+            "chamomile_theme_is_on": ""
+        };
         //# sourceURL=eztoc-js-js-extra
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.83-1778255783"
         id="eztoc-js-js"></script>
     <script id="generate-menu-js-before">
-        var generatepressMenu = { "toggleOpenedSubMenus": true, "openSubMenuLabel": "Open Sub-Menu", "closeSubMenuLabel": "Close Sub-Menu" };
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": true,
+            "openSubMenuLabel": "Open Sub-Menu",
+            "closeSubMenuLabel": "Close Sub-Menu"
+        };
         //# sourceURL=generate-menu-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1"
@@ -2223,7 +2293,89 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.10"
         id="elementor-sticky-js"></script>
     <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php", "nonce": "7e3e625fa2", "i18n": { "toc_no_headings_found": "No headings were found on this page." }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "google": { "title": "Google+", "has_counter": true }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" } }, "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
+        var ElementorProFrontendConfig = {
+            "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php",
+            "nonce": "7e3e625fa2",
+            "i18n": {
+                "toc_no_headings_found": "No headings were found on this page."
+            },
+            "shareButtonsNetworks": {
+                "facebook": {
+                    "title": "Facebook",
+                    "has_counter": true
+                },
+                "twitter": {
+                    "title": "Twitter"
+                },
+                "google": {
+                    "title": "Google+",
+                    "has_counter": true
+                },
+                "linkedin": {
+                    "title": "LinkedIn",
+                    "has_counter": true
+                },
+                "pinterest": {
+                    "title": "Pinterest",
+                    "has_counter": true
+                },
+                "reddit": {
+                    "title": "Reddit",
+                    "has_counter": true
+                },
+                "vk": {
+                    "title": "VK",
+                    "has_counter": true
+                },
+                "odnoklassniki": {
+                    "title": "OK",
+                    "has_counter": true
+                },
+                "tumblr": {
+                    "title": "Tumblr"
+                },
+                "digg": {
+                    "title": "Digg"
+                },
+                "skype": {
+                    "title": "Skype"
+                },
+                "stumbleupon": {
+                    "title": "StumbleUpon",
+                    "has_counter": true
+                },
+                "mix": {
+                    "title": "Mix"
+                },
+                "telegram": {
+                    "title": "Telegram"
+                },
+                "pocket": {
+                    "title": "Pocket",
+                    "has_counter": true
+                },
+                "xing": {
+                    "title": "XING",
+                    "has_counter": true
+                },
+                "whatsapp": {
+                    "title": "WhatsApp"
+                },
+                "email": {
+                    "title": "Email"
+                },
+                "print": {
+                    "title": "Print"
+                }
+            },
+            "facebook_sdk": {
+                "lang": "en_US",
+                "app_id": ""
+            },
+            "lottie": {
+                "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+            }
+        };
         //# sourceURL=elementor-pro-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.10"
@@ -2241,7 +2393,62 @@
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6"
         id="swiper-js"></script>
     <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false, "isImprovedAssetsLoading": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.1.1", "is_static": false, "experimentalFeatures": [], "urls": { "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 16514, "title": "Pengrajin%20Pintu%20Masjid%20Nabawi%20Kuningan%20Harga%20Terjangkau", "excerpt": "", "featuredImage": false } };
+        var elementorFrontendConfig = {
+            "environmentMode": {
+                "edit": false,
+                "wpPreview": false,
+                "isScriptDebug": false,
+                "isImprovedAssetsLoading": false
+            },
+            "i18n": {
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnTwitter": "Share on Twitter",
+                "pinIt": "Pin it",
+                "download": "Download",
+                "downloadImage": "Download image",
+                "fullscreen": "Fullscreen",
+                "zoom": "Zoom",
+                "share": "Share",
+                "playVideo": "Play Video",
+                "previous": "Previous",
+                "next": "Next",
+                "close": "Close"
+            },
+            "is_rtl": false,
+            "breakpoints": {
+                "xs": 0,
+                "sm": 480,
+                "md": 768,
+                "lg": 1025,
+                "xl": 1440,
+                "xxl": 1600
+            },
+            "version": "3.1.1",
+            "is_static": false,
+            "experimentalFeatures": [],
+            "urls": {
+                "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/"
+            },
+            "settings": {
+                "page": [],
+                "editorPreferences": []
+            },
+            "kit": {
+                "global_image_lightbox": "yes",
+                "lightbox_enable_counter": "yes",
+                "lightbox_enable_fullscreen": "yes",
+                "lightbox_enable_zoom": "yes",
+                "lightbox_enable_share": "yes",
+                "lightbox_title_src": "title",
+                "lightbox_description_src": "description"
+            },
+            "post": {
+                "id": 16514,
+                "title": "Pengrajin%20Pintu%20Masjid%20Nabawi%20Kuningan%20Harga%20Terjangkau",
+                "excerpt": "",
+                "featuredImage": false
+            }
+        };
         //# sourceURL=elementor-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.1"
@@ -2250,11 +2457,105 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.1"
         id="preloaded-elements-handlers-js"></script>
     <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
-</script>
+        {
+            "baseUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/",
+            "ext": ".png",
+            "svgUrl": "https://s.w.org/images/core/emoji/17.0.2/svg/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"
+            }
+        }
+    </script>
     <script type="module">
         /*! This file is auto-generated */
-        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent), o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"), s = ["flag", "emoji"]; function i(e) { try { var t = { supportTests: e, timestamp: (new Date).valueOf() }; sessionStorage.setItem(o, JSON.stringify(t)) } catch (e) { } } function c(e, t, n) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0); const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); return t.every((e, t) => e === a[t]) } function p(e, t) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); var n = e.getImageData(16, 16, 1, 1); for (let e = 0; e < n.data.length; e++)if (0 !== n.data[e]) return !1; return !0 } function u(e, t, n, a) { switch (t) { case "flag": return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !a(e, "\ud83e\u1fac8") }return !1 } function f(e, t, n, a) { let r; const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", { willReadFrequently: !0 }), s = (o.textBaseline = "top", o.font = "600 32px Arial", {}); return e.forEach(e => { s[e] = t(o, e, n, a) }), s } function r(e) { var t = document.createElement("script"); t.src = e, t.defer = !0, document.head.appendChild(t) } a.supports = { everything: !0, everythingExceptFlag: !0 }, new Promise(t => { let n = function () { try { var e = JSON.parse(sessionStorage.getItem(o)); if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests } catch (e) { } return null }(); if (!n) { if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try { var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));", a = new Blob([e], { type: "text/javascript" }); const r = new Worker(URL.createObjectURL(a), { name: "wpTestEmojiSupports" }); return void (r.onmessage = e => { i(n = e.data), r.terminate(), t(n) }) } catch (e) { } i(n = f(s, u, c, p)) } t(n) }).then(e => { for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]); var t; a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji))) });
+        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent),
+            o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"),
+            s = ["flag", "emoji"];
+
+        function i(e) {
+            try {
+                var t = {
+                    supportTests: e,
+                    timestamp: (new Date).valueOf()
+                };
+                sessionStorage.setItem(o, JSON.stringify(t))
+            } catch (e) {}
+        }
+
+        function c(e, t, n) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0);
+            const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            return t.every((e, t) => e === a[t])
+        }
+
+        function p(e, t) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            var n = e.getImageData(16, 16, 1, 1);
+            for (let e = 0; e < n.data.length; e++)
+                if (0 !== n.data[e]) return !1;
+            return !0
+        }
+
+        function u(e, t, n, a) {
+            switch (t) {
+                case "flag":
+                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+                case "emoji":
+                    return !a(e, "\ud83e\u1fac8")
+            }
+            return !1
+        }
+
+        function f(e, t, n, a) {
+            let r;
+            const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", {
+                    willReadFrequently: !0
+                }),
+                s = (o.textBaseline = "top", o.font = "600 32px Arial", {});
+            return e.forEach(e => {
+                s[e] = t(o, e, n, a)
+            }), s
+        }
+
+        function r(e) {
+            var t = document.createElement("script");
+            t.src = e, t.defer = !0, document.head.appendChild(t)
+        }
+        a.supports = {
+            everything: !0,
+            everythingExceptFlag: !0
+        }, new Promise(t => {
+            let n = function() {
+                try {
+                    var e = JSON.parse(sessionStorage.getItem(o));
+                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                } catch (e) {}
+                return null
+            }();
+            if (!n) {
+                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));",
+                        a = new Blob([e], {
+                            type: "text/javascript"
+                        });
+                    const r = new Worker(URL.createObjectURL(a), {
+                        name: "wpTestEmojiSupports"
+                    });
+                    return void(r.onmessage = e => {
+                        i(n = e.data), r.terminate(), t(n)
+                    })
+                } catch (e) {}
+                i(n = f(s, u, c, p))
+            }
+            t(n)
+        }).then(e => {
+            for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]);
+            var t;
+            a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
+        });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
 
