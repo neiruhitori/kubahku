@@ -1523,6 +1523,8 @@ if (strpos($uri, 'blog') === 0) {
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <!-- Font Awesome CDN Fallback -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' integrity='sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==' crossorigin='anonymous' referrerpolicy='no-referrer' />
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.1.1"
         id="font-awesome-4-shim-js"></script>
@@ -1702,7 +1704,7 @@ if (strpos($uri, 'blog') === 0) {
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
                                                         <a href="#" aria-current="page"
-                                                            class="elementor-item elementor-item-anchor">Aksesoris</a>
+                                                            class="elementor-item elementor-item-anchor"></i>Aksesoris</a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16530">
@@ -1736,11 +1738,11 @@ if (strpos($uri, 'blog') === 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1803,11 +1805,11 @@ if (strpos($uri, 'blog') === 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1906,14 +1908,9 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p>Jasa Kubah Harga urah, mitra terpercaya sebagai
-                                                                                        penjual kubah masjid terdekat di
-                                                                                        kota anda, menghadirkan desain
-                                                                                        kubah yang kokoh dan estetis.
-                                                                                    </p>
-                                                                                    <p>Dikerjakan oleh tenaga ahli,
-                                                                                        hasil pengerjaan rapi dan tepat
-                                                                                        waktu.</p>
+                                                                                    <p><strong>Penjual Kubah Masjid Terpercaya</strong> dengan harga murah dan kualitas terbaik, melayani pembuatan serta pemasangan kubah masjid modern di seluruh Indonesia. Kami hadir sebagai jasa kubah masjid profesional dengan desain kubah yang kokoh, elegan, tahan lama, dan menyesuaikan kebutuhan masjid Anda.</p>
+
+                                                                                    <p>Didukung tenaga ahli berpengalaman dalam pembuatan kubah masjid, setiap proses pengerjaan dilakukan secara rapi, cepat, dan tepat waktu sehingga menjadikan kami pilihan terbaik sebagai kontraktor dan penjual kubah masjid terpercaya.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1998,10 +1995,10 @@ if (strpos($uri, 'blog') === 0) {
                                                                                 <div class="elementor-image">
                                                                                     <img decoding="async" width="314"
                                                                                         height="430"
-                                                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/jasa-pembuatan-kubah-masjid.webp"
+                                                                                        src="./images/tukang.png"
                                                                                         class="attachment-large size-large"
                                                                                         alt="jasa pembuatan kubah masjid"
-                                                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/jasa-pembuatan-kubah-masjid.webp 314w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/jasa-pembuatan-kubah-masjid-219x300.webp 219w"
+                                                                                        srcset="./images/tukang.png 314w, ./images/tukang-219x300.png 219w"
                                                                                         sizes="(max-width: 314px) 100vw, 314px" />
                                                                                 </div>
                                                                             </div>
@@ -2020,10 +2017,9 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Anda pasti masih bingung bagaimana
-                                                                                    cara menghitung diameter kubah
-                                                                                    sehingga dapat diketahui berapa
-                                                                                    harga kubah masjid per meter.
+                                                                                    Masih bingung menentukan ukuran dan menghitung diameter kubah masjid?
+                                                                                    Banyak orang kesulitan mengetahui estimasi harga kubah masjid per meter
+                                                                                    sesuai ukuran bangunan dan model kubah yang diinginkan.
 
 
 
@@ -2049,8 +2045,8 @@ if (strpos($uri, 'blog') === 0) {
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Mari kami jelaskan dengan klik
-                                                                                    tombol di bawah ini</p>
+                                                                                    Klik tombol di bawah ini untuk konsultasi langsung mengenai desain,
+                                                                                    ukuran, dan harga kubah masjid terbaik dengan tim ahli kami.</p>
                                                                             </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-ea19a84 elementor-align-center elementor-tablet-align-right elementor-mobile-align-center elementor-widget elementor-widget-button"
@@ -2135,9 +2131,8 @@ if (strpos($uri, 'blog') === 0) {
                                                                     src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/001.png"
                                                                     class="attachment-full size-full" alt="" /></figure>
                                                             <div class="elementor-image-box-content">
-                                                                <p class="elementor-image-box-description">Pengerjaan
-                                                                    kubah selalu tepat waktu tanpa molor, karena
-                                                                    kepercayaan anda prioritas kami.</p>
+                                                                <p class="elementor-image-box-description">Menggunakan material berkualitas tinggi sehingga membantu menghemat hingga
+                                                                    40% biaya perawatan akibat kebocoran, retak, maupun warna kubah yang cepat pudar.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2152,9 +2147,8 @@ if (strpos($uri, 'blog') === 0) {
                                                                     src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/02.png"
                                                                     class="attachment-full size-full" alt="" /></figure>
                                                             <div class="elementor-image-box-content">
-                                                                <p class="elementor-image-box-description">Hemat hingga
-                                                                    40% biaya perawatan akibat kebocoran, retak, dan
-                                                                    warna pudar.</p>
+                                                                <p class="elementor-image-box-description">Kubah enamel bergaransi hingga 20 tahun dengan warna tetap cerah, elegan,
+                                                                    dan tahan cuaca berkat lapisan enamel premium terbaik.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2169,9 +2163,8 @@ if (strpos($uri, 'blog') === 0) {
                                                                     src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/03.png"
                                                                     class="attachment-full size-full" alt="" /></figure>
                                                             <div class="elementor-image-box-content">
-                                                                <p class="elementor-image-box-description">Garansi warna
-                                                                    kubah 20 tahun tetap memukau, solid, tak suram
-                                                                    berkat lapisan enamel terbaik.”</p>
+                                                                <p class="elementor-image-box-description">Rangka kubah masjid menggunakan pipa galvanis diameter 3 inch tebal 3 mm
+                                                                    yang kuat, tahan karat, dan cocok untuk konstruksi kubah masjid jangka panjang.”</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2186,10 +2179,8 @@ if (strpos($uri, 'blog') === 0) {
                                                                     src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/04.png"
                                                                     class="attachment-full size-full" alt="" /></figure>
                                                             <div class="elementor-image-box-content">
-                                                                <p class="elementor-image-box-description">Rangka kubah
-                                                                    masjid memakai pipa galvanis diameter 3 inchi tebal
-                                                                    3 mm, pilihan kokoh dan awet untuk kubah masjid
-                                                                    Anda.</p>
+                                                                <p class="elementor-image-box-description"> Gratis konsultasi desain dan material kubah masjid sesuai kondisi iklim
+                                                                    daerah Anda agar hasil kubah lebih maksimal, awet, dan sesuai kebutuhan masjid.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2204,9 +2195,9 @@ if (strpos($uri, 'blog') === 0) {
                                                                     src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/03/05.png"
                                                                     class="attachment-full size-full" alt="" /></figure>
                                                             <div class="elementor-image-box-content">
-                                                                <p class="elementor-image-box-description">Gratis
-                                                                    konsultasi material kubah sesuai kondisi iklim
-                                                                    lokasi masjid Anda agar hasilnya optimal.</p>
+                                                                <p class="elementor-image-box-description">Pengerjaan kubah masjid dilakukan secara profesional dan tepat waktu,
+                                                                    menjadikan kami sebagai penjual kubah masjid terpercaya yang mengutamakan
+                                                                    kualitas serta kepuasan pelanggan.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2364,7 +2355,7 @@ if (strpos($uri, 'blog') === 0) {
                                                                                         width="600" height="600"
                                                                                         src="./images/bahan-galvalum.webp"
                                                                                         class="attachment-large size-large"
-                                                                                        alt=""/>
+                                                                                        alt="" />
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2549,13 +2540,17 @@ if (strpos($uri, 'blog') === 0) {
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                            <p>Harga kubah masjid ditentukan dari <strong
-                                                                    style="box-sizing: border-box;"><span
-                                                                        style="font-family: Helvetica;">diameter</span></strong>
-                                                                dan <strong style="box-sizing: border-box;"><span
-                                                                        style="font-family: Helvetica;">tinggi</span></strong>
-                                                                kubah. Silakan input diameter dan tinggi kubah yang anda
-                                                                inginkan ke dalam isian di bawah ini:</p>
+                                                            <p>
+                                                                Harga kubah masjid ditentukan berdasarkan <strong style="box-sizing: border-box;">
+                                                                    <span style="font-family: Helvetica;">diameter</span>
+                                                                </strong> dan
+                                                                <strong style="box-sizing: border-box;">
+                                                                    <span style="font-family: Helvetica;">tinggi</span>
+                                                                </strong> kubah yang diinginkan.
+                                                                Sebagai penjual kubah masjid terpercaya, kami menyediakan simulasi perhitungan
+                                                                agar Anda dapat mengetahui estimasi biaya pembuatan kubah masjid secara mudah dan cepat.
+                                                                Silakan masukkan ukuran diameter dan tinggi kubah pada form di bawah ini.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2617,10 +2612,10 @@ if (strpos($uri, 'blog') === 0) {
                                                         <div class="elementor-image">
                                                             <img loading="lazy" decoding="async" width="1086"
                                                                 height="1536"
-                                                                src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/pembuatan-kubah-masjid1.webp"
+                                                                src="./images/Kalkulator.webp"
                                                                 class="attachment-full size-full"
                                                                 alt="jual kubah masjid"
-                                                                srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/pembuatan-kubah-masjid1.webp 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/pembuatan-kubah-masjid1-212x300.webp 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/pembuatan-kubah-masjid1-724x1024.webp 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/pembuatan-kubah-masjid1-768x1086.webp 768w"
+                                                                srcset="./images/Kalkulator.webp"
                                                                 sizes="auto, (max-width: 1086px) 100vw, 1086px" />
                                                         </div>
                                                     </div>
@@ -2698,9 +2693,9 @@ if (strpos($uri, 'blog') === 0) {
                                                         <div class="elementor-image">
                                                             <img loading="lazy" decoding="async" width="600"
                                                                 height="600"
-                                                                src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/kubah-masjid.webp"
-                                                                class="attachment-full size-full" alt="kubah masjid"
-                                                                srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/kubah-masjid.webp 600w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/kubah-masjid-300x300.webp 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/07/kubah-masjid-150x150.webp 150w"
+                                                                src="./images/konsultasi.webp"
+                                                                class="attachment-full size-full" alt="konsultasi"
+                                                                srcset="./images/konsultasi.webp"
                                                                 sizes="auto, (max-width: 600px) 100vw, 600px" />
                                                         </div>
                                                     </div>
@@ -3058,7 +3053,7 @@ if (strpos($uri, 'blog') === 0) {
                                                     data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">
-                                                            Mengapa Qoobah Layak Jadi Pilihan Utama sebagai Penjual
+                                                            Mengapa PKM Layak Jadi Pilihan Utama sebagai Penjual
                                                             Kubah Masjid?</h2>
                                                     </div>
                                                 </div>
@@ -3082,153 +3077,176 @@ if (strpos($uri, 'blog') === 0) {
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                            <p style="text-align: left;">Mencari penjual kubah masjid
-                                                                yang benar-benar berpengalaman dan profesional tentu
-                                                                menjadi prioritas bagi panitia pembangunan masjid.</p>
-                                                            <p style="text-align: left;">Qoobah hadir memberikan solusi
-                                                                terbaik bagi anda yang menginginkan kubah masjid
-                                                                berkualitas tinggi, desain eksklusif, serta pengerjaan
-                                                                tepat waktu.</p>
-                                                            <p style="text-align: left;">Dengan rekam jejak yang jelas
-                                                                dan portofolio yang tersebar di berbagai daerah, Qoobah
-                                                                pantas menjadi pilihan utama.</p>
-                                                            <h3 style="text-align: left;"><strong>Reputasi Terpercaya
-                                                                    Sebagai Pembuat Kubah Masjid</strong></h3>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>a.
-                                                                    Pengalaman menangani ratusan proyek</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Qoobah
-                                                                telah mengerjakan ratusan proyek kubah masjid di
-                                                                berbagai kota besar dan pelosok daerah di Indonesia.
-                                                                Setiap proyek dikerjakan dengan standar tinggi, baik
-                                                                dari sisi teknis maupun estetika.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Tim yang
-                                                                berpengalaman memastikan setiap pekerjaan dilakukan
-                                                                sesuai spesifikasi dan harapan klien.</p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>b.
-                                                                    Komitmen terhadap kepuasan pelanggan</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Kepuasan
-                                                                pelanggan adalah prioritas utama Qoobah. Setiap detail
-                                                                proyek dipastikan berjalan sesuai rencana, mulai dari
-                                                                desain awal, pemilihan material, hingga proses
-                                                                instalasi.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Dukungan
-                                                                layanan purna jual juga menjadi bukti nyata bahwa Qoobah
-                                                                menjaga hubungan jangka panjang dengan setiap mitra
-                                                                pembangunan masjid.</p>
-                                                            <h2 style="text-align: left;"><strong>Ragam Pilihan Material
-                                                                    Kubah Masjid Berkualitas</strong></h2>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>a.
-                                                                    Kubah galvalum untuk efisiensi dan
-                                                                    keindahan</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Material
-                                                                galvalum menjadi pilihan populer karena bobotnya yang
-                                                                ringan serta tampilan yang modern.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Qoobah
-                                                                menyediakan berbagai opsi desain dan warna yang dapat
-                                                                disesuaikan dengan arsitektur masjid, menjadikan kubah
-                                                                galvalum sebagai solusi ekonomis dan menarik.</p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>b.
-                                                                    Kubah enamel infinith dengan estetika
-                                                                    premium</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Kubah
-                                                                enamel dikenal karena kualitas visualnya yang cemerlang
-                                                                dan proses finishing yang presisi. Qoobah memproduksi
-                                                                kubah enamel dengan teknologi tinggi dan standar
-                                                                produksi terbaik, menjadikan tampilannya mengkilap serta
-                                                                mudah dirawat.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Informasi
-                                                                mengenai harga kubah enamel per m2 juga transparan dan
-                                                                dapat dikonsultasikan langsung kepada tim sales kami.
+                                                            <p style="text-align: left;">
+                                                                Mencari penjual kubah masjid terpercaya dengan hasil berkualitas tentu menjadi prioritas utama dalam pembangunan masjid.
+                                                                Memilih kontraktor kubah masjid yang berpengalaman akan membantu mendapatkan hasil yang kokoh, estetis, dan tahan lama.
                                                             </p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>c.
-                                                                    Kubah stainless gold yang elegan dan
-                                                                    eksklusif</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Untuk
-                                                                masjid dengan konsep arsitektur megah, kubah stainless
-                                                                gold menjadi pilihan favorit. Lapisan warna keemasan
-                                                                memberikan kesan mewah dan elegan. Material ini juga
-                                                                memiliki karakteristik yang kokoh terhadap perubahan
-                                                                cuaca serta tidak mudah mengalami perubahan warna.</p>
-                                                            <h2 style="text-align: left;"><strong>Proses Produksi yang
-                                                                    Profesional dan Terstandar</strong></h2>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>a.
-                                                                    Desain custom sesuai kebutuhan</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Setiap
-                                                                masjid memiliki karakteristik unik. Oleh karena itu,
-                                                                Qoobah menyediakan layanan desain kubah yang disesuaikan
-                                                                dengan permintaan klien. Mulai dari bentuk, warna,
-                                                                hingga ornamen, semua dirancang untuk menyatu dengan
-                                                                bangunan utama masjid.</p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>b.
-                                                                    Pengerjaan presisi di pabrik milik sendiri</strong>
+
+                                                            <p style="text-align: left;">
+                                                                PKM hadir sebagai produsen dan pembuat kubah masjid profesional yang melayani berbagai kebutuhan desain kubah modern,
+                                                                mulai dari kubah galvalum, enamel, hingga stainless gold dengan kualitas terbaik dan harga kompetitif.
+                                                            </p>
+
+                                                            <p style="text-align: left;">
+                                                                Dengan pengalaman menangani proyek di berbagai daerah Indonesia, PKM menjadi solusi terbaik untuk pembangunan kubah
+                                                                masjid yang elegan, presisi, dan dikerjakan tepat waktu.
+                                                            </p>
+
+                                                            <h3 style="text-align: left;">
+                                                                <strong>Reputasi Profesional Sebagai Penjual Kubah Masjid</strong>
                                                             </h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Dengan
-                                                                fasilitas produksi yang lengkap, semua komponen kubah
-                                                                dibuat langsung oleh tim teknis Qoobah. Proses fabrikasi
-                                                                dilakukan secara presisi menggunakan mesin-mesin modern
-                                                                dan tenaga kerja terlatih, sehingga hasil akhirnya
-                                                                sesuai dengan rencana gambar teknis.</p>
-                                                            <h2 style="text-align: left;"><strong>Harga Kompetitif dan
-                                                                    Penawaran Transparan</strong></h2>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>a.
-                                                                    Estimasi Harga yang Sesuai Kebutuhan</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Qoobah
-                                                                memberikan estimasi harga yang jujur dan sesuai dengan
-                                                                jenis kubah yang dipilih. Mulai dari kubah galvalum
-                                                                hingga enamel dan stainless gold, semua ditawarkan
-                                                                dengan skema harga yang kompetitif dan transparan.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Informasi
-                                                                mengenai harga
-                                                                kubah enamel per m2</a> serta material lainnya dapat
-                                                                dikonsultasikan secara langsung untuk mendapatkan
-                                                                penawaran terbaik.</p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>b.
-                                                                    Solusi Anggaran dan Konsultasi Gratis</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Qoobah juga
-                                                                siap memberikan masukan terbaik bagi panitia pembangunan
-                                                                masjid yang memiliki batas anggaran tertentu. Tim kami
-                                                                akan membantu menentukan material dan desain yang tepat
-                                                                agar tetap berkualitas tanpa mengorbankan anggaran yang
-                                                                tersedia.</p>
-                                                            <h2 style="text-align: left;"><strong>Layanan dan Jangkauan
-                                                                    Qoobah yang Luas</strong></h2>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>a.
-                                                                    Siap Menjangkau Berbagai Kota di Indonesia</strong>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>a. Berpengalaman mengerjakan berbagai proyek kubah</strong>
                                                             </h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Qoobah
-                                                                telah mengirimkan dan memasang kubah masjid ke berbagai
-                                                                wilayah Indonesia. Mulai dari Sumatera, Jawa,
-                                                                Kalimantan, hingga Sulawesi.</p>
-                                                            <p style="padding-left: 40px; text-align: left;">Anda yang
-                                                                sedang mencari penjual kubah masjid terdekat di kota
-                                                                anda juga bisa menghubungi tim kami untuk jadwal survei
-                                                                lokasi.</p>
-                                                            <h3 style="padding-left: 40px; text-align: left;"><strong>b.
-                                                                    Tim Ahli Siap Kunjungan Lapangan</strong></h3>
-                                                            <p style="padding-left: 40px; text-align: left;">Kami
-                                                                memiliki tim teknis dan arsitek yang dapat melakukan
-                                                                kunjungan langsung ke lokasi pembangunan masjid. Hal ini
-                                                                dilakukan untuk memastikan semua aspek struktur,
-                                                                pondasi, dan kebutuhan bangunan diperhitungkan secara
-                                                                cermat sebelum proses produksi dimulai.</p>
-                                                            <h2 style="text-align: left;"><strong>Pilihan Terbaik untuk
-                                                                    Kubah Masjid Anda</strong></h2>
-                                                            <p style="text-align: left;">Dengan pengalaman panjang,
-                                                                kualitas material unggulan, desain yang dapat
-                                                                disesuaikan, serta layanan profesional dari awal hingga
-                                                                akhir proyek, Qoobah adalah mitra terbaik dalam
-                                                                pembangunan kubah masjid.</p>
-                                                            <p style="text-align: left;">Jika anda sedang mencari
-                                                                penjual kubah masjid yang profesional, segera hubungi
-                                                                tim kami dan konsultasikan kebutuhan anda. Dapatkan
-                                                                informasi lengkap tentang desain, material, serta
-                                                                estimasi harga kubah enamel per m2 dan jenis kubah
-                                                                lainnya secara langsung dari konsultan kami.</p>
-                                                            <p style="text-align: left;">Qoobah siap membantu anda
-                                                                mewujudkan kubah masjid yang megah dan indah dipandang,
-                                                                sesuai impian jamaah dan identitas masjid anda. Hubungi
-                                                                tim sales kami di <strong>+62 851-8858-8596</strong>
-                                                                untuk konsultasi langsung.</p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                PKM telah dipercaya mengerjakan berbagai proyek kubah masjid di kota besar maupun daerah pelosok Indonesia.
+                                                                Setiap proyek dikerjakan dengan standar kualitas tinggi untuk memastikan hasil kubah kuat, indah, dan sesuai kebutuhan masjid.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Tim ahli kami mengutamakan ketelitian dalam setiap tahap produksi dan pemasangan agar hasil akhir sesuai harapan pelanggan.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>b. Fokus terhadap kepuasan pelanggan</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Kepuasan pelanggan menjadi prioritas utama PKM. Mulai dari konsultasi desain, pemilihan material, proses produksi,
+                                                                hingga pemasangan kubah dilakukan secara profesional dan transparan.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Kami juga menyediakan layanan konsultasi dan dukungan purna jual untuk memastikan kualitas kubah tetap terjaga dalam jangka panjang.
+                                                            </p>
+
+                                                            <h2 style="text-align: left;">
+                                                                <strong>Pilihan Material Kubah Masjid Berkualitas</strong>
+                                                            </h2>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>a. Kubah galvalum modern dan ekonomis</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Kubah galvalum menjadi pilihan populer karena memiliki bobot ringan, desain modern, dan harga yang lebih ekonomis.
+                                                                Material ini cocok digunakan untuk berbagai konsep bangunan masjid.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                PKM menyediakan banyak pilihan warna dan desain kubah galvalum yang dapat disesuaikan dengan arsitektur masjid Anda.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>b. Kubah enamel premium berkualitas tinggi</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Kubah enamel dikenal memiliki tampilan mengkilap, warna tahan lama, dan perawatan yang mudah.
+                                                                PKM memproduksi kubah enamel menggunakan material berkualitas dengan finishing presisi untuk menghasilkan tampilan yang elegan.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Informasi harga kubah enamel per m2 dapat dikonsultasikan langsung bersama tim kami untuk mendapatkan penawaran terbaik.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>c. Kubah stainless gold elegan dan mewah</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Untuk masjid dengan konsep megah dan modern, kubah stainless gold menjadi pilihan terbaik.
+                                                                Material ini memiliki tampilan eksklusif, tahan cuaca, anti karat, dan tetap indah dalam jangka panjang.
+                                                            </p>
+
+                                                            <h2 style="text-align: left;">
+                                                                <strong>Proses Produksi Kubah yang Profesional</strong>
+                                                            </h2>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>a. Desain custom sesuai kebutuhan masjid</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Setiap masjid memiliki desain dan karakteristik berbeda. Oleh karena itu, PKM menyediakan layanan desain kubah custom
+                                                                sesuai kebutuhan pelanggan mulai dari bentuk, warna, motif, hingga ukuran kubah.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>b. Produksi presisi dengan tenaga ahli</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Seluruh proses produksi dilakukan oleh tenaga profesional menggunakan peralatan modern agar hasil kubah lebih presisi,
+                                                                kuat, dan sesuai standar kualitas terbaik.
+                                                            </p>
+
+                                                            <h2 style="text-align: left;">
+                                                                <strong>Harga Kubah Masjid Transparan dan Kompetitif</strong>
+                                                            </h2>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>a. Estimasi harga sesuai kebutuhan</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                PKM memberikan estimasi harga kubah masjid secara transparan berdasarkan jenis material, ukuran, dan desain yang dipilih.
+                                                                Mulai dari kubah galvalum hingga enamel tersedia dengan harga kompetitif.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Konsultasikan kebutuhan kubah masjid Anda untuk mendapatkan informasi harga kubah enamel per m2 dan jenis material lainnya.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>b. Konsultasi gratis dan solusi sesuai anggaran</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Kami siap membantu menentukan pilihan desain dan material terbaik sesuai anggaran pembangunan masjid tanpa mengurangi kualitas hasil akhir.
+                                                            </p>
+
+                                                            <h2 style="text-align: left;">
+                                                                <strong>Layanan Pemasangan Kubah Masjid Seluruh Indonesia</strong>
+                                                            </h2>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>a. Melayani berbagai wilayah di Indonesia</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                PKM melayani pembuatan dan pemasangan kubah masjid di berbagai kota di Indonesia, mulai dari Jawa, Sumatera, Kalimantan, Sulawesi, hingga wilayah lainnya.
+                                                            </p>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Bagi Anda yang mencari penjual kubah masjid terdekat, tim kami siap membantu survei dan konsultasi langsung ke lokasi pembangunan.
+                                                            </p>
+
+                                                            <h3 style="padding-left: 40px; text-align: left;">
+                                                                <strong>b. Tim teknis siap survei lapangan</strong>
+                                                            </h3>
+
+                                                            <p style="padding-left: 40px; text-align: left;">
+                                                                Tim teknis dan arsitek kami siap melakukan survei lapangan untuk memastikan struktur bangunan, ukuran, dan kebutuhan kubah masjid dihitung secara tepat sebelum proses produksi dimulai.
+                                                            </p>
+
+                                                            <h2 style="text-align: left;">
+                                                                <strong>Solusi Terbaik untuk Kubah Masjid Berkualitas</strong>
+                                                            </h2>
+
+                                                            <p style="text-align: left;">
+                                                                Dengan pengalaman, material berkualitas, desain modern, serta pengerjaan profesional, PKM siap menjadi mitra terbaik dalam pembangunan kubah masjid impian Anda.
+                                                            </p>
+
+                                                            <p style="text-align: left;">
+                                                                Segera konsultasikan kebutuhan kubah masjid Anda bersama tim kami untuk mendapatkan informasi lengkap mengenai desain, material, dan estimasi harga terbaik.
+                                                            </p>
+
+                                                            <p style="text-align: left;">
+                                                                PKM siap membantu mewujudkan kubah masjid yang megah, kuat, dan indah dipandang sesuai identitas masjid Anda.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3365,67 +3383,172 @@ if (strpos($uri, 'blog') === 0) {
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+                    style="background-color: #1a1a1a; padding: 60px 0 30px 0;">
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
+                        <div class="elementor-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+                            <!-- Column 1: Logo & Description -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 250px;">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    PT KUBAH MANDIRI INDONESIA - All rights reserved</p>
-                                            </div>
+                                        <div style="margin-bottom: 20px;">
+                                            <img src="./images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA"
+                                                style="width: 80px; height: auto; margin-bottom: 15px;">
+                                            <h3 style="color: #fff; font-size: 18px; font-weight: 700; margin: 10px 0;">
+                                                PT. KUBAH MANDIRI<br>INDONESIA
+                                            </h3>
+                                        </div>
+                                        <p style="color: #b0b0b0; font-size: 14px; line-height: 1.6; margin: 0;">
+                                            Produsen Kubah Masjid (PKM) adalah produsen dan kontraktor kubah masjid yang telah
+                                            dipercaya oleh klien kami di seluruh Indonesia
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 0.8; min-width: 180px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff !important; font-size: 16px !important; font-weight: 700 !important; margin-bottom: 20px !important; display: block !important; width: 100% !important;">
+                                            Link Cepat
+                                        </h4>
+                                        <ul style="list-style: none !important; padding: 0 !important; margin: 0 !important; display: block !important; width: 100% !important;">
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Home
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Profile
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Artikel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Kontak Kami
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 200px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Layanan Kami
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0;">
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Enamel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Galvalum
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Stainless
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1.2; min-width: 250px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Informasi Kontak
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-envelope"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    kubahmandiriindonesia19@gmail.com
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-phone-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    (+62) 85188588596
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-map-marker-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">
+                                                    Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.
+                                                </span>
+                                            </li>
+                                        </ul>
+
+                                        <!-- Social Media Icons -->
+                                        <div style="display: flex; gap: 12px;">
+                                            <a href="https://wa.me/6285188588596" target="_blank"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #25D366; transition: transform 0.3s;">
+                                                <i class="fab fa-whatsapp" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
+                                            <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/"
+                                                target="_blank" rel="nofollow"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #1877F2; transition: transform 0.3s;">
+                                                <i class="fab fa-facebook-f" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
-                                                            <
-                                                                <span class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                                </span>
-                                                                <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <!-- <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li> -->
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Copyright Section -->
+                <section
+                    class="elementor-section elementor-top-section"
+                    style="background-color: #0d0d0d; padding: 20px 0; border-top: 1px solid #2a2a2a;">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+                            <p style="color: #808080; font-size: 14px; margin: 0;">
+                                © 2026 PT Kubah Mandiri Indonesia — All rights reserved.
+                                <span style="margin: 0 10px;">|</span>
+                                Dibuat oleh <a href="#" style="color: #25D366; text-decoration: none;">Pyramidsoft</a>
+                            </p>
                         </div>
                     </div>
                 </section>

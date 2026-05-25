@@ -13,7 +13,7 @@ if ($conn->connect_error) {
 }
 
 // Pagination setup
-$articles_per_page = 5;
+$articles_per_page = 6;
 $current_page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
 $current_page = max(1, $current_page); // Ensure page is at least 1
 $offset = ($current_page - 1) * $articles_per_page;
@@ -1471,6 +1471,8 @@ if ($result && $result->num_rows > 0) {
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
+    <!-- Font Awesome CDN Fallback -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' integrity='sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==' crossorigin='anonymous' referrerpolicy='no-referrer' />
     <script src="https://www.jualkubahmasjid.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
         id="jquery-core-js"></script>
     <script src="https://www.jualkubahmasjid.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
@@ -1689,11 +1691,11 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1756,11 +1758,11 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1784,83 +1786,231 @@ if ($result && $result->num_rows > 0) {
 
             <div class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75" id="primary">
                 <main class="site-main" id="main">
+                    <!-- Custom Card Grid CSS -->
+                    <style>
+                        .blog-cards-grid {
+                            display: grid;
+                            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                            gap: 30px;
+                            margin-bottom: 40px;
+                        }
+
+                        .blog-card {
+                            background: #fff;
+                            border-radius: 12px;
+                            overflow: hidden;
+                            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+                            transition: transform 0.3s ease, box-shadow 0.3s ease;
+                            display: flex;
+                            flex-direction: column;
+                            height: 100%;
+                        }
+
+                        .blog-card:hover {
+                            transform: translateY(-8px);
+                            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+                        }
+
+                        .blog-card-image {
+                            width: 100%;
+                            height: 220px;
+                            overflow: hidden;
+                            position: relative;
+                            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        }
+
+                        .blog-card-image img {
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                            transition: transform 0.3s ease;
+                        }
+
+                        .blog-card:hover .blog-card-image img {
+                            transform: scale(1.1);
+                        }
+
+                        .blog-card-content {
+                            padding: 25px;
+                            flex: 1;
+                            display: flex;
+                            flex-direction: column;
+                        }
+
+                        .blog-card-meta {
+                            display: flex;
+                            align-items: center;
+                            gap: 15px;
+                            margin-bottom: 15px;
+                            font-size: 13px;
+                            color: #888;
+                        }
+
+                        .blog-card-meta i {
+                            color: #667eea;
+                            margin-right: 5px;
+                        }
+
+                        .blog-card-title {
+                            font-size: 20px;
+                            font-weight: 700;
+                            margin: 0 0 15px 0;
+                            line-height: 1.4;
+                        }
+
+                        .blog-card-title a {
+                            color: #2d3748;
+                            text-decoration: none;
+                            transition: color 0.3s ease;
+                        }
+
+                        .blog-card-title a:hover {
+                            color: #667eea;
+                        }
+
+                        .blog-card-excerpt {
+                            color: #666;
+                            font-size: 14px;
+                            line-height: 1.7;
+                            margin-bottom: 20px;
+                            flex: 1;
+                        }
+
+                        .blog-card-footer {
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            padding-top: 15px;
+                            border-top: 1px solid #e2e8f0;
+                        }
+
+                        .blog-card-category {
+                            display: inline-block;
+                            padding: 5px 12px;
+                            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                            color: #fff;
+                            font-size: 12px;
+                            border-radius: 20px;
+                            text-decoration: none;
+                            font-weight: 600;
+                        }
+
+                        .blog-card-readmore {
+                            color: #667eea;
+                            text-decoration: none;
+                            font-weight: 600;
+                            font-size: 14px;
+                            transition: color 0.3s ease;
+                            display: flex;
+                            align-items: center;
+                            gap: 5px;
+                        }
+
+                        .blog-card-readmore:hover {
+                            color: #764ba2;
+                        }
+
+                        .blog-card-readmore i {
+                            transition: transform 0.3s ease;
+                        }
+
+                        .blog-card-readmore:hover i {
+                            transform: translateX(5px);
+                        }
+
+                        .blog-empty {
+                            text-align: center;
+                            padding: 60px 20px;
+                            background: #f7fafc;
+                            border-radius: 12px;
+                            color: #666;
+                        }
+
+                        @media (max-width: 768px) {
+                            .blog-cards-grid {
+                                grid-template-columns: 1fr;
+                                gap: 20px;
+                            }
+                        }
+                    </style>
+
                     <!-- Hubungan Blog/ Artikel dari database -->
                     <?php if (!empty($articles)): ?>
-                        <?php foreach ($articles as $article): ?>
-                            <article id="post-<?php echo $article['id']; ?>"
-                                class="post-<?php echo $article['id']; ?> post type-post status-publish format-standard hentry category-informatif"
-                                itemtype="https://schema.org/CreativeWork" itemscope>
-                                <div class="inside-article">
-                                    <header class="entry-header">
-                                        <h2 class="entry-title" itemprop="headline">
-                                            <a href="http://localhost/SIKUBAH/pages/menu/article_detail.php?slug=<?php echo urlencode($article['slug']); ?>" rel="bookmark">
-                                                <?php echo htmlspecialchars($article['title']); ?>
-                                            </a>
-                                        </h2>
-                                        <div class="entry-meta">
+                        <div class="blog-cards-grid">
+                            <?php foreach ($articles as $article): ?>
+                                <article id="post-<?php echo $article['id']; ?>"
+                                    class="blog-card"
+                                    itemtype="https://schema.org/CreativeWork"
+                                    itemscope>
+
+                                    <!-- Card Image -->
+                                    <div class="blog-card-image">
+                                        <?php if (!empty($article['featured_image'])): ?>
+                                            <img decoding="async"
+                                                loading="lazy"
+                                                alt="<?php echo htmlspecialchars($article['title']); ?>"
+                                                src="http://localhost/SIKUBAH/<?php echo htmlspecialchars($article['featured_image']); ?>" />
+                                        <?php else: ?>
+                                            <img decoding="async"
+                                                loading="lazy"
+                                                alt="Default Article Image"
+                                                src="../../images/icon.webp" />
+                                        <?php endif; ?>
+                                    </div>
+
+                                    <!-- Card Content -->
+                                    <div class="blog-card-content">
+                                        <div class="blog-card-meta">
                                             <span class="posted-on">
+                                                <i class="far fa-calendar-alt"></i>
                                                 <time class="entry-date published"
                                                     datetime="<?php echo date('c', strtotime($article['created_at'])); ?>"
                                                     itemprop="datePublished">
-                                                    <?php echo date('d/m/Y', strtotime($article['created_at'])); ?>
+                                                    <?php echo date('d M Y', strtotime($article['created_at'])); ?>
                                                 </time>
                                             </span>
-                                            <span class="byline">by
-                                                <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope>
-                                                    <a class="url fn n" href="#" title="View all posts by PT. Anugerah Kubah Indonesia"
-                                                        rel="author" itemprop="url">
-                                                        <span class="author-name" itemprop="name">PT. Anugerah Kubah Indonesia</span>
-                                                    </a>
+                                            <span class="author-meta">
+                                                <i class="far fa-user"></i>
+                                                <span itemprop="author" itemtype="https://schema.org/Person" itemscope>
+                                                    <span itemprop="name">Admin</span>
+                                                </span>
+                                            </span>
                                         </div>
-                                    </header>
 
-                                    <div class="entry-content" itemprop="text">
-                                        <?php if (!empty($article['featured_image'])): ?>
-                                            <p>
-                                                <img decoding="async"
-                                                    alt="<?php echo htmlspecialchars($article['title']); ?>"
-                                                    class="aligncenter size-full"
-                                                    src="http://localhost/SIKUBAH/<?php echo htmlspecialchars($article['featured_image']); ?>"
-                                                    style="max-width: 100%; height: auto;" />
-                                            </p>
-                                        <?php endif; ?>
-
-                                        <?php
-                                        // Show first 150 characters of content as excerpt
-                                        $content = strip_tags($article['content']);
-                                        $excerpt = mb_substr($content, 0, 150);
-                                        echo '<p>' . htmlspecialchars($excerpt);
-                                        if (mb_strlen($content) > 150) {
-                                            echo '...';
-                                        }
-                                        echo '</p>';
-                                        ?>
-
-                                        <p>
+                                        <h2 class="blog-card-title" itemprop="headline">
                                             <a href="http://localhost/SIKUBAH/pages/menu/article_detail.php?slug=<?php echo urlencode($article['slug']); ?>"
-                                                class="read-more-link">
-                                                Baca Selengkapnya &rarr;
+                                                rel="bookmark">
+                                                <?php echo htmlspecialchars($article['title']); ?>
                                             </a>
-                                        </p>
-                                    </div>
+                                        </h2>
 
-                                    <footer class="entry-meta" aria-label="Entry meta">
-                                        <span class="cat-links">
-                                            <span class="screen-reader-text">Categories </span>
-                                            <a href="#" rel="category tag">Informasi Masjid</a>
-                                        </span>
-                                    </footer>
-                                </div>
-                            </article>
-                        <?php endforeach; ?>
+                                        <div class="blog-card-excerpt" itemprop="description">
+                                            <?php
+                                            // Show first 120 characters of content as excerpt
+                                            $content = strip_tags($article['content']);
+                                            $excerpt = mb_substr($content, 0, 120);
+                                            echo htmlspecialchars($excerpt);
+                                            if (mb_strlen($content) > 120) {
+                                                echo '...';
+                                            }
+                                            ?>
+                                        </div>
+
+                                        <div class="blog-card-footer">
+                                            <a href="http://localhost/SIKUBAH/pages/menu/article_detail.php?slug=<?php echo urlencode($article['slug']); ?>"
+                                                class="blog-card-readmore" style="margin-left: auto;">
+                                                Baca Selengkapnya <i class="fas fa-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </article>
+                            <?php endforeach; ?>
+                        </div>
                     <?php else: ?>
-                        <article class="post type-post status-publish">
-                            <div class="inside-article">
-                                <div class="entry-content">
-                                    <p>Belum ada artikel yang dipublikasikan.</p>
-                                </div>
-                            </div>
-                        </article>
+                        <div class="blog-empty">
+                            <i class="fas fa-newspaper" style="font-size: 48px; color: #cbd5e0; margin-bottom: 20px;"></i>
+                            <p style="font-size: 18px; margin: 0;">Belum ada artikel yang dipublikasikan.</p>
+                        </div>
                     <?php endif; ?>
 
                     <!-- Pagination Navigation -->
@@ -1912,9 +2062,9 @@ if ($result && $result->num_rows > 0) {
                         <div class="textwidget">
                             <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="../../images/profile.webp"
+                                    src="../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../images/profile.webp"
+                                    srcset="../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
@@ -1980,68 +2130,176 @@ if ($result && $result->num_rows > 0) {
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+                    style="background-color: #1a1a1a; padding: 60px 0 30px 0;">
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
+                        <div class="elementor-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+                            <!-- Column 1: Logo & Description -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 250px;">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
-                                            </div>
+                                        <div style="margin-bottom: 20px;">
+                                            <img src="../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA"
+                                                style="width: 80px; height: auto; margin-bottom: 15px;">
+                                            <h3 style="color: #fff; font-size: 18px; font-weight: 700; margin: 10px 0;">
+                                                PT. KUBAH MANDIRI<br>INDONESIA
+                                            </h3>
+                                        </div>
+                                        <p style="color: #b0b0b0; font-size: 14px; line-height: 1.6; margin: 0;">
+                                            Produsen Kubah Masjid (PKM) adalah produsen dan kontraktor kubah masjid yang telah
+                                            dipercaya oleh klien kami di seluruh Indonesia
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 0.8; min-width: 180px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff !important; font-size: 16px !important; font-weight: 700 !important; margin-bottom: 20px !important; display: block !important; width: 100% !important;">
+                                            Link Cepat
+                                        </h4>
+                                        <ul style="list-style: none !important; padding: 0 !important; margin: 0 !important; display: block !important; width: 100% !important;">
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Home
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Profile
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Artikel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Kontak Kami
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 200px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Layanan Kami
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0;">
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Enamel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Galvalum
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Stainless
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1.2; min-width: 250px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Informasi Kontak
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-envelope"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    kubahmandiriindonesia19@gmail.com
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-phone-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    (+62) 85188588596
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-map-marker-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">
+                                                    Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.
+                                                </span>
+                                            </li>
+                                        </ul>
+
+                                        <!-- Social Media Icons -->
+                                        <div style="display: flex; gap: 12px;">
+                                            <a href="https://wa.me/6285188588596" target="_blank"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #25D366; transition: transform 0.3s;">
+                                                <i class="fab fa-whatsapp" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
+                                            <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/"
+                                                target="_blank" rel="nofollow"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #1877F2; transition: transform 0.3s;">
+                                                <i class="fab fa-facebook-f" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
+                <section
+                    class="elementor-section elementor-top-section"
+                    style="background-color: #0d0d0d; padding: 20px 0; border-top: 1px solid #2a2a2a;">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+                            <p style="color: #808080; font-size: 14px; margin: 0;">
+                                © 2026 PT Kubah Mandiri Indonesia — All rights reserved.
+                                <span style="margin: 0 10px;">|</span>
+                                Dibuat oleh <a href="#" style="color: #25D366; text-decoration: none;">Pyramidsoft</a>
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <!-- Sticky WhatsApp Button Desktop -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="f6fbfe4" data-element_type="section"
@@ -2059,7 +2317,7 @@ if ($result && $result->num_rows > 0) {
                                                 <div class="elementor-button-wrapper">
                                                     <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
+                                                        role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span
                                                                 class="elementor-button-icon elementor-align-icon-left">
@@ -2078,6 +2336,7 @@ if ($result && $result->num_rows > 0) {
                         </div>
                     </div>
                 </section>
+                <!-- Sticky WhatsApp & Call Button Mobile -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="6803c2cc" data-element_type="section"
@@ -2095,7 +2354,7 @@ if ($result && $result->num_rows > 0) {
                                                 <div class="elementor-button-wrapper">
                                                     <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
+                                                        role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span
                                                                 class="elementor-button-icon elementor-align-icon-left">

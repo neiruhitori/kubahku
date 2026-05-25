@@ -1466,6 +1466,7 @@ if ($result && $result->num_rows > 0) {
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
@@ -1687,11 +1688,11 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1754,11 +1755,11 @@ if ($result && $result->num_rows > 0) {
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1847,9 +1848,9 @@ if ($result && $result->num_rows > 0) {
                         <div class="textwidget">
                             <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="../../images/profile.webp"
+                                    src="../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../images/profile.webp"
+                                    srcset="../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
@@ -1915,163 +1916,148 @@ if ($result && $result->num_rows > 0) {
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section with 4 Columns -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default"
+                    data-element_type="section"
+                    style="background-color: #1a1a1a; padding: 60px 0 40px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+                            <!-- Column 1: Logo and Company Info -->
+                            <div style="flex: 1; min-width: 250px;">
+                                <div style="margin-bottom: 20px;">
+                                    <img src="../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" style="width: 80px; height: auto; margin-bottom: 15px;">
                                 </div>
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 15px; line-height: 1.4;">PT. KUBAH MANDIRI INDONESIA</h3>
+                                <p style="color: #b0b0b0; font-size: 14px; line-height: 1.8; margin: 0;">
+                                    Kami adalah perusahaan terpercaya yang bergerak di bidang pembuatan kubah masjid dengan kualitas terbaik dan harga terjangkau. Melayani seluruh Indonesia dengan pengalaman puluhan tahun.
+                                </p>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div style="flex: 0.8; min-width: 200px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div style="flex: 1; min-width: 220px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Layanan Kami</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Enamel</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Galvalum</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Stainless Gold</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Menara Masjid</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Ornamen Masjid</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div style="flex: 1.2; min-width: 250px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Informasi Kontak</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-phone-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">0851-8858-8596</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-envelope" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">info@kubahmandiri.co.id</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-map-marker-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.</span>
+                                    </li>
+                                </ul>
+
+                                <div style="margin-top: 20px;">
+                                    <h4 style="color: #ffffff; font-size: 16px; font-weight: 600; margin-bottom: 15px;">Ikuti Kami</h4>
+                                    <div style="display: flex; gap: 12px;">
+                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1877F2; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-facebook-f" style="font-size: 18px;"></i>
+                                        </a>
+                                        <!-- <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos" target="_blank" rel="nofollow" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #FF0000; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-youtube" style="font-size: 18px;"></i>
+                                        </a> -->
+                                        <!-- <a href="#" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s;">
+                                            <i class="fab fa-instagram" style="font-size: 18px;"></i>
+                                        </a> -->
+                                        <a href="https://wa.me/6285188588596" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f6fbfe4" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e09d0fc"
-                                data-id="4e09d0fc" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f8ee73 elementor-widget elementor-widget-button"
-                                            data-id="6f8ee73" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp
-                                                                085188588596</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    class="elementor-section elementor-top-section elementor-element"
+                    data-element_type="section"
+                    style="background-color: #0d0d0d; padding: 20px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="text-align: center;">
+                            <p style="color: #b0b0b0; font-size: 14px; margin: 0;">© 2026 PT Kubah Mandiri Indonesia — All rights reserved. | Dibuat oleh <strong style="color: #25D366;">Pyramidsoft</strong></p>
                         </div>
                     </div>
                 </section>
+
+                <!-- Sticky WhatsApp Button (Desktop) -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="6803c2cc" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e424efd"
-                                data-id="1e424efd" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-415227aa elementor-widget elementor-widget-button"
-                                            data-id="415227aa" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70a558ee"
-                                data-id="70a558ee" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-1ebb6fff call-generic elementor-widget elementor-widget-button"
-                                            data-id="1ebb6fff" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="call-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">Call</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-tablet elementor-hidden-phone"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; background-color: transparent;">
+                    <div>
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="display: inline-flex; align-items: center; gap: 10px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4); transition: all 0.3s;">
+                            <i class="fab fa-whatsapp" style="font-size: 20px;"></i>
+                            <span>WhatsApp 085188588596</span>
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Sticky WhatsApp & Call Buttons (Mobile/Tablet) -->
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-desktop"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: #ffffff; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); padding: 10px;">
+                    <div style="display: flex; gap: 10px; max-width: 600px; margin: 0 auto;">
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                        <a href="tel:+6285188588596"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #1877F2; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fas fa-phone-alt" style="font-size: 18px;"></i>
+                            <span>Call</span>
+                        </a>
                     </div>
                 </section>
             </div>

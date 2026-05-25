@@ -1442,6 +1442,7 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
@@ -1660,11 +1661,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1727,11 +1728,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1782,74 +1783,57 @@
                                             Harga Replika Pintu Nabawi Termurah</strong></p>
                                 </blockquote>
                                 <p><img decoding="async" class="aligncenter size-full wp-image-16531"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi.jpg"
+                                        src="../../../images/pnabawi4.webp"
                                         alt="pengrajin pintu nabawi" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-nabawi-1448x2048.jpg 1448w"
+                                        srcset="../../../images/pnabawi4.webp"
                                         sizes="(max-width: 1587px) 100vw, 1587px" /></p>
-                                <p>Apakah Anda mencari replika pintu Masjid Nabawi yang autentik dan berkualitas? Kami
-                                    di sini siap memenuhi kebutuhan jasa pengrajin pintu Nabawi dengan pengalaman dan
-                                    harga yang terjangkau.</p>
+                                <p>Sedang mencari tiruan pintu Masjid Nabawi yang asli dan bermutu tinggi? Kami hadir untuk melayani keperluan Anda dengan layanan pembuatan pintu Nabawi yang berpengalaman serta tarif yang kompetitif dan terjangkau.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Replika_Pintu_Nabawi_Berbahan_Kualitas_Premium"></span><strong>Replika Pintu
                                         Nabawi Berbahan Kualitas Premium</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Kami adalah pengrajin pintu masjid Nabawi yang memiliki pengalaman dalam menciptakan
-                                    replika pintu Masjid Nabawi yang memukau. Menggunakan bahan baku terbaik, seperti
-                                    kayu jati dan plat kuningan berkualitas dengan ketebalan 0,8 cm, kami memastikan
-                                    daun pintu kokoh, presisi, dan tidak mudah melengkung. Anda akan merasakan kemewahan
-                                    dari ornamen kuningan yang berkilau, seakan-akan Anda berada di hadapan pintu Masjid
-                                    Nabawi yang asli.</p>
+                                <p>Sebagai pembuat pintu masjid Nabawi profesional, kami berpengalaman dalam menghasilkan tiruan pintu Masjid Nabawi yang menawan. Dengan material pilihan terbaik seperti kayu jati premium dan lembaran kuningan bermutu ketebalan 0,8 cm, kami menjamin konstruksi pintu yang kuat, akurat, serta tahan lama tanpa mudah berubah bentuk. Anda akan menemukan keanggunan dari hiasan kuningan yang cemerlang, memberikan nuansa seolah-olah Anda sedang menyaksikan pintu Masjid Nabawi yang sesungguhnya.</p>
                                 <p><img decoding="async" class="aligncenter size-full wp-image-16532"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi.jpg"
+                                        src="../../../images/pnabawi3.webp"
                                         alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/pengrajin-pintu-masjid-nabawi-1448x2048.jpg 1448w"
+                                        srcset="../../../images/pnabawi3.webp"
                                         sizes="(max-width: 1587px) 100vw, 1587px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Dikerjakan_Oleh_Para_Pengrajin_yang_Teliti"></span><strong>Dikerjakan Oleh
                                         Para Pengrajin yang Teliti</strong><span class="ez-toc-section-end"></span></h2>
-                                <p>Kami memahami betapa pentingnya keakuratan dan ketelitian dalam menciptakan replika
-                                    pintu Nabawi ini. Oleh karena itu, kami meyakinkan Anda bahwa pengerjaan kami
-                                    dilakukan dengan teliti dan hati-hati. Setiap detail dijaga dengan seksama untuk
-                                    memberikan hasil yang memuaskan. Anda tidak perlu merasa khawatir, karena kami
-                                    berkomitmen untuk memberikan pengerjaan tepat waktu dan menjaga standar kualitas
-                                    yang tinggi.</p>
-                                <p>Kami memiliki tim pengrajin pintu Nabawi yang berbakat dan berdedikasi untuk
-                                    memberikan hasil yang sempurna. Dan yang lebih penting lagi, kami memahami
-                                    pentingnya waktu bagi Anda, sehingga kami berkomitmen untuk menyelesaikan pengerjaan
-                                    tepat waktu.</p>
+                                <p>Kami menyadari sangat pentingnya ketepatan dan kehati-hatian dalam menghasilkan tiruan pintu Nabawi ini. Karena itu, kami memberikan jaminan bahwa proses produksi kami dikerjakan secara cermat dan detail. Setiap aspek diperhatikan dengan teliti untuk menghasilkan karya yang maksimal. Anda tak perlu cemas, sebab kami memiliki komitmen kuat untuk menyelesaikan pekerjaan sesuai jadwal dan mempertahankan mutu terbaik.</p>
+                                <p>Tim tenaga ahli pembuat pintu Nabawi kami terdiri dari individu-individu terampil yang berdedikasi penuh menghasilkan karya sempurna. Lebih dari itu, kami sangat paham betapa berharganya waktu untuk Anda, maka kami berjanji menuntaskan proyek sesuai tenggat yang disepakati.</p>
                                 <p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-16533"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi.jpg"
+                                        src="../../../images/pnabawi2.webp"
                                         alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/harga-pintu-nabawi-1448x2048.jpg 1448w"
+                                        srcset="../../../images/pnabawi2.webp"
                                         sizes="auto, (max-width: 1587px) 100vw, 1587px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Cara_Pemesanan_Replika_Pintu_Nabawi_Sangat_Mudah"></span><strong>Cara
                                         Pemesanan Replika Pintu Nabawi Sangat Mudah</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Untuk memesan <a
-                                        href="#">replika
-                                        pintu Nabawi</a> ini, silakan menghubungi tim Sales <a
-                                        href="#">Qoobah</a> kami melalui nomor
-                                    085188588596. Kami akan memberikan pelayanan yang ramah dan membantu Anda dalam
-                                    proses pemesanan. Kami juga menawarkan kemudahan dalam pemesanan, sehingga Anda
-                                    dapat dengan mudah mendapatkan replika pintu <a
+                                <p>Apabila berminat memesan <a
+                                        href="#">tiruan
+                                        pintu Nabawi</a> ini, silahkan hubungi divisi Penjualan <a
+                                        href="#">Qoobah</a> kami pada kontak
+                                    085188588596. Kami siap melayani dengan sikap profesional dan mendampingi Anda sepanjang proses order. Kami juga menghadirkan sistem pemesanan yang praktis, supaya Anda bisa dengan gampang memperoleh tiruan pintu <a
                                         href="https://id.wikipedia.org/wiki/Masjid_Nabawi" target="_blank"
-                                        rel="nofollow noopener">Masjid Nabawi</a> yang Anda impikan.</p>
+                                        rel="nofollow noopener">Masjid Nabawi</a> yang Anda dambakan.</p>
                                 <figure id="attachment_17326" aria-describedby="caption-attachment-17326"
                                     style="width: 1270px" class="wp-caption aligncenter"><img loading="lazy"
                                         decoding="async" class="size-full wp-image-17326"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1.jpeg"
+                                        src="../../../images/pnabawi.webp"
                                         alt="replika pintu nabawi" width="1280" height="1280"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1.jpeg 1280w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1-300x300.jpeg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1-1024x1024.jpeg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1-150x150.jpeg 150w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/05/replika-pintu-nabawi-1-768x768.jpeg 768w"
+                                        srcset="../../../images/pnabawi.webp"
                                         sizes="auto, (max-width: 1280px) 100vw, 1280px" />
                                     <figcaption id="caption-attachment-17326" class="wp-caption-text">Replika Pintu
                                         Nabawi</figcaption>
                                 </figure>
-                                <p>Jadi, jangan ragu lagi! Percayakan kebutuhan replika pintu Masjid Nabawi Anda kepada
-                                    kami. Dapatkan keindahan dan kemegahan seperti Masjid Nabawi dalam masjid Anda
-                                    dengan harga terjangkau. Hubungi tim Sales kami sekarang di nomor
-                                    <strong>085188588596</strong> dan mulailah menciptakan suasana yang istimewa di
-                                    ruang masjid Anda.
+                                <p>Maka dari itu, jangan bimbang lagi! Serahkan keperluan tiruan pintu Masjid Nabawi Anda pada
+                                    kami. Rasakan pesona dan keagungan seperti Masjid Nabawi di masjid Anda
+                                    dengan biaya yang sangat ekonomis. Kontak divisi Penjualan kami segera pada nomor
+                                    <strong>085188588596</strong> dan wujudkanlah atmosfer yang sakral dan berkesan di
+                                    area ibadah masjid Anda.
                                 </p>
                                 <p>&nbsp;</p>
                                 <h3><strong>Temukan Pengrajin Pintu Masjid Nabawi pada Google Maps: </strong><br />
@@ -1941,9 +1925,9 @@
                     <aside id="text-4" class="widget inner-padding widget_text">
                         <div class="textwidget">
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="../../../images/profile.webp"
+                                    src="../../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../../images/profile.webp"
+                                    srcset="../../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
@@ -2009,163 +1993,148 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section with 4 Columns -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    PT. Kubah Mandiri Indonesia - All rights reserved</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default"
+                    data-element_type="section"
+                    style="background-color: #1a1a1a; padding: 60px 0 40px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+                            <!-- Column 1: Logo and Company Info -->
+                            <div style="flex: 1; min-width: 250px;">
+                                <div style="margin-bottom: 20px;">
+                                    <img src="../../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" style="width: 80px; height: auto; margin-bottom: 15px;">
                                 </div>
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 15px; line-height: 1.4;">PT. KUBAH MANDIRI INDONESIA</h3>
+                                <p style="color: #b0b0b0; font-size: 14px; line-height: 1.8; margin: 0;">
+                                    Kami adalah perusahaan terpercaya yang bergerak di bidang pembuatan kubah masjid dengan kualitas terbaik dan harga terjangkau. Melayani seluruh Indonesia dengan pengalaman puluhan tahun.
+                                </p>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div style="flex: 0.8; min-width: 200px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div style="flex: 1; min-width: 220px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Layanan Kami</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Enamel</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Galvalum</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Stainless Gold</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Menara Masjid</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Ornamen Masjid</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div style="flex: 1.2; min-width: 250px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Informasi Kontak</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-phone-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">0851-8858-8596</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-envelope" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">info@kubahmandiri.co.id</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-map-marker-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.</span>
+                                    </li>
+                                </ul>
+
+                                <div style="margin-top: 20px;">
+                                    <h4 style="color: #ffffff; font-size: 16px; font-weight: 600; margin-bottom: 15px;">Ikuti Kami</h4>
+                                    <div style="display: flex; gap: 12px;">
+                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1877F2; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-facebook-f" style="font-size: 18px;"></i>
+                                        </a>
+                                        <!-- <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos" target="_blank" rel="nofollow" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #FF0000; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-youtube" style="font-size: 18px;"></i>
+                                        </a>
+                                        <a href="#" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s;">
+                                            <i class="fab fa-instagram" style="font-size: 18px;"></i>
+                                        </a> -->
+                                        <a href="https://wa.me/6285188588596" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f6fbfe4" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e09d0fc"
-                                data-id="4e09d0fc" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f8ee73 elementor-widget elementor-widget-button"
-                                            data-id="6f8ee73" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp
-                                                                085188588596</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    class="elementor-section elementor-top-section elementor-element"
+                    data-element_type="section"
+                    style="background-color: #0d0d0d; padding: 20px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="text-align: center;">
+                            <p style="color: #b0b0b0; font-size: 14px; margin: 0;">© 2026 PT Kubah Mandiri Indonesia — All rights reserved. | Dibuat oleh <strong style="color: #25D366;">Pyramidsoft</strong></p>
                         </div>
                     </div>
                 </section>
+
+                <!-- Sticky WhatsApp Button (Desktop) -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="6803c2cc" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e424efd"
-                                data-id="1e424efd" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-415227aa elementor-widget elementor-widget-button"
-                                            data-id="415227aa" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70a558ee"
-                                data-id="70a558ee" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-1ebb6fff call-generic elementor-widget elementor-widget-button"
-                                            data-id="1ebb6fff" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="call-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">Call</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-tablet elementor-hidden-phone"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; background-color: transparent;">
+                    <div>
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="display: inline-flex; align-items: center; gap: 10px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4); transition: all 0.3s;">
+                            <i class="fab fa-whatsapp" style="font-size: 20px;"></i>
+                            <span>WhatsApp 085188588596</span>
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Sticky WhatsApp & Call Buttons (Mobile/Tablet) -->
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-desktop"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: #ffffff; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); padding: 10px;">
+                    <div style="display: flex; gap: 10px; max-width: 600px; margin: 0 auto;">
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                        <a href="tel:+6285188588596"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #1877F2; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fas fa-phone-alt" style="font-size: 18px;"></i>
+                            <span>Call</span>
+                        </a>
                     </div>
                 </section>
             </div>

@@ -1361,6 +1361,8 @@
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
+    <!-- Font Awesome CDN Fallback -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' integrity='sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==' crossorigin='anonymous' referrerpolicy='no-referrer' />
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.1.1"
         id="font-awesome-4-shim-js"></script>
@@ -1570,11 +1572,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1637,11 +1639,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1688,31 +1690,39 @@
                                                     <div class="siteorigin-widget-tinymce textwidget">
                                                         <p><img decoding="async"
                                                                 class="size-full wp-image-20436 aligncenter"
-                                                                src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah.jpg"
+                                                                src="../../images/kalkulator2.webp"
                                                                 alt="" width="1587" height="2245"
-                                                                srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/05/396-kalkulator-kubah-1448x2048.jpg 1448w"
+                                                                srcset="../../images/kalkulator2.webp 1587w"
                                                                 sizes="(max-width: 1587px) 100vw, 1587px" /></p>
-                                                        <p>Bagi anda yang sedang menjadi panitia pembangunan masjid dan
-                                                            ingin mengetahui secara cepat berapa biaya pembuatan kubah
-                                                            masjid, kini tidak perlu bingung lagi. Kami memperkenalkan
-                                                            kalkulator kubah yang dapat membantu anda menghitung <a
-                                                                href="http://localhost/SIKUBAH/pages/menu/harga.php">harga
-                                                                kubah masjid per meter</a> dengan mudah dan praktis.</p>
-                                                        <p>Alat ini memudahkan proses estimasi awal sehingga anda dapat
-                                                            merencanakan anggaran dengan lebih tepat. PT. Kubah Mandiri Indonesia, sebagai kontraktor kubah masjid terpercaya,
-                                                            berkomitmen memberikan layanan terbaik dan biaya pembuatan
-                                                            kubah yang paling terjangkau, didukung oleh pengalaman
-                                                            panjang dan tenaga ahli berpengalaman di bidangnya.</p>
+                                                        <p>
+                                                            Bagi Anda yang sedang merencanakan pembangunan masjid dan ingin mengetahui estimasi biaya pembuatan kubah secara cepat, kini proses perhitungannya menjadi lebih mudah.
+                                                            Melalui kalkulator kubah ini, Anda dapat menghitung
+                                                            <a href="http://localhost/SIKUBAH/pages/menu/harga.php">
+                                                                harga kubah masjid per meter
+                                                            </a>
+                                                            secara praktis, akurat, dan sesuai kebutuhan desain kubah yang diinginkan.
+                                                        </p>
+                                                        <p>
+                                                            Kalkulator kubah ini membantu mempermudah proses estimasi biaya awal sehingga Anda dapat merencanakan anggaran pembangunan masjid dengan lebih efektif dan terukur.
+                                                            PKM sebagai penjual dan kontraktor kubah masjid terpercaya siap memberikan layanan profesional dengan kualitas terbaik, harga kompetitif, serta didukung tenaga ahli berpengalaman dalam pembuatan dan pemasangan kubah masjid di berbagai wilayah Indonesia.
+                                                        </p>
                                                         <h2><strong>Apa Itu Kalkulator Kubah Masjid?</strong></h2>
-                                                        <p>Kalkulator kubah masjid adalah sebuah alat bantu online yang
-                                                            memudahkan siapa saja untuk menghitung biaya pembuatan kubah
-                                                            berdasarkan dimensi kubah yang diinginkan. Dengan memasukkan
-                                                            beberapa data dasar, anda sudah bisa mendapatkan estimasi
-                                                            harga secara cepat tanpa harus menunggu lama.</p>
-                                                        <p>Prinsip kerjanya sangat sederhana: harga kubah masjid per
-                                                            meter <strong>dihitung berdasarkan diameter dan tinggi
-                                                                kubah</strong>. Silakan input data berikut ke dalam
-                                                            kalkulator kubah di bawah ini untuk memulai perhitungan:</p>
+
+                                                        <p>
+                                                            Kalkulator kubah masjid merupakan fitur perhitungan online yang dirancang untuk membantu menghitung estimasi biaya pembuatan kubah masjid secara lebih cepat dan praktis.
+                                                            Dengan hanya memasukkan ukuran dasar seperti diameter dan tinggi kubah, Anda dapat mengetahui perkiraan harga kubah masjid sesuai kebutuhan proyek pembangunan.
+                                                        </p>
+
+                                                        <p>
+                                                            Fitur ini sangat membantu panitia pembangunan masjid maupun kontraktor dalam menyusun anggaran secara lebih efisien tanpa harus melakukan perhitungan manual yang rumit.
+                                                            Selain mudah digunakan, kalkulator kubah juga memberikan estimasi harga secara cepat sehingga proses konsultasi dan perencanaan pembangunan menjadi lebih efektif.
+                                                        </p>
+                                                        <p>
+                                                            Proses perhitungan harga kubah masjid dilakukan berdasarkan ukuran
+                                                            <strong>diameter dan tinggi kubah</strong>.
+                                                            Dengan memasukkan data ukuran tersebut ke dalam kalkulator kubah di bawah ini,
+                                                            Anda dapat mengetahui estimasi biaya pembuatan kubah masjid secara cepat, mudah, dan praktis.
+                                                        </p>
                                                         <p><strong>Diameter terbesar kubah (m)</strong><br />
                                                             <input id="d" type="text"
                                                                 placeholder="Diameter terbesar kubah" /><br />
@@ -1757,106 +1767,144 @@
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <h2><strong>Keterangan:</strong></h2>
-                                                        <p><em>Harga kubah masjid yang ditampilkan adalah perkiraan
-                                                                awal. Untuk mendapatkan harga yang lebih akurat dan
-                                                                kesempatan untuk bernegosiasi.</em></p>
-                                                        <p><em>Kami sangat menyarankan anda berkonsultasi langsung
-                                                                melalui WhatsApp di nomor +6285188588596 (Admin). Kami
-                                                                selalu siap memahami kebutuhan desain kubah anda sesuai
-                                                                anggaran yang tersedia.</em></p>
-                                                        <h2><strong>Faktor yang Mempengaruhi Harga Kubah Masjid</strong>
-                                                        </h2>
-                                                        <p>Terdapat beberapa faktor utama yang mempengaruhi harga kubah
-                                                            masjid per meter, yang perlu anda ketahui sebelum mengambil
-                                                            keputusan:</p>
-                                                        <h3 style="padding-left: 40px;"><strong>1. Bahan Kubah</strong>
+                                                        <h2><strong>Informasi:</strong></h2>
+
+                                                        <p>
+                                                            <em>
+                                                                Estimasi harga kubah masjid yang ditampilkan melalui kalkulator ini bersifat perkiraan awal dan dapat berubah menyesuaikan ukuran, material, serta desain kubah yang dipilih.
+                                                            </em>
+                                                        </p>
+
+                                                        <p>
+                                                            <em>
+                                                                Untuk mendapatkan informasi harga yang lebih detail dan penawaran terbaik, silakan konsultasi langsung melalui WhatsApp di nomor +6285188588596 (Admin). Tim kami siap membantu menentukan desain dan spesifikasi kubah sesuai kebutuhan serta anggaran pembangunan masjid Anda.
+                                                            </em>
+                                                        </p>
+
+                                                        <h2><strong>Faktor yang Mempengaruhi Harga Kubah Masjid</strong></h2>
+
+                                                        <p>
+                                                            Terdapat beberapa faktor penting yang menentukan harga kubah masjid per meter sebelum proses produksi dilakukan, di antaranya:
+                                                        </p>
+
+                                                        <h3 style="padding-left: 40px;">
+                                                            <strong>1. Jenis Material Kubah</strong>
                                                         </h3>
-                                                        <p style="padding-left: 40px;">Jenis material sangat
-                                                            mempengaruhi biaya, mulai dari enamel, galvalum, hingga
-                                                            stainless gold. Setiap bahan memiliki karakteristik dan
-                                                            harga yang berbeda.</p>
-                                                        <h3 style="padding-left: 40px;"><strong>2. Ukuran dan Desain
-                                                                Kubah</strong></h3>
-                                                        <p style="padding-left: 40px;">Semakin besar diameter dan tinggi
-                                                            kubah, semakin tinggi pula biayanya. Desain khusus atau
-                                                            motif yang kompleks juga menambah biaya produksi.</p>
-                                                        <p style="padding-left: 40px;">Selain itu, <b>model
-                                                                kubah masjid</b> juga memengaruhi biaya pembuatan kubah
-                                                            masjid. Beberapa model kubah yang umum digunakan di
-                                                            Indonesia antara lain:</p>
-                                                        <p style="padding-left: 80px;">a. Kubah Setengah Bola<br />
+
+                                                        <p style="padding-left: 40px;">
+                                                            Pemilihan bahan kubah sangat mempengaruhi biaya pembuatan, mulai dari kubah enamel, galvalum, hingga stainless gold.
+                                                            Setiap material memiliki kelebihan, ketahanan, dan nilai estetika yang berbeda.
+                                                        </p>
+
+                                                        <h3 style="padding-left: 40px;">
+                                                            <strong>2. Diameter dan Model Kubah</strong>
+                                                        </h3>
+
+                                                        <p style="padding-left: 40px;">
+                                                            Semakin besar ukuran diameter dan tinggi kubah, maka kebutuhan material serta biaya produksinya juga akan semakin meningkat.
+                                                            Selain ukuran, desain dan motif khusus juga berpengaruh terhadap total biaya pembuatan.
+                                                        </p>
+
+                                                        <p style="padding-left: 40px;">
+                                                            Selain itu, pilihan <b>model kubah masjid</b> turut menentukan proses pengerjaan dan harga akhir.
+                                                            Beberapa model kubah yang banyak digunakan antara lain:
+                                                        </p>
+
+                                                        <p style="padding-left: 80px;">
+                                                            a. Kubah Setengah Bola<br />
                                                             b. Kubah Model Madinah<br />
                                                             c. Kubah Model Bawang<br />
-                                                            d. Kubah Model Pinang</p>
-                                                        <p style="padding-left: 40px;">Setiap model memiliki ciri khas
-                                                            tersendiri dan tingkat kesulitan yang berbeda dalam proses
-                                                            pembuatannya, sehingga berpengaruh pada harga akhir.</p>
-                                                        <h3 style="padding-left: 40px;"><strong>3. Struktur dan
-                                                                Rangka</strong></h3>
-                                                        <p style="padding-left: 40px;">Ini adalah aspek teknis yang
-                                                            sangat menentukan kualitas. PT. Kubah Mandiri Indonesia
-                                                            memproduksi kubah dengan sistem double frame (Cremona) yang
-                                                            sangat kokoh.</p>
-                                                        <p style="padding-left: 40px;">Rangka utamanya menggunakan Pipa
-                                                            Galvanis 1,5 inci tebal 1,6 mm, didukung oleh rangka
-                                                            pendukung Hollow 1,5 x 3,5 cm tebal 0,7 mm, memastikan
-                                                            kekuatan dan keamanan jangka panjang.</p>
-                                                        <h2><strong>Keuntungan Menggunakan Kalkulator Kubah</strong>
-                                                        </h2>
-                                                        <p>Menggunakan kalkulator kubah memberikan banyak manfaat, di
-                                                            antaranya:</p>
-                                                        <ul>
-                                                            <li><strong>Praktis dan Cepat:</strong> Tanpa perlu menunggu
-                                                                lama, anda langsung mendapatkan estimasi biaya hanya
-                                                                dalam hitungan menit.</li>
-                                                            <li><strong>Transparansi Harga:</strong> Memberikan gambaran
-                                                                harga yang realistis sesuai ukuran kubah.</li>
-                                                            <li><strong>Efisiensi Anggaran:</strong> Membantu panitia
-                                                                pembangunan masjid menyusun rencana anggaran lebih
-                                                                terukur.</li>
-                                                            <li><strong>Konsultasi Gratis:</strong> Setelah menggunakan
-                                                                kalkulator, anda dapat berkonsultasi gratis dengan tim
-                                                                sales kami untuk mendapatkan penawaran terbaik sesuai
-                                                                kebutuhan proyek anda.</li>
-                                                        </ul>
-                                                        <h2><strong>Tips Memilih Kubah Masjid yang Tepat</strong></h2>
-                                                        <p>Memilih kubah masjid bukan hanya soal harga, tetapi juga
-                                                            kualitas dan ketahanan. Berikut beberapa tips untuk Anda:
+                                                            d. Kubah Model Pinang
                                                         </p>
+
+                                                        <p style="padding-left: 40px;">
+                                                            Setiap model kubah memiliki karakteristik dan tingkat kesulitan pengerjaan yang berbeda sehingga mempengaruhi estimasi biaya produksi.
+                                                        </p>
+
+                                                        <h3 style="padding-left: 40px;">
+                                                            <strong>3. Konstruksi dan Sistem Rangka</strong>
+                                                        </h3>
+
+                                                        <p style="padding-left: 40px;">
+                                                            Struktur rangka menjadi bagian penting dalam menentukan kekuatan dan ketahanan kubah masjid.
+                                                            PKM menggunakan sistem rangka berkualitas dengan material galvanis yang kuat, tahan karat, dan aman digunakan dalam jangka panjang.
+                                                        </p>
+
+                                                        <p style="padding-left: 40px;">
+                                                            Proses fabrikasi dilakukan secara presisi oleh tenaga profesional agar menghasilkan konstruksi kubah yang kokoh dan tahan terhadap berbagai kondisi cuaca.
+                                                        </p>
+
+                                                        <h2><strong>Keunggulan Menggunakan Kalkulator Kubah</strong></h2>
+
+                                                        <p>
+                                                            Menggunakan kalkulator kubah memberikan berbagai manfaat untuk mempermudah proses perencanaan pembangunan masjid, di antaranya:
+                                                        </p>
+
+                                                        <ul>
+                                                            <li>
+                                                                <strong>Praktis dan Mudah:</strong>
+                                                                Estimasi harga dapat diketahui dengan cepat hanya dengan memasukkan ukuran kubah.
+                                                            </li>
+
+                                                            <li>
+                                                                <strong>Estimasi Harga Transparan:</strong>
+                                                                Memberikan gambaran biaya pembuatan kubah sesuai ukuran dan material yang dipilih.
+                                                            </li>
+
+                                                            <li>
+                                                                <strong>Membantu Perencanaan Anggaran:</strong>
+                                                                Memudahkan panitia pembangunan masjid dalam menyusun anggaran secara lebih terukur.
+                                                            </li>
+
+                                                            <li>
+                                                                <strong>Konsultasi Gratis:</strong>
+                                                                Setelah melakukan simulasi harga, Anda dapat berkonsultasi langsung dengan tim kami untuk mendapatkan solusi dan penawaran terbaik.
+                                                            </li>
+                                                        </ul>
+
+                                                        <h2><strong>Tips Memilih Kubah Masjid Berkualitas</strong></h2>
+
+                                                        <p>
+                                                            Dalam memilih kubah masjid, penting untuk memperhatikan kualitas material, desain, dan kekuatan konstruksi agar hasil lebih awet dan sesuai kebutuhan bangunan masjid.
+                                                        </p>
+
                                                         <ul>
                                                             <li style="list-style-type: none;">
                                                                 <ul>
-                                                                    <li><strong>Pilih Material Berkualitas:</strong>
-                                                                        Tentukan bahan kubah sesuai dengan kebutuhan dan
-                                                                        lokasi masjid agar tahan cuaca dan awet.</li>
-                                                                    <li><strong>Pertimbangkan Desain:</strong> Sesuaikan
-                                                                        desain kubah dengan karakter masjid agar tampil
-                                                                        megah dan memikat jamaah.</li>
-                                                                    <li><strong>Utamakan Struktur Kuat:</strong>
-                                                                        Pastikan kubah memiliki rangka yang kokoh dan
-                                                                        dikerjakan oleh kontraktor berpengalaman seperti
-                                                                        PT. Kubah Mandiri Indonesia.</li>
-                                                                    <li><strong>Hitung Anggaran dengan
-                                                                            Kalkulator:</strong> Selalu lakukan simulasi
-                                                                        biaya dengan kalkulator kubah sebelum
-                                                                        memutuskan.</li>
+                                                                    <li>
+                                                                        <strong>Pilih Material Berkualitas:</strong>
+                                                                        Gunakan bahan kubah yang tahan cuaca dan memiliki daya tahan tinggi untuk penggunaan jangka panjang.
+                                                                    </li>
+
+                                                                    <li>
+                                                                        <strong>Sesuaikan Desain Kubah:</strong>
+                                                                        Pilih model kubah yang sesuai dengan konsep arsitektur masjid agar tampilan lebih harmonis dan elegan.
+                                                                    </li>
+
+                                                                    <li>
+                                                                        <strong>Pastikan Struktur Kokoh:</strong>
+                                                                        Gunakan jasa kontraktor kubah masjid berpengalaman agar proses produksi dan pemasangan lebih aman dan profesional.
+                                                                    </li>
+
+                                                                    <li>
+                                                                        <strong>Gunakan Kalkulator Kubah:</strong>
+                                                                        Lakukan simulasi estimasi biaya terlebih dahulu agar perencanaan pembangunan lebih matang.
+                                                                    </li>
                                                                 </ul>
                                                             </li>
                                                         </ul>
+
                                                         <h2><strong>Kesimpulan</strong></h2>
-                                                        <p>Menghitung biaya <b>pembuatan kubah
-                                                                masjid</b> kini menjadi lebih mudah dengan hadirnya
-                                                            kalkulator kubah dari <a
-                                                                href="http://localhost/SIKUBAH/">PT.
-                                                                Kubah Mandiri Indonesia</a>. Alat ini membantu anda memperkirakan harga
-                                                            kubah masjid per meter secara cepat, praktis, dan
-                                                            transparan.</p>
-                                                        <p>Jangan ragu untuk mencoba kalkulator kubah kami dan dapatkan
-                                                            layanan konsultasi gratis untuk menemukan solusi kubah
-                                                            terbaik sesuai anggaran anda. Hubungi kami sekarang juga di
-                                                            +6285188588596 untuk memulai perencanaan proyek kubah masjid
-                                                            yang kokoh, indah, dan terjangkau!</p>
+
+                                                        <p>
+                                                            Menghitung estimasi biaya pembuatan kubah masjid kini menjadi lebih mudah dengan adanya kalkulator kubah online dari PKM.
+                                                            Fitur ini membantu memberikan gambaran harga kubah masjid secara cepat, praktis, dan efisien sesuai ukuran dan jenis material yang dipilih.
+                                                        </p>
+
+                                                        <p>
+                                                            Segera gunakan kalkulator kubah kami dan dapatkan layanan konsultasi gratis untuk menemukan solusi kubah masjid terbaik sesuai kebutuhan pembangunan Anda.
+                                                            Hubungi tim kami sekarang juga di +6285188588596 untuk mendapatkan informasi desain, material, dan estimasi harga kubah masjid secara lengkap.
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1943,9 +1991,9 @@
                         <div class="textwidget">
                             <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="../../images/profile.webp"
+                                    src="../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../images/profile.webp"
+                                    srcset="../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
@@ -2011,70 +2059,176 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+                    style="background-color: #1a1a1a; padding: 60px 0 30px 0;">
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
+                        <div class="elementor-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
+                            
+                            <!-- Column 1: Logo & Description -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 250px;">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    PT. Kubah Mandiri Indonesia - All rights reserved</p>
-                                            </div>
+                                        <div style="margin-bottom: 20px;">
+                                            <img src="../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" 
+                                                style="width: 80px; height: auto; margin-bottom: 15px;">
+                                            <h3 style="color: #fff; font-size: 18px; font-weight: 700; margin: 10px 0;">
+                                                PT. KUBAH MANDIRI<br>INDONESIA
+                                            </h3>
+                                        </div>
+                                        <p style="color: #b0b0b0; font-size: 14px; line-height: 1.6; margin: 0;">
+                                            Produsen Kubah Masjid (PKM) adalah produsen dan kontraktor kubah masjid yang telah 
+                                            dipercaya oleh klien kami di seluruh Indonesia
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 0.8; min-width: 180px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff !important; font-size: 16px !important; font-weight: 700 !important; margin-bottom: 20px !important; display: block !important; width: 100% !important;">
+                                            Link Cepat
+                                        </h4>
+                                        <ul style="list-style: none !important; padding: 0 !important; margin: 0 !important; display: block !important; width: 100% !important;">
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/" 
+                                                   style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Home
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php" 
+                                                   style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Profile
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/blog.php" 
+                                                   style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Artikel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/kontak.php" 
+                                                   style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Kontak Kami
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 200px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Layanan Kami
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0;">
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php" 
+                                                   style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Enamel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php" 
+                                                   style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Galvalum
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php" 
+                                                   style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Stainless
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1.2; min-width: 250px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Informasi Kontak
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-envelope" 
+                                                   style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    kubahmandiriindonesia19@gmail.com
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-phone-alt" 
+                                                   style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    (+62) 85188588596
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-map-marker-alt" 
+                                                   style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">
+                                                    Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.
+                                                </span>
+                                            </li>
+                                        </ul>
+                                        
+                                        <!-- Social Media Icons -->
+                                        <div style="display: flex; gap: 12px;">
+                                            <a href="https://wa.me/6285188588596" target="_blank" 
+                                               style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #25D366; transition: transform 0.3s;">
+                                                <i class="fab fa-whatsapp" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
+                                            <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" 
+                                               target="_blank" rel="nofollow"
+                                               style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #1877F2; transition: transform 0.3s;">
+                                                <i class="fab fa-facebook-f" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
-                                                            <
-                                                                <span class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                                </span>
-                                                                <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <!-- <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li> -->
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
+                <section
+                    class="elementor-section elementor-top-section"
+                    style="background-color: #0d0d0d; padding: 20px 0; border-top: 1px solid #2a2a2a;">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+                            <p style="color: #808080; font-size: 14px; margin: 0;">
+                                © 2026 PT Kubah Mandiri Indonesia — All rights reserved.
+                                <span style="margin: 0 10px;">|</span>
+                                Dibuat oleh <a href="#" style="color: #25D366; text-decoration: none;">Pyramidsoft</a>
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <!-- Sticky WhatsApp Button Desktop -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="f6fbfe4" data-element_type="section"
@@ -2092,7 +2246,7 @@
                                                 <div class="elementor-button-wrapper">
                                                     <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
+                                                        role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span
                                                                 class="elementor-button-icon elementor-align-icon-left">
@@ -2111,6 +2265,7 @@
                         </div>
                     </div>
                 </section>
+                <!-- Sticky WhatsApp & Call Button Mobile -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="6803c2cc" data-element_type="section"
@@ -2126,9 +2281,9 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
+                                                        role="button" id="wa-generic" target="_blank">
                                                         <span class="elementor-button-content-wrapper">
                                                             <span
                                                                 class="elementor-button-icon elementor-align-icon-left">
@@ -2152,7 +2307,7 @@
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3Fdi"
+                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
                                                         class="elementor-button-link elementor-button elementor-size-sm"
                                                         role="button" id="call-generic">
                                                         <span class="elementor-button-content-wrapper">

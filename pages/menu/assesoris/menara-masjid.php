@@ -1444,6 +1444,7 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
@@ -1671,11 +1672,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1738,11 +1739,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1793,26 +1794,26 @@
                                                 href="tel:+6285188588596">085188588596</a> (Admin PT. Kubah Mandiri Indonesia)</strong></p>
                                 </blockquote>
                                 <p><img decoding="async" class="aligncenter wp-image-20097 size-full"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc.jpg"
+                                        src="../../../images/menara3.webp"
                                         alt="jasa pembuatan menara masjid" width="1259" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc.jpg 1259w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc-168x300.jpg 168w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc-574x1024.jpg 574w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc-768x1369.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc-861x1536.jpg 861w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/1-kontraktor-menara-masjid-grc-1149x2048.jpg 1149w"
+                                        srcset="../../../images/menara3.webp"
                                         sizes="(max-width: 1259px) 100vw, 1259px" /></p>
-                                <p>Jika anda adalah panitia pembangunan masjid yang sedang mencari jasa pembuatan menara
-                                    masjid berbahan GRC maupun panel enamel yang kokoh, indah, dan tahan lama, <a
+                                <p>Apabila Anda merupakan panitia pembangunan masjid yang tengah membutuhkan layanan pembuatan menara
+                                    masjid berbahan GRC ataupun panel enamel yang kuat, estetis, dan awet, <a
                                         href="#">PT. Kubah Mandiri Indonesia</a>
-                                    adalah pilihan yang tepat.</p>
+                                    merupakan opsi yang ideal.</p>
                                 <p>Sebagai <a
                                         href="#">kontraktor
-                                        menara masjid GRC</a> berpengalaman, perusahaan kami menghadirkan menara dengan
-                                    desain elegan, struktur kuat, serta kemudahan dalam perawatan.</p>
-                                <p>Setiap proyek dikerjakan secara profesional dengan harga kompetitif, memastikan hasil
-                                    yang sesuai harapan dan bernilai estetika tinggi.</p>
+                                        menara masjid GRC</a> yang berpengalaman, perusahaan kami menghadirkan menara dengan
+                                    rancangan elegan, konstruksi kokoh, serta kepraktisan dalam pemeliharaan.</p>
+                                <p>Tiap proyek ditangani dengan profesional menggunakan tarif yang kompetitif, menjamin output
+                                    yang memenuhi ekspektasi dan memiliki nilai estetika optimal.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Portofolio_Proyek_Menara_Masjid_Kami_di_Seluruh_Indonesia"></span><strong>Portofolio
                                         Proyek Menara Masjid Kami di Seluruh Indonesia</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Kami telah dipercaya membangun menara masjid GRC dan enamel dengan desain elegan,
-                                    struktur kokoh, dan hasil memuaskan di berbagai daerah:</p>
+                                <p>Kami sudah dipercaya mendirikan menara masjid GRC dan enamel dengan rancangan elegan,
+                                    konstruksi solid, dan output yang memuaskan di banyak wilayah:</p>
                                 <div data-elementor-type="page" data-elementor-id="21044"
                                     class="elementor elementor-21044" data-elementor-settings="[]">
                                     <div class="elementor-inner">
@@ -1834,10 +1835,10 @@
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" width="768"
                                                                                     height="960"
-                                                                                    src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-panel-di-bekasi-768x960.jpg"
+                                                                                    src="../../../images/menara1.webp"
                                                                                     class="attachment-medium_large size-medium_large"
                                                                                     alt=""
-                                                                                    srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-panel-di-bekasi-768x960.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-panel-di-bekasi-240x300.jpg 240w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-panel-di-bekasi-819x1024.jpg 819w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-panel-di-bekasi.jpg 1080w"
+                                                                                    srcset="../../../images/menara1.webp"
                                                                                     sizes="(max-width: 768px) 100vw, 768px" />
                                                                             </div>
                                                                         </div>
@@ -1878,10 +1879,10 @@
                                                                             <div class="elementor-image">
                                                                                 <img loading="lazy" decoding="async"
                                                                                     width="768" height="960"
-                                                                                    src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-bahan-grc-di-lamongan-768x960.jpg"
+                                                                                    src="../../../images/menara2.webp"
                                                                                     class="attachment-medium_large size-medium_large"
                                                                                     alt=""
-                                                                                    srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-bahan-grc-di-lamongan-768x960.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-bahan-grc-di-lamongan-240x300.jpg 240w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-bahan-grc-di-lamongan-819x1024.jpg 819w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/08/menara-masjid-bahan-grc-di-lamongan.jpg 1080w"
+                                                                                    srcset="../../../images/menara2.webp"
                                                                                     sizes="auto, (max-width: 768px) 100vw, 768px" />
                                                                             </div>
                                                                         </div>
@@ -1927,123 +1928,123 @@
                                 <h2><span class="ez-toc-section"
                                         id="Keunggulan_Menara_Masjid_GRC"></span><strong>Keunggulan Menara Masjid
                                         GRC</strong><span class="ez-toc-section-end"></span></h2>
-                                <p>Material <a href="https://en.wikipedia.org/wiki/Glass_fiber_reinforced_concrete"
+                                <p>Bahan <a href="https://en.wikipedia.org/wiki/Glass_fiber_reinforced_concrete"
                                         target="_blank" rel="nofollow noopener">Glassfiber Reinforced Cement</a> (GRC)
-                                    semakin populer untuk pembuatan menara masjid. Beberapa keunggulannya meliputi:</p>
+                                    makin diminati untuk produksi menara masjid. Sejumlah kelebihannya mencakup:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Kuat_dan_Tahan_Lama"></span><strong>1. Kuat dan Tahan Lama</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Menara berbahan GRC memiliki kekuatan tinggi dan daya
-                                    tahan terhadap berbagai kondisi cuaca. Material ini mampu bertahan dalam jangka
-                                    panjang, sehingga menjadi pilihan yang tepat untuk pembangunan masjid.</p>
+                                <p style="padding-left: 40px;">Menara dengan bahan GRC mempunyai ketahanan tinggi dan daya
+                                    tahan menghadapi aneka ragam kondisi iklim. Bahan ini sanggup bertahan sepanjang periode
+                                    panjang, maka menjadi opsi yang ideal untuk konstruksi masjid.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Desain_Menara_Masjid_Modern_dan_Elegan"></span><strong>2. Desain Menara
                                         Masjid Modern dan Elegan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Desain menara GRC dapat disesuaikan dengan arsitektur
-                                    masjid, baik yang bergaya modern maupun klasik. Bentuknya yang fleksibel
-                                    memungkinkan panitia pembangunan masjid mendapatkan hasil yang sesuai dengan konsep
-                                    bangunan.</p>
+                                <p style="padding-left: 40px;">Rancangan menara GRC bisa diselaraskan dengan arsitektur
+                                    masjid, baik yang bercorak kontemporer ataupun tradisional. Wujudnya yang fleksibel
+                                    memfasilitasi panitia konstruksi masjid memperoleh output yang cocok dengan gagasan
+                                    gedung.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="3_Bobot_Ringan_Pemasangan_Mudah"></span><strong>3. Bobot Ringan, Pemasangan
                                         Mudah</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Dibandingkan dengan material lain, GRC memiliki bobot
-                                    lebih ringan, sehingga mempermudah pemasangan. Proses pembangunan lebih cepat tanpa
-                                    mengurangi ketahanan struktur bangunan.</p>
+                                <p style="padding-left: 40px;">Dibanding dengan bahan lainnya, GRC mempunyai massa
+                                    lebih enteng, maka menyederhanakan instalasi. Tahapan konstruksi lebih cepat tanpa
+                                    menurunkan kekuatan konstruksi gedung.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="4_Perawatan_Mudah"></span><strong>4. Perawatan Mudah</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Menara berbahan GRC tidak memerlukan perawatan khusus.
-                                    Permukaannya dapat dibersihkan dengan mudah, sehingga tetap terlihat indah dan
-                                    terawat dalam jangka panjang.</p>
+                                <p style="padding-left: 40px;">Menara dengan bahan GRC tak membutuhkan pemeliharaan spesial.
+                                    Permukaannya bisa dibersihkan dengan gampang, maka senantiasa tampak cantik dan
+                                    terpelihara dalam periode panjang.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Mengapa_Memilih_PT_Anugerah_Kubah_Indonesia"></span><strong>Mengapa Memilih
                                         PT. Kubah Mandiri Indonesia?</strong><span class="ez-toc-section-end"></span>
                                 </h2>
-                                <p>Sebagai spesialis menara masjid GRC, PT. Kubah Mandiri Indonesia telah berpengalaman
-                                    dalam membangun berbagai jenis menara untuk masjid di seluruh Indonesia. Beberapa
-                                    keunggulan yang menjadikannya pilihan utama adalah:</p>
+                                <p>Sebagai pakar menara masjid GRC, PT. Kubah Mandiri Indonesia sudah berpengalaman
+                                    dalam mendirikan berbagai macam menara untuk masjid di seluruh Indonesia. Sejumlah
+                                    kelebihan yang menjadikannya preferensi utama ialah:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Berpengalaman_dan_Terpercaya"></span><strong>1. Berpengalaman dan
                                         Terpercaya</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">PT. Kubah Mandiri Indonesia telah menyelesaikan berbagai
-                                    proyek pembangunan menara masjid GRC modern dengan hasil memuaskan. Tim
-                                    profesionalnya memastikan setiap proyek dikerjakan dengan standar tinggi.</p>
+                                <p style="padding-left: 40px;">PT. Kubah Mandiri Indonesia sudah menuntaskan bermacam
+                                    proyek konstruksi menara masjid GRC kontemporer dengan output yang memuaskan. Tim
+                                    profesionalnya menjamin tiap proyek ditangani dengan mutu tinggi.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Menyediakan_RAB_Transparan"></span><strong>2. Menyediakan RAB
                                         Transparan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Panitia pembangunan masjid sering kali memerlukan RAB
-                                    menara masjid GRC yang jelas dan rinci agar anggaran dapat disesuaikan dengan
-                                    kebutuhan. PT. Kubah Mandiri Indonesia menyediakan perhitungan yang transparan
-                                    sehingga memudahkan dalam perencanaan biaya.</p>
+                                <p style="padding-left: 40px;">Panitia konstruksi masjid seringkali membutuhkan RAB
+                                    menara masjid GRC yang terang dan detail supaya anggaran bisa disesuaikan dengan
+                                    keperluan. PT. Kubah Mandiri Indonesia menyajikan kalkulasi yang terbuka
+                                    sehingga menyederhanakan dalam perencanaan biaya.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="3_Harga_Terjangkau_dengan_Kualitas_Terbaik"></span><strong>3. Harga
                                         Terjangkau dengan Kualitas Terbaik</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Sebagai jasa pembuatan menara masjid, PT. Kubah Mandiri Indonesia menawarkan harga menara masjid GRC yang kompetitif. Kualitas terbaik tetap
-                                    menjadi prioritas utama dalam setiap proyek yang dikerjakan.</p>
+                                <p style="padding-left: 40px;">Sebagai layanan produksi menara masjid, PT. Kubah Mandiri Indonesia memberikan tarif menara masjid GRC yang kompetitif. Mutu terbaik tetap
+                                    menjadi fokus utama dalam tiap proyek yang ditangani.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="4_Proses_Cepat_dan_Profesional"></span><strong>4. Proses Cepat dan
                                         Profesional</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Dengan pengalaman yang dimiliki, setiap proses dari
-                                    desain hingga pemasangan dilakukan secara efisien dan rapi. Hal ini memastikan hasil
-                                    akhir yang berkualitas tinggi serta sesuai dengan harapan panitia pembangunan
+                                <p style="padding-left: 40px;">Dengan pengalaman yang dipunyai, tiap tahapan dari
+                                    rancangan sampai instalasi dilaksanakan secara efisien dan rapi. Ini menjamin output
+                                    akhir yang bermutu tinggi serta cocok dengan ekspektasi panitia konstruksi
                                     masjid.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Sistem_Pembayaran_Mudah_Fleksibel_dengan_Pembayaran_per_Termin"></span><strong>Sistem
                                         Pembayaran Mudah: Fleksibel dengan Pembayaran per Termin</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Kami menyediakan sistem pembayaran yang fleksibel untuk memudahkan klien kami. Ada
-                                    opsi pembayaran per termin yang disepakati, di mana pembayaran akan dilakukan secara
-                                    bertahap sesuai dengan kemajuan proyek.</p>
-                                <p>Hal ini memberikan fleksibilitas kepada klien untuk mengatur pembayaran sesuai dengan
-                                    kebutuhan dan anggaran mereka. Kami juga senantiasa transparan mengenai biaya
-                                    pembuatan menara masjid dan pembayarannya, sehingga anda dapat merencanakan
-                                    pembayaran dengan lebih baik dan tanpa kekhawatiran.</p>
+                                <p>Kami menghadirkan skema pembayaran yang fleksibel untuk menyederhanakan klien kami. Tersedia
+                                    opsi pembayaran per termin yang disetujui, dimana pelunasan akan dilaksanakan secara
+                                    bertahap cocok dengan progres proyek.</p>
+                                <p>Ini menghadirkan fleksibilitas bagi klien untuk mengelola pembayaran cocok dengan
+                                    keperluan dan budget mereka. Kami pun selalu terbuka perihal biaya
+                                    produksi menara masjid dan pelunasannya, sehingga anda bisa merancang
+                                    pembayaran dengan lebih optimal dan tanpa kegelisahan.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Biaya_Pembuatan_Menara_Masjid_Terjangkau_Kualitas_Premium"></span><span
                                         id="Biaya_Pembuatan_Menara_Masjid_Terjangkau_Kualitas_Premium"
                                         class="ez-toc-section"></span><strong>Biaya Pembuatan Menara Masjid Terjangkau,
                                         Kualitas Premium</strong><span class="ez-toc-section-end"></span></h2>
-                                <p>Kami percaya bahwa kualitas premium tidak harus diiringi dengan harga yang mahal.
-                                    Kami menawarkan biaya pembuatan menara masjid yang terjangkau tanpa mengorbankan
-                                    kualitas kerja. Kepuasan klien adalah prioritas utama kami, dan kami berkomitmen
-                                    untuk memberikan layanan terbaik dengan harga yang sesuai dengan budget proyek anda.
+                                <p>Kami yakin bahwa mutu premium tak mesti dibarengi dengan tarif yang tinggi.
+                                    Kami memberikan biaya produksi menara masjid yang terjangkau tanpa mengurangi
+                                    mutu kerja. Kepuasan konsumen merupakan fokus utama kami, dan kami berkomitmen
+                                    untuk menghadirkan layanan terbaik dengan tarif yang cocok dengan budget proyek anda.
                                 </p>
                                 <h2><span class="ez-toc-section"
                                         id="Proses_Pembangunan_Menara_Masjid_GRC"></span><strong>Proses Pembangunan
                                         Menara Masjid GRC</strong><span class="ez-toc-section-end"></span></h2>
-                                <p>Pembuatan menara masjid GRC melalui beberapa tahapan yang terencana dengan baik,
-                                    yaitu:</p>
+                                <p>Produksi menara masjid GRC melewati sejumlah tahapan yang terencana dengan matang,
+                                    yakni:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Konsultasi_dan_Perencanaan"></span><strong>1. Konsultasi dan
                                         Perencanaan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Panitia pembangunan masjid dapat berkonsultasi dengan tim
-                                    ahli untuk menentukan desain dan anggaran sesuai kebutuhan.</p>
+                                <p style="padding-left: 40px;">Panitia konstruksi masjid bisa berkonsultasi dengan tim
+                                    pakar untuk menetapkan rancangan dan anggaran cocok keperluan.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Pembuatan_Desain_dan_Produksi"></span><strong>2. Pembuatan Desain dan
                                         Produksi</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Setelah desain disepakati, proses produksi dilakukan
-                                    dengan material GRC berkualitas tinggi untuk memastikan hasil terbaik.</p>
+                                <p style="padding-left: 40px;">Sesudah rancangan disetujui, tahapan produksi dilaksanakan
+                                    dengan bahan GRC bermutu tinggi untuk menjamin output terbaik.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="3_Pemasangan_oleh_Tim_Profesional"></span><strong>3. Pemasangan oleh Tim
                                         Profesional</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Menara dipasang oleh tenaga ahli dengan metode yang tepat
-                                    agar kokoh dan sesuai dengan struktur masjid.</p>
+                                <p style="padding-left: 40px;">Menara dipasang oleh tenaga pakar dengan metode yang pas
+                                    supaya solid dan cocok dengan konstruksi masjid.</p>
                                 <h2><img loading="lazy" decoding="async" class="aligncenter wp-image-20098 size-full"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc.jpg"
+                                        src="../../../images/menara4.webp"
                                         alt="kontraktor menara masjid" width="1587" height="1185"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-300x224.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-1024x765.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-768x573.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2025/02/2-harga-menara-masjid-grc-1536x1147.jpg 1536w"
+                                        srcset="../../../images/menara4.webp"
                                         sizes="auto, (max-width: 1587px) 100vw, 1587px" /></h2>
                                 <h2><span class="ez-toc-section" id="Kesimpulan"></span><strong>Kesimpulan</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Memilih <a
+                                <p>Menentukan <a
                                         href="#">kontraktor
-                                        menara masjid GRC</a> yang profesional adalah langkah penting untuk mendapatkan
-                                    hasil terbaik. PT. Kubah Mandiri Indonesia menawarkan solusi ideal dengan
-                                    pengalaman luas, desain menara yang elegan, serta harga yang terjangkau.</p>
-                                <p>Untuk informasi lebih lanjut dan konsultasi mengenai pembangunan menara masjid GRC,
-                                    hubungi tim Qoobah di 085188588596. Tim profesional siap membantu mewujudkan
-                                    menara masjid minimalis impian dengan hasil terbaik.</p>
+                                        menara masjid GRC</a> yang profesional merupakan langkah krusial untuk memperoleh
+                                    output terbaik. PT. Kubah Mandiri Indonesia memberikan solusi ideal dengan
+                                    pengalaman luas, rancangan menara yang elegan, serta tarif yang terjangkau.</p>
+                                <p>Untuk informasi lebih lanjut dan konsultasi perihal konstruksi menara masjid GRC,
+                                    hubungi tim Qoobah di 085188588596. Tim profesional siap menolong merealisasikan
+                                    menara masjid minimalis impian dengan output terbaik.</p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
                                 <h2><span class="ez-toc-section"
@@ -2176,7 +2177,7 @@
                                 </div>
                             </div>
 
-                            <footer class="entry-meta" aria-label="Entry meta">
+                            <!-- <footer class="entry-meta" aria-label="Entry meta">
                                 <span class="cat-links"><span class="screen-reader-text">Categories </span><a
                                         href="#"
                                         rel="category tag">Produk Masjid</a></span>
@@ -2189,7 +2190,7 @@
                                                 rel="next">Jual Kubah Masjid Kediri Bergaransi Harga
                                                 Terjangkau</a></span></div>
                                 </nav>
-                            </footer>
+                            </footer> -->
                         </div>
                     </article>
                 </main>
@@ -2202,9 +2203,9 @@
                         <div class="textwidget">
                             <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="../../../images/profile.webp"
+                                    src="../../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="../../../images/profile.webp"
+                                    srcset="../../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
                             <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
@@ -2270,163 +2271,148 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section with 4 Columns -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    PT KUBAH MANDIRI INDONESIA - All rights reserved</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default"
+                    data-element_type="section"
+                    style="background-color: #1a1a1a; padding: 60px 0 40px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+                            <!-- Column 1: Logo and Company Info -->
+                            <div style="flex: 1; min-width: 250px;">
+                                <div style="margin-bottom: 20px;">
+                                    <img src="../../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" style="width: 80px; height: auto; margin-bottom: 15px;">
                                 </div>
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 15px; line-height: 1.4;">PT. KUBAH MANDIRI INDONESIA</h3>
+                                <p style="color: #b0b0b0; font-size: 14px; line-height: 1.8; margin: 0;">
+                                    Kami adalah perusahaan terpercaya yang bergerak di bidang pembuatan kubah masjid dengan kualitas terbaik dan harga terjangkau. Melayani seluruh Indonesia dengan pengalaman puluhan tahun.
+                                </p>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div style="flex: 0.8; min-width: 200px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div style="flex: 1; min-width: 220px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Layanan Kami</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Enamel</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Galvalum</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Stainless Gold</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Menara Masjid</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Ornamen Masjid</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div style="flex: 1.2; min-width: 250px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Informasi Kontak</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-phone-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">0851-8858-8596</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-envelope" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">info@kubahmandiri.co.id</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-map-marker-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.</span>
+                                    </li>
+                                </ul>
+
+                                <div style="margin-top: 20px;">
+                                    <h4 style="color: #ffffff; font-size: 16px; font-weight: 600; margin-bottom: 15px;">Ikuti Kami</h4>
+                                    <div style="display: flex; gap: 12px;">
+                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1877F2; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-facebook-f" style="font-size: 18px;"></i>
+                                        </a>
+                                        <!-- <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos" target="_blank" rel="nofollow" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #FF0000; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-youtube" style="font-size: 18px;"></i>
+                                        </a>
+                                        <a href="#" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s;">
+                                            <i class="fab fa-instagram" style="font-size: 18px;"></i> -->
+                                        </a>
+                                        <a href="https://wa.me/6285188588596" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f6fbfe4" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e09d0fc"
-                                data-id="4e09d0fc" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f8ee73 elementor-widget elementor-widget-button"
-                                            data-id="6f8ee73" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp
-                                                                085188588596</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    class="elementor-section elementor-top-section elementor-element"
+                    data-element_type="section"
+                    style="background-color: #0d0d0d; padding: 20px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="text-align: center;">
+                            <p style="color: #b0b0b0; font-size: 14px; margin: 0;">© 2026 PT Kubah Mandiri Indonesia — All rights reserved. | Dibuat oleh <strong style="color: #25D366;">Pyramidsoft</strong></p>
                         </div>
                     </div>
                 </section>
+
+                <!-- Sticky WhatsApp Button (Desktop) -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="6803c2cc" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e424efd"
-                                data-id="1e424efd" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-415227aa elementor-widget elementor-widget-button"
-                                            data-id="415227aa" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70a558ee"
-                                data-id="70a558ee" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-1ebb6fff call-generic elementor-widget elementor-widget-button"
-                                            data-id="1ebb6fff" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="call-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">Call</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-tablet elementor-hidden-phone"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; background-color: transparent;">
+                    <div>
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="display: inline-flex; align-items: center; gap: 10px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4); transition: all 0.3s;">
+                            <i class="fab fa-whatsapp" style="font-size: 20px;"></i>
+                            <span>WhatsApp 085188588596</span>
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Sticky WhatsApp & Call Buttons (Mobile/Tablet) -->
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-desktop"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: #ffffff; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); padding: 10px;">
+                    <div style="display: flex; gap: 10px; max-width: 600px; margin: 0 auto;">
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                        <a href="tel:+6285188588596"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #1877F2; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fas fa-phone-alt" style="font-size: 18px;"></i>
+                            <span>Call</span>
+                        </a>
                     </div>
                 </section>
             </div>

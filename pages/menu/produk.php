@@ -1365,6 +1365,8 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <!-- Font Awesome CDN Fallback -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' integrity='sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==' crossorigin='anonymous' referrerpolicy='no-referrer' />
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.1.1"
         id="font-awesome-4-shim-js"></script>
@@ -1574,11 +1576,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1641,11 +1643,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1801,23 +1803,25 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p>Desain kubah dan material terbaik
-                                                                                        dengan mengutamakan keindahan
-                                                                                        dan estetika membuat anda
-                                                                                        dijamin puas dengan hasil
-                                                                                        pengerjaan pembuatan kubah
-                                                                                        masjid dari kami.</p>
-                                                                                    <p>PKM memiliki 4 macam produk
-                                                                                        unggulan yaitu <a
-                                                                                            href="#"><span
-                                                                                                style="color: #78797b; font-weight: bold;">Model Bawang
-                                                                                            </span></a>, <a
-                                                                                            href="#"><span
-                                                                                                style="color: #78797b; font-weight: bold;">Model Setengah Bola</span></a>
-                                                                                        </span></a>, <a
-                                                                                            href="#"><span
-                                                                                                style="color: #78797b; font-weight: bold;">Model Madina </span></a>, dan
-                                                                                        <strong>Model Pinang</strong>:
+                                                                                    <p>
+                                                                                        Desain kubah masjid modern dengan pilihan material berkualitas tinggi
+                                                                                        menjadi prioritas utama PKM dalam setiap proses pengerjaan.
+                                                                                        Mengutamakan keindahan, kekuatan konstruksi, dan nilai estetika membuat
+                                                                                        hasil pembuatan kubah masjid dari kami tampil megah, elegan, dan tahan lama.
+                                                                                    </p>
+                                                                                    <p>
+                                                                                        PKM sebagai penjual kubah masjid terpercaya menghadirkan berbagai pilihan
+                                                                                        model kubah terbaik sesuai kebutuhan arsitektur masjid Anda, yaitu
+                                                                                        <a href="#">
+                                                                                            <span style="color: #78797b; font-weight: bold;">Model Bawang</span>
+                                                                                        </a>,
+                                                                                        <a href="#">
+                                                                                            <span style="color: #78797b; font-weight: bold;">Model Setengah Bola</span>
+                                                                                        </a>,
+                                                                                        <a href="#">
+                                                                                            <span style="color: #78797b; font-weight: bold;">Model Madinah</span>
+                                                                                        </a>, dan
+                                                                                        <strong>Model Pinang</strong>.
                                                                                     </p>
                                                                                 </div>
                                                                             </div>
@@ -1855,7 +1859,7 @@
                                                                                 <div class="elementor-image">
                                                                                     <img decoding="async" width="2415"
                                                                                         height="1729"
-                                                                                        src="../../images/pw19.webp"
+                                                                                        src="../../images/kubahpanel.webp"
                                                                                         class="attachment-full size-full"
                                                                                         alt="kubah panel" />
                                                                                 </div>
@@ -1987,8 +1991,12 @@
                                                     data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                            <p><a href="#"
-                                                                    target="_blank" rel="noopener"><strong>Kubah Model Bawang</strong></a> adalah kubah dengan desain mengerucut dan membulat menyerupai bentuk bawang yang memberikan kesan megah, elegan, dan klasik pada bangunan masjid. Model kubah ini banyak digunakan karena memiliki nilai estetika tinggi serta mampu mempercantik tampilan arsitektur masjid secara keseluruhan. Selain tampilannya yang indah, kubah model bawang juga dapat dibuat menggunakan material berkualitas sehingga kokoh, tahan cuaca, dan memiliki daya tahan yang lama.</p>
+                                                            <p>
+                                                                <a href="#" target="_blank" rel="noopener">
+                                                                    <strong>Kubah Model Bawang</strong>
+                                                                </a>
+                                                                merupakan salah satu desain kubah masjid populer dengan bentuk melengkung dan meruncing di bagian atas sehingga menciptakan tampilan yang mewah, artistik, dan berkarakter. Model kubah ini sangat cocok digunakan pada berbagai konsep arsitektur masjid karena mampu memberikan kesan megah dan lebih menarik secara visual. Selain memiliki nilai estetika tinggi, kubah model bawang juga dibuat menggunakan material pilihan yang kuat, tahan terhadap perubahan cuaca, serta awet digunakan dalam jangka panjang.
+                                                            </p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2176,8 +2184,12 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p><a href="#" target="_blank" rel="noopener"><strong>Kubah Model Setengah Bola</strong></a>
-                                                                                        merupakan kubah dengan desain berbentuk hemisfer atau setengah lingkaran yang memberikan kesan sederhana, modern, dan elegan pada bangunan masjid. Model kubah ini memiliki struktur yang kokoh dan aerodinamis sehingga mampu menahan berbagai kondisi cuaca dengan baik. Selain tampilannya yang simetris dan estetik, kubah setengah bola juga mudah dalam perawatan, tahan lama, serta cocok digunakan untuk berbagai konsep arsitektur masjid, baik minimalis maupun klasik.</p>
+                                                                                    <p>
+                                                                                        <a href="#" target="_blank" rel="noopener">
+                                                                                            <strong>Kubah Model Setengah Bola</strong>
+                                                                                        </a>
+                                                                                        adalah kubah masjid dengan bentuk menyerupai setengah lingkaran yang menghadirkan tampilan modern, simpel, dan tetap elegan pada bangunan masjid. Desain kubah ini banyak dipilih karena memiliki konstruksi yang stabil dan kuat sehingga mampu bertahan dalam berbagai kondisi cuaca. Selain memberikan kesan arsitektur yang rapi dan proporsional, kubah model setengah bola juga memiliki perawatan yang lebih mudah, tahan lama, serta cocok diterapkan pada desain masjid minimalis maupun klasik modern.
+                                                                                    </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2528,9 +2540,10 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p><a
-                                                                                            href="#"><b>Model Madina</b></a>
-                                                                                        merupakan kubah dengan desain khas yang terinspirasi dari arsitektur Timur Tengah, khususnya gaya masjid di Madinah. Model kubah ini memiliki bentuk elegan dengan perpaduan lekukan yang indah sehingga memberikan kesan mewah, megah, dan islami pada bangunan masjid. Selain mempercantik tampilan eksterior, kubah model Madinah juga dibuat dengan konstruksi yang kokoh, tahan terhadap berbagai kondisi cuaca, antikarat, serta memiliki daya tahan yang lama sehingga cocok digunakan untuk masjid modern maupun tradisional.</p>
+                                                                                    <p>
+                                                                                        <a href="#"><b>Model Madinah</b></a>
+                                                                                        adalah desain kubah masjid yang terinspirasi dari gaya arsitektur Timur Tengah dengan tampilan yang anggun, megah, dan bernuansa islami. Model kubah ini memiliki bentuk yang khas dengan lekukan elegan sehingga mampu menambah nilai estetika pada bangunan masjid. Selain memberikan kesan mewah dan berwibawa, kubah model Madinah juga dibuat menggunakan material berkualitas yang kuat, tahan karat, tahan terhadap perubahan cuaca, serta memiliki usia pakai yang panjang sehingga cocok digunakan pada berbagai konsep masjid modern maupun klasik.
+                                                                                    </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2901,8 +2914,12 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div
                                                                                     class="elementor-text-editor elementor-clearfix">
-                                                                                    <p><a href="#" target="_blank" rel="noopener"><strong>Kubah Model Pinang</strong></a>
-                                                                                        merupakan kubah dengan desain ramping dan menjulang yang terinspirasi dari bentuk buah pinang. Model kubah ini memberikan kesan anggun, megah, dan modern pada bangunan masjid sehingga banyak digunakan untuk memperindah tampilan arsitektur. Dengan bentuknya yang proporsional dan estetis, kubah model pinang mampu menciptakan tampilan masjid yang lebih elegan dan menarik. Selain itu, kubah ini juga dibuat dengan konstruksi yang kokoh, tahan cuaca, antikarat, serta memiliki daya tahan yang lama untuk penggunaan jangka panjang.</p>
+                                                                                    <p>
+                                                                                        <a href="#" target="_blank" rel="noopener">
+                                                                                            <strong>Kubah Model Pinang</strong>
+                                                                                        </a>
+                                                                                        merupakan salah satu desain kubah masjid dengan bentuk tinggi dan ramping yang terinspirasi dari siluet buah pinang. Model kubah ini menghadirkan kesan modern, elegan, dan megah sehingga mampu mempercantik tampilan arsitektur masjid secara keseluruhan. Dengan desain yang proporsional dan artistik, kubah model pinang sangat cocok digunakan untuk berbagai konsep bangunan masjid agar terlihat lebih mewah dan berkarakter. Selain memiliki tampilan yang menarik, kubah ini juga dibuat menggunakan material berkualitas yang kuat, tahan karat, tahan terhadap cuaca ekstrem, serta awet digunakan dalam jangka panjang.
+                                                                                    </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -3145,70 +3162,176 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+                    style="background-color: #1a1a1a; padding: 60px 0 30px 0;">
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
+                        <div class="elementor-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+                            <!-- Column 1: Logo & Description -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 250px;">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
-                                            </div>
+                                        <div style="margin-bottom: 20px;">
+                                            <img src="../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA"
+                                                style="width: 80px; height: auto; margin-bottom: 15px;">
+                                            <h3 style="color: #fff; font-size: 18px; font-weight: 700; margin: 10px 0;">
+                                                PT. KUBAH MANDIRI<br>INDONESIA
+                                            </h3>
+                                        </div>
+                                        <p style="color: #b0b0b0; font-size: 14px; line-height: 1.6; margin: 0;">
+                                            Produsen Kubah Masjid (PKM) adalah produsen dan kontraktor kubah masjid yang telah
+                                            dipercaya oleh klien kami di seluruh Indonesia
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 0.8; min-width: 180px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff !important; font-size: 16px !important; font-weight: 700 !important; margin-bottom: 20px !important; display: block !important; width: 100% !important;">
+                                            Link Cepat
+                                        </h4>
+                                        <ul style="list-style: none !important; padding: 0 !important; margin: 0 !important; display: block !important; width: 100% !important;">
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Home
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Profile
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Artikel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px !important; display: block !important; width: 100% !important;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                    style="color: #b0b0b0 !important; text-decoration: none !important; font-size: 14px !important; transition: color 0.3s !important; display: block !important; width: 100% !important;">
+                                                    Kontak Kami
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1; min-width: 200px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Layanan Kami
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0;">
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Enamel
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Galvalum
+                                                </a>
+                                            </li>
+                                            <li style="margin-bottom: 12px;">
+                                                <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                    style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s;">
+                                                    Jasa Kubah Stainless
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div class="elementor-column elementor-col-25 elementor-top-column"
+                                style="flex: 1.2; min-width: 250px;">
+                                <div class="elementor-column-wrap elementor-element-populated">
+                                    <div class="elementor-widget-wrap">
+                                        <h4 style="color: #fff; font-size: 16px; font-weight: 700; margin-bottom: 20px;">
+                                            Informasi Kontak
+                                        </h4>
+                                        <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-envelope"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    kubahmandiriindonesia19@gmail.com
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-phone-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px;">
+                                                    (+62) 85188588596
+                                                </span>
+                                            </li>
+                                            <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                                <i class="fas fa-map-marker-alt"
+                                                    style="color: #25D366; margin-right: 10px; margin-top: 3px; font-size: 16px;"></i>
+                                                <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">
+                                                    Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.
+                                                </span>
+                                            </li>
+                                        </ul>
+
+                                        <!-- Social Media Icons -->
+                                        <div style="display: flex; gap: 12px;">
+                                            <a href="https://wa.me/6285188588596" target="_blank"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #25D366; transition: transform 0.3s;">
+                                                <i class="fab fa-whatsapp" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
+                                            <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/"
+                                                target="_blank" rel="nofollow"
+                                                style="display: flex; align-items: center; justify-content: center; 
+                                                      width: 40px; height: 40px; border-radius: 50%; 
+                                                      background-color: #1877F2; transition: transform 0.3s;">
+                                                <i class="fab fa-facebook-f" style="color: #fff; font-size: 20px;"></i>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" target="_blank" rel="nofollow">
-                                                            <
-                                                                <span class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                                </span>
-                                                                <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <!-- <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li> -->
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
+                <section
+                    class="elementor-section elementor-top-section"
+                    style="background-color: #0d0d0d; padding: 20px 0; border-top: 1px solid #2a2a2a;">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row" style="display: flex; justify-content: center; align-items: center; text-align: center;">
+                            <p style="color: #808080; font-size: 14px; margin: 0;">
+                                © 2026 PT Kubah Mandiri Indonesia — All rights reserved.
+                                <span style="margin: 0 10px;">|</span>
+                                Dibuat oleh <a href="#" style="color: #25D366; text-decoration: none;">Pyramidsoft</a>
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <!-- Sticky WhatsApp Button Desktop -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="f6fbfe4" data-element_type="section"
@@ -3245,6 +3368,7 @@
                         </div>
                     </div>
                 </section>
+                <!-- Sticky WhatsApp & Call Button Mobile -->
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="6803c2cc" data-element_type="section"
@@ -3677,28 +3801,28 @@
         /* Model Bawang - Slider 1 */
         .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-2d9da26 .swiper-slide-bg,
         .elementor-element-1218565 .swiper-slide.elementor-repeater-item-2d9da26>.swiper-slide-bg {
-            background-image: url('../../images/pw10.webp') !important;
+            background-image: url('../../images/bawang1.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
         .elementor-element-1218565 .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
-            background-image: url('../../images/pw27.webp') !important;
+            background-image: url('../../images/bawang2.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
         .elementor-element-1218565 .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
-            background-image: url('../../images/pw3.webp') !important;
+            background-image: url('../../images/bawang3.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-1218565 .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
         .elementor-element-1218565 .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
-            background-image: url('../../images/pw26.webp') !important;
+            background-image: url('../../images/bawang4.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
@@ -3711,49 +3835,49 @@
         /* Model Setengah Bola - Slider 2 (7 gambar) */
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
-            background-image: url('../../images/pw1.webp') !important;
+            background-image: url('../../images/sbola1.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
-            background-image: url('../../images/pw9.webp') !important;
+            background-image: url('../../images/sbola2.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
-            background-image: url('../../images/pw13.webp') !important;
+            background-image: url('../../images/sbola3.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-ee9f858 .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-ee9f858>.swiper-slide-bg {
-            background-image: url('../../images/pw6.webp') !important;
+            background-image: url('../../images/sbola4.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-5e8d912 .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-5e8d912>.swiper-slide-bg {
-            background-image: url('../../images/pw19.webp') !important;
+            background-image: url('../../images/sbola5.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-f3c7a4e .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-f3c7a4e>.swiper-slide-bg {
-            background-image: url('../../images/pw4.webp') !important;
+            background-image: url('../../images/sbola6.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-8b4d1f6 .swiper-slide-bg,
         .elementor-element-d1ae1fe .swiper-slide.elementor-repeater-item-8b4d1f6>.swiper-slide-bg {
-            background-image: url('../../images/pw11.webp') !important;
+            background-image: url('../../images/sbola7.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
@@ -3761,7 +3885,7 @@
         /* Model Pinang - Slider 4 (1 Gambar) */
         .elementor-widget-slides .elementor-element-4pinang .swiper-slide.elementor-repeater-item-p1n4ng .swiper-slide-bg,
         .elementor-element-4pinang .swiper-slide.elementor-repeater-item-p1n4ng>.swiper-slide-bg {
-            background-image: url('../../images/pw5.webp') !important;
+            background-image: url('../../images/pinang1.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
@@ -3769,49 +3893,49 @@
         /* Model Madina - Slider 3 (7 Gambar) */
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-c6a286f .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-c6a286f>.swiper-slide-bg {
-            background-image: url('../../images/pw2.webp') !important;
+            background-image: url('../../images/m1.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-b646caf .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-b646caf>.swiper-slide-bg {
-            background-image: url('../../images/pw25.webp') !important;
+            background-image: url('../../images/m2.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-1bbf9b8 .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-1bbf9b8>.swiper-slide-bg {
-            background-image: url('../../images/pw32.webp') !important;
+            background-image: url('../../images/m3.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-4002b95 .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-4002b95>.swiper-slide-bg {
-            background-image: url('../../images/pw38.webp') !important;
+            background-image: url('../../images/m4.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-a1b2c3d .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-a1b2c3d>.swiper-slide-bg {
-            background-image: url('../../images/pw18.webp') !important;
+            background-image: url('../../images/m5.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-e4f5g6h .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-e4f5g6h>.swiper-slide-bg {
-            background-image: url('../../images/pw24.webp') !important;
+            background-image: url('../../images/m6.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
 
         .elementor-widget-slides .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-i7j8k9l .swiper-slide-bg,
         .elementor-element-ef2cc53 .swiper-slide.elementor-repeater-item-i7j8k9l>.swiper-slide-bg {
-            background-image: url('../../images/pw12.webp') !important;
+            background-image: url('../../images/m7.webp') !important;
             background-size: cover !important;
             background-position: center !important;
         }
@@ -4047,21 +4171,21 @@
             function forceLocalImages() {
                 // Model Bawang - Slider 1
                 const slider1Images = {
-                    '2d9da26': 'pw10.webp',
-                    'c6a286f': 'pw27.webp',
-                    'b646caf': 'pw3.webp',
-                    '1bbf9b8': 'pw26.webp',
+                    '2d9da26': 'bawang1.webp',
+                    'c6a286f': 'bawang2.webp',
+                    'b646caf': 'bawang3.webp',
+                    '1bbf9b8': 'bawang4.webp',
                 };
 
                 // Model Setengah Bola - Slider 2 (7 gambar)
                 const slider2Images = {
-                    'c6a286f': 'pw1.webp',
-                    'b646caf': 'pw9.webp',
-                    '1bbf9b8': 'pw13.webp',
-                    'ee9f858': 'pw6.webp',
-                    '5e8d912': 'pw19.webp',
-                    'f3c7a4e': 'pw4.webp',
-                    '8b4d1f6': 'pw11.webp'
+                    'c6a286f': 'sbola1.webp',
+                    'b646caf': 'sbola2.webp',
+                    '1bbf9b8': 'sbola3.webp',
+                    'ee9f858': 'sbola4.webp',
+                    '5e8d912': 'sbola5.webp',
+                    'f3c7a4e': 'sbola6.webp',
+                    '8b4d1f6': 'sbola7.webp'
                 };
 
                 // Model Pinang - Slider 4 (1 Gambar)
@@ -4071,13 +4195,13 @@
 
                 // Model Madina - Slider 3 (7 Gambar)
                 const slider3Images = {
-                    'c6a286f': 'pw2.webp',
-                    'b646caf': 'pw25.webp',
-                    '1bbf9b8': 'pw32.webp',
-                    '4002b95': 'pw38.webp',
-                    'a1b2c3d': 'pw18.webp',
-                    'e4f5g6h': 'pw24.webp',
-                    'i7j8k9l': 'pw12.webp'
+                    'c6a286f': 'm1.webp',
+                    'b646caf': 'm2.webp',
+                    '1bbf9b8': 'm3.webp',
+                    '4002b95': 'm4.webp',
+                    'a1b2c3d': 'm5.webp',
+                    'e4f5g6h': 'm6.webp',
+                    'i7j8k9l': 'm7.webp'
                 };
 
                 // Model Pinang - Slider 4 (1 Gambar)
