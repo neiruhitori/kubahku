@@ -178,39 +178,25 @@
 
                 <!-- Stats Cards -->
                 <div class="row">
-                    <div class="col-md-3 col-sm-6 col-12 mb-3">
+                    <div class="col-md-6 col-sm-6 col-12 mb-3">
                         <div class="card">
                             <div class="card-body stat-card">
-                                <i class="bi bi-file-earmark" style="font-size: 32px; color: #667eea;"></i>
-                                <div class="stat-number">5</div>
-                                <div class="stat-label">Total Pages</div>
+                                <i class="bi bi-whatsapp" style="font-size: 32px; color: #25D366;"></i>
+                                <div class="stat-number" style="color: #25D366;"><?php echo $wa_stats['today_clicks'] ?? 0; ?></div>
+                                <div class="stat-label">Klik WA Hari Ini</div>
+                                <a href="/SIKUBAH/watracking/stats" style="font-size: 12px; color: #667eea;">Lihat Detail →</a>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 col-sm-6 col-12 mb-3">
+                    <div class="col-md-6 col-sm-6 col-12 mb-3">
                         <div class="card">
                             <div class="card-body stat-card">
-                                <i class="bi bi-image" style="font-size: 32px; color: #667eea;"></i>
-                                <div class="stat-number">24</div>
-                                <div class="stat-label">Total Images</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-12 mb-3">
-                        <div class="card">
-                            <div class="card-body stat-card">
-                                <i class="bi bi-chat-dots" style="font-size: 32px; color: #667eea;"></i>
-                                <div class="stat-number">3</div>
-                                <div class="stat-label">Pesan Kontak</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 col-12 mb-3">
-                        <div class="card">
-                            <div class="card-body stat-card">
-                                <i class="bi bi-graph-up" style="font-size: 32px; color: #667eea;"></i>
-                                <div class="stat-number">1.2K</div>
-                                <div class="stat-label">Pengunjung</div>
+                                <i class="bi bi-people" style="font-size: 32px; color: #3498db;"></i>
+                                <div class="stat-number" style="color: #3498db;"><?php echo $wa_stats['unique_visitors'] ?? 0; ?></div>
+                                <div class="stat-label">Pengunjung Unik WA</div>
+                                <small style="color: #999; font-size: 11px; display: block; margin-top: 5px;">
+                                    <i class="bi bi-info-circle"></i> Jumlah IP address berbeda yang klik tombol WA
+                                </small>
                             </div>
                         </div>
                     </div>

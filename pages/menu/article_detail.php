@@ -2449,6 +2449,9 @@ if ($result && $result->num_rows > 0) {
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
 
+    <!-- WhatsApp Click Tracking Script -->
+    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
+
 </body>
 
 </html>

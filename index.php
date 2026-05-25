@@ -87,7 +87,7 @@ $uri = str_replace('/SIKUBAH', '', $uri); // Remove base path
 $uri = trim($uri, '/');
 
 // Admin routes that need special handling
-$admin_routes = ['auth', 'dashboard', 'pages', 'portfolio', 'articles', 'content', 'settings'];
+$admin_routes = ['auth', 'dashboard', 'pages', 'portfolio', 'articles', 'content', 'settings', 'watracking'];
 $is_admin_route = false;
 
 foreach ($admin_routes as $route) {
@@ -4571,6 +4571,9 @@ if (strpos($uri, 'blog') === 0) {
         });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
+
+    <!-- WhatsApp Click Tracking Script -->
+    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
 
 </body>
 

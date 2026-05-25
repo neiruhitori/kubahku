@@ -73,6 +73,14 @@
             </ul>
         </li>
 
+        <!-- WhatsApp Statistics -->
+        <li class="nav-item">
+            <a href="/SIKUBAH/watracking/stats" class="nav-link">
+                <i class="bi bi-whatsapp"></i>
+                <span class="nav-text">WhatsApp Stats</span>
+            </a>
+        </li>
+
         <!-- Pengaturan -->
         <!-- <li class="nav-item">
             <a href="/SIKUBAH/settings" class="nav-link">
@@ -390,10 +398,10 @@
                     // Normalize URLs for comparison
                     const normalizedHref = href.toLowerCase();
                     const normalizedUrl = currentUrl.toLowerCase();
-                    
+
                     if (normalizedUrl.includes(normalizedHref) || normalizedHref === normalizedUrl) {
                         link.classList.add('active');
-                        
+
                         // If this is a submenu link, find parent submenu to open
                         const parentSubmenu = link.closest('.submenu');
                         if (parentSubmenu) {
