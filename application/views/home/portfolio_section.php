@@ -134,7 +134,7 @@ else:
                         foreach ($chunk as $portfolio):
                             $alt_text = $portfolio['title'];
                             $clean_path = str_replace('./', '', $portfolio['image']);
-                            $image_path = 'http://localhost/SIKUBAH/' . $clean_path;
+                            $image_path = 'https://produsenkubahmasjid.id/' . $clean_path;
                         ?>
                             <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-<?php echo 'portfolio' . $portfolio['id']; ?>" data-id="<?php echo 'portfolio' . $portfolio['id']; ?>" data-element_type="column">
                                 <div class="elementor-column-wrap elementor-element-populated">

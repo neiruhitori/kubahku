@@ -204,7 +204,7 @@ class Articles extends Controller {
     // Delete article
     public function delete($id = null) {
         if (!$id) {
-            header('Location: /SIKUBAH/articles');
+            header('Location: /articles');
             exit;
         }
 
@@ -226,13 +226,13 @@ class Articles extends Controller {
             $_SESSION['error'] = 'Gagal menghapus artikel!';
         }
 
-        header('Location: /SIKUBAH/articles');
+        header('Location: /articles');
         exit;
     }
 
     private function _check_auth() {
         if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== true) {
-            header('Location: /SIKUBAH/auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
+            header('Location: /auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
             exit;
         }
     }
@@ -329,7 +329,7 @@ class Articles extends Controller {
         }
 
         // Convert relative path to absolute URL
-        $image_url = 'http://localhost/SIKUBAH/' . ltrim($image_path, './');
+        $image_url = 'https://produsenkubahmasjid.id/' . ltrim($image_path, './');
         
         // CKEditor requires specific response format
         $this->_ckeditor_success_response($image_url);
@@ -347,7 +347,7 @@ class Articles extends Controller {
                 if (in_array(pathinfo($file, PATHINFO_EXTENSION), ['jpg', 'jpeg', 'png', 'gif', 'webp', 'bmp'])) {
                     $images[] = [
                         'name' => $file,
-                        'url' => 'http://localhost/SIKUBAH/images/' . $file,
+                        'url' => 'https://produsenkubahmasjid.id/images/' . $file,
                         'size' => filesize($upload_dir . $file)
                     ];
                 }

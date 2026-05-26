@@ -43,7 +43,7 @@ $is_ajax = isset($is_ajax) && $is_ajax;
             <div>
                 <?php
                 $clean_path = str_replace('./', '', $portfolio['image']);
-                $img_src = 'http://localhost/SIKUBAH/' . $clean_path;
+                $img_src = 'https://produsenkubahmasjid.id/' . $clean_path;
                 ?>
                 <img id="currentImage" src="<?php echo htmlspecialchars($img_src); ?>"
                     alt="<?php echo htmlspecialchars($portfolio['title']); ?>"
@@ -96,7 +96,7 @@ $is_ajax = isset($is_ajax) && $is_ajax;
         const formData = new FormData(this);
 
         $.ajax({
-            url: '/SIKUBAH/portfolio/save_ajax',
+            url: '/portfolio/save_ajax',
             method: 'POST',
             data: formData,
             contentType: false,

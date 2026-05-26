@@ -174,7 +174,7 @@ class Portfolio extends Controller {
     public function delete($id = null)
     {
         if (!$id) {
-            header('Location: /SIKUBAH/portfolio');
+            header('Location: /portfolio');
             exit;
         }
 
@@ -196,13 +196,13 @@ class Portfolio extends Controller {
             $_SESSION['error'] = 'Gagal menghapus portfolio!';
         }
 
-        header('Location: /SIKUBAH/portfolio');
+        header('Location: /portfolio');
         exit;
     }
 
     private function _check_auth() {
         if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== true) {
-            header('Location: /SIKUBAH/auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
+            header('Location: /auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
             exit;
         }
     }

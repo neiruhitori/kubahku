@@ -3,7 +3,7 @@
     <div class="sidebar-header">
         <div class="sidebar-brand">
             <h2 id="sidebar-title">
-                <img src="http://localhost/SIKUBAH/images/PRODUSEN-gold.png" alt="Logo" class="sidebar-logo">
+                <img src="https://produsenkubahmasjid.id/images/PRODUSEN-gold.png" alt="Logo" class="sidebar-logo">
                 <span>PKM</span>
             </h2>
         </div>
@@ -15,7 +15,7 @@
     <ul class="sidebar-nav">
         <!-- Dashboard -->
         <li class="nav-item">
-            <a href="/SIKUBAH/dashboard" class="nav-link">
+            <a href="/dashboard" class="nav-link">
                 <i class="bi bi-speedometer2"></i>
                 <span class="nav-text">Dashboard</span>
             </a>
@@ -30,19 +30,19 @@
             </a>
             <ul class="submenu" id="pages-menu">
                 <!-- <li class="submenu-item">
-                    <a href="/SIKUBAH/pages/produk" class="submenu-link">
+                    <a href="/pages/produk" class="submenu-link">
                         <i class="bi bi-box"></i>
                         <span class="nav-text">Produk</span>
                     </a>
                 </li>
                 <li class="submenu-item">
-                    <a href="/SIKUBAH/pages/kontak" class="submenu-link">
+                    <a href="/pages/kontak" class="submenu-link">
                         <i class="bi bi-telephone"></i>
                         <span class="nav-text">Kontak</span>
                     </a>
                 </li> -->
                 <li class="submenu-item">
-                    <a href="/SIKUBAH/articles" class="submenu-link">
+                    <a href="/articles" class="submenu-link">
                         <i class="bi bi-file-richtext"></i>
                         <span class="nav-text">Blog Artikel</span>
                     </a>
@@ -59,13 +59,13 @@
             </a>
             <ul class="submenu" id="content-menu">
                 <li class="submenu-item">
-                    <a href="/SIKUBAH/portfolio" class="submenu-link">
+                    <a href="/portfolio" class="submenu-link">
                         <i class="bi bi-images"></i>
                         <span class="nav-text">Portofolio</span>
                     </a>
                 </li>
                 <!-- <li class="submenu-item">
-                    <a href="/SIKUBAH/content/produk-kami" class="submenu-link">
+                    <a href="/content/produk-kami" class="submenu-link">
                         <i class="bi bi-bag"></i>
                         <span class="nav-text">Produk Kami</span>
                     </a>
@@ -75,7 +75,7 @@
 
         <!-- WhatsApp Statistics -->
         <li class="nav-item">
-            <a href="/SIKUBAH/watracking/stats" class="nav-link">
+            <a href="/watracking/stats" class="nav-link">
                 <i class="bi bi-whatsapp"></i>
                 <span class="nav-text">WhatsApp Stats</span>
             </a>
@@ -83,7 +83,7 @@
 
         <!-- Pengaturan -->
         <!-- <li class="nav-item">
-            <a href="/SIKUBAH/settings" class="nav-link">
+            <a href="/settings" class="nav-link">
                 <i class="bi bi-gear"></i>
                 <span class="nav-text">Pengaturan</span>
             </a>
@@ -91,7 +91,7 @@
     </ul>
 
     <div class="sidebar-footer">
-        <a href="/SIKUBAH/auth/logout" class="btn btn-danger btn-logout w-100">
+        <a href="/auth/logout" class="btn btn-danger btn-logout w-100">
             <i class="bi bi-box-arrow-right"></i>
             <span class="nav-text">Logout</span>
         </a>
@@ -423,9 +423,9 @@
                 }
             }
 
-            // Handle Dashboard link - active if on /SIKUBAH/dashboard
+            // Handle Dashboard link - active if on /dashboard
             if (currentUrl.includes('/dashboard')) {
-                document.querySelector('.nav-link[href="/SIKUBAH/dashboard"]')?.classList.add('active');
+                document.querySelector('.nav-link[href="/dashboard"]')?.classList.add('active');
             }
         }
 

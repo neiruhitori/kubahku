@@ -10,7 +10,7 @@
 
     // Konfigurasi
     const CONFIG = {
-        trackingUrl: '/SIKUBAH/watracking/track',
+        trackingUrl: '/watracking/track',
         waPattern: /wa\.me|api\.whatsapp\.com/i,
         debug: true // Set true untuk development - ENABLED for troubleshooting
     };

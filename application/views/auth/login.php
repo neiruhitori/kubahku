@@ -73,7 +73,7 @@
             <?php echo $message; ?>
         <?php endif; ?>
         
-        <form method="POST" action="/SIKUBAH/auth/login">
+        <form method="POST" action="/auth/login">
             <div>
                 <label for="username">Username:</label>
                 <input type="text" class="form-control" id="username" name="username" required>

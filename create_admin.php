@@ -1,7 +1,7 @@
 <?php
 /**
  * Script untuk membuat user admin baru
- * Jalankan: http://localhost/SIKUBAH/create_admin.php
+ * Jalankan: https://produsenkubahmasjid.id/create_admin.php
  * 
  * PENTING: Hapus file ini setelah selesai membuat user!
  */
@@ -36,7 +36,7 @@ if ($stmt->execute()) {
     echo "<p>Email: <strong>" . htmlspecialchars($new_email) . "</strong></p>";
     echo "<p>Password: <strong>" . htmlspecialchars($new_password) . "</strong></p>";
     echo "<hr>";
-    echo "<p><a href='/SIKUBAH/auth/login'>Login Sekarang</a></p>";
+    echo "<p><a href='/auth/login'>Login Sekarang</a></p>";
     echo "<hr>";
     echo "<p style='color: red;'><strong>⚠️ PENTING: Hapus file create_admin.php ini setelah selesai!</strong></p>";
 } else {

@@ -16,7 +16,7 @@ if ($conn->connect_error) {
 $slug = isset($_GET['slug']) ? $conn->real_escape_string($_GET['slug']) : '';
 
 if (empty($slug)) {
-    header("Location: http://localhost/SIKUBAH/pages/menu/blog.php");
+    header("Location: https://produsenkubahmasjid.id/pages/menu/blog.php");
     exit;
 }
 
@@ -29,7 +29,7 @@ if ($result && $result->num_rows > 0) {
     $article = $result->fetch_assoc();
 } else {
     // Article not found, redirect to blog
-    header("Location: http://localhost/SIKUBAH/pages/menu/blog.php");
+    header("Location: https://produsenkubahmasjid.id/pages/menu/blog.php");
     exit;
 }
 ?>
@@ -1643,12 +1643,12 @@ if ($result && $result->num_rows > 0) {
                                                 <ul id="menu-1-2f88c2bf" class="elementor-nav-menu">
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20837 current_page_item menu-item-20961">
-                                                        <a href="http://localhost/SIKUBAH/" aria-current="page"
+                                                        <a href="https://produsenkubahmasjid.id/" aria-current="page"
                                                             class="elementor-item elementor-item-active">Home</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11694">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
                                                     <li
@@ -1658,44 +1658,44 @@ if ($result && $result->num_rows > 0) {
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16530">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/replika-pintu-nabawi.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/replika-pintu-nabawi.php"
                                                                     class="elementor-sub-item">Replika Pintu Nabawi</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17507">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/mihrab-masjid-grc.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/mihrab-masjid-grc.php"
                                                                     class="elementor-sub-item">Mihrab Masjid GRC</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17509">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/menara-masjid.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/menara-masjid.php"
                                                                     class="elementor-sub-item">Menara Masjid</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18277">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/lampu-gantung-masjid.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/lampu-gantung-masjid.php"
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/harga.php"
                                                             class="elementor-item">Harga</a>
                                                     </li>
                                                     <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5307">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/video.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
                                                     <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
                                                     </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/blog.php"
                                                             class="elementor-item">Blog</a>
                                                     </li>
                                                 </ul>
@@ -1710,59 +1710,59 @@ if ($result && $result->num_rows > 0) {
                                                 <ul id="menu-2-2f88c2bf" class="elementor-nav-menu">
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20837 current_page_item menu-item-20961">
-                                                        <a href="http://localhost/SIKUBAH/" aria-current="page"
+                                                        <a href="https://produsenkubahmasjid.id/" aria-current="page"
                                                             class="elementor-item elementor-item-active">Home</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11694">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/produk.php"
                                                             class="elementor-item">Produk</a>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
-                                                        <a href="http://localhost/SIKUBAH/#" aria-current="page"
+                                                        <a href="https://produsenkubahmasjid.id/#" aria-current="page"
                                                             class="elementor-item elementor-item-anchor">Aksesoris</a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown">
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16530">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/replika-pintu-nabawi.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/replika-pintu-nabawi.php"
                                                                     class="elementor-sub-item">Replika Pintu Nabawi</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17507">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/mihrab-masjid-grc.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/mihrab-masjid-grc.php"
                                                                     class="elementor-sub-item">Mihrab Masjid GRC</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17509">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/menara-masjid.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/menara-masjid.php"
                                                                     class="elementor-sub-item">Menara Masjid</a>
                                                             </li>
                                                             <li
                                                                 class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18277">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/lampu-gantung-masjid.php"
+                                                                <a href="https://produsenkubahmasjid.id/pages/menu/assesoris/lampu-gantung-masjid.php"
                                                                     class="elementor-sub-item">Lampu Gantung Masjid</a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/harga.php"
                                                             class="elementor-item">Harga</a>
                                                     </li>
                                                     <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5307">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/video.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
                                                     <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
                                                     </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                        <a href="https://produsenkubahmasjid.id/pages/menu/blog.php"
                                                             class="elementor-item">Blog</a>
                                                     </li>
                                                 </ul>
@@ -1805,7 +1805,7 @@ if ($result && $result->num_rows > 0) {
                             <div class="entry-content" itemprop="text">
                                 <?php if (!empty($article['featured_image'])):
                                     $clean_path = str_replace('./', '', $article['featured_image']);
-                                    $img_src = 'http://localhost/SIKUBAH/' . $clean_path;
+                                    $img_src = 'https://produsenkubahmasjid.id/' . $clean_path;
                                 ?>
                                     <div class="featured-image" style="margin-bottom: 20px;">
                                         <img decoding="async"
@@ -1822,7 +1822,7 @@ if ($result && $result->num_rows > 0) {
 
                             <footer class="entry-meta" aria-label="Entry meta">
                                 <p style="margin-top: 30px;">
-                                    <a href="http://localhost/SIKUBAH/pages/menu/blog.php" class="read-more-link">
+                                    <a href="https://produsenkubahmasjid.id/pages/menu/blog.php" class="read-more-link">
                                         &larr; Kembali ke Blog
                                     </a>
                                 </p>
@@ -1940,16 +1940,16 @@ if ($result && $result->num_rows > 0) {
                                 <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
                                 <ul style="list-style: none; padding: 0; margin: 0;">
                                     <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
-                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                        <a href="https://produsenkubahmasjid.id/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
                                     </li>
                                     <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
-                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                        <a href="https://produsenkubahmasjid.id/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
                                     </li>
                                     <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
-                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                        <a href="https://produsenkubahmasjid.id/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
                                     </li>
                                     <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
-                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                        <a href="https://produsenkubahmasjid.id/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
                                     </li>
                                 </ul>
                             </div>
@@ -2450,7 +2450,7 @@ if ($result && $result->num_rows > 0) {
     </script>
 
     <!-- WhatsApp Click Tracking Script -->
-    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
+    <script src="/assets/js/wa-tracker.js"></script>
 
 </body>
 

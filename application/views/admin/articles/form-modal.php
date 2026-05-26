@@ -45,7 +45,7 @@ $is_ajax = isset($data['is_ajax']) && $data['is_ajax'];
             <?php 
                 // Clean path - remove ./ prefix if exists
                 $clean_path = str_replace('./', '', $article['featured_image']);
-                $img_src = 'http://localhost/SIKUBAH/' . $clean_path;
+                $img_src = 'https://produsenkubahmasjid.id/' . $clean_path;
             ?>
             <img id="currentImage" src="<?php echo htmlspecialchars($img_src); ?>" 
                  alt="<?php echo htmlspecialchars($article['title']); ?>"
@@ -139,7 +139,7 @@ $is_ajax = isset($data['is_ajax']) && $data['is_ajax'];
         formData.set('content', editorData);
 
         $.ajax({
-            url: '/SIKUBAH/articles/save_ajax',
+            url: '/articles/save_ajax',
             method: 'POST',
             data: formData,
             contentType: false,

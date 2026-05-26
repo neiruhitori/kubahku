@@ -93,7 +93,7 @@
 <body>
     <div class="container">
         <h1>🧪 Test WA Tracking Endpoint</h1>
-        <p>Test ini akan mengirim data tracking langsung ke endpoint <code>/SIKUBAH/watracking/track</code></p>
+        <p>Test ini akan mengirim data tracking langsung ke endpoint <code>/watracking/track</code></p>
 
         <div style="margin: 20px 0;">
             <button id="testBtn" class="test-btn" onclick="testTracking()">
@@ -115,7 +115,7 @@
         <h3>📊 Test Data yang Dikirim:</h3>
         <pre id="testData">{
   "page_name": "test-endpoint",
-  "page_url": "http://localhost/SIKUBAH/test_tracking_endpoint.php",
+  "page_url": "https://produsenkubahmasjid.id/test_tracking_endpoint.php",
   "button_type": "test-button"
 }</pre>
     </div>
@@ -156,10 +156,10 @@
             formData.append('page_url', window.location.href);
             formData.append('button_type', 'test-button');
 
-            addLog('Sending POST request to /SIKUBAH/watracking/track', 'info');
+            addLog('Sending POST request to /watracking/track', 'info');
 
             try {
-                const response = await fetch('/SIKUBAH/watracking/track', {
+                const response = await fetch('/watracking/track', {
                     method: 'POST',
                     body: formData
                 });
@@ -192,7 +192,7 @@
                     
                     setTimeout(() => {
                         addLog('💡 Sekarang refresh debug page untuk melihat data baru', 'info');
-                        addLog('💡 Atau buka: http://localhost/SIKUBAH/debug_wa_stats.php', 'info');
+                        addLog('💡 Atau buka: https://produsenkubahmasjid.id/debug_wa_stats.php', 'info');
                     }, 1000);
                 } else {
                     addLog('❌ TRACKING GAGAL!', 'error');
@@ -206,7 +206,7 @@
                 resultError.style.display = 'block';
                 
                 addLog('Possible causes:', 'error');
-                addLog('1. Endpoint /SIKUBAH/watracking/track tidak dapat diakses', 'error');
+                addLog('1. Endpoint /watracking/track tidak dapat diakses', 'error');
                 addLog('2. Controller WaTracking tidak ditemukan', 'error');
                 addLog('3. Database connection error', 'error');
             }

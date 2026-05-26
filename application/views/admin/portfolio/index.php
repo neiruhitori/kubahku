@@ -132,7 +132,7 @@
                                                         <?php if (!empty($p['image'])): ?>
                                                             <?php
                                                             $clean_path = str_replace('./', '', $p['image']);
-                                                            $img_src = 'http://localhost/SIKUBAH/' . $clean_path;
+                                                            $img_src = 'https://produsenkubahmasjid.id/' . $clean_path;
                                                             ?>
                                                             <img src="<?php echo htmlspecialchars($img_src); ?>"
                                                                 alt="<?php echo htmlspecialchars($p['title']); ?>"
@@ -237,8 +237,8 @@
 
         function loadPortfolioForm(action, id = null) {
             const url = action === 'create' ?
-                '/SIKUBAH/portfolio/form_create' :
-                '/SIKUBAH/portfolio/form_edit/' + id;
+                '/portfolio/form_create' :
+                '/portfolio/form_edit/' + id;
 
             $.ajax({
                 url: url,
@@ -266,7 +266,7 @@
 
         function deletePortfolio(id, title) {
             if (confirm('Apakah Anda yakin ingin menghapus portfolio "' + title + '"?\nGambar yang terkait juga akan dihapus.')) {
-                window.location.href = '/SIKUBAH/portfolio/delete/' + id;
+                window.location.href = '/portfolio/delete/' + id;
             }
         }
     </script>

@@ -42,7 +42,7 @@ class Dashboard extends Controller {
 
     private function _check_auth() {
         if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== true) {
-            header('Location: /SIKUBAH/auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
+            header('Location: /auth/login?redirect=' . urlencode($_SERVER['REQUEST_URI']));
             exit;
         }
     }

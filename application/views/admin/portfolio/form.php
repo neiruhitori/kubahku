@@ -171,7 +171,7 @@
             <!-- Main Content Area -->
             <div class="main-content">
                 <div class="content-card">
-                    <form method="POST" action="/SIKUBAH/portfolio/<?php echo $action === 'create' ? 'store' : 'update/' . $portfolio['id']; ?>" enctype="multipart/form-data">
+                    <form method="POST" action="/portfolio/<?php echo $action === 'create' ? 'store' : 'update/' . $portfolio['id']; ?>" enctype="multipart/form-data">
 
                         <div class="mb-3">
                             <label class="form-label">Judul Portfolio *</label>
@@ -212,7 +212,7 @@
                             <button type="submit" class="btn btn-primary">
                                 <i class="bi bi-check-circle"></i> <?php echo $action === 'create' ? 'Tambah' : 'Update'; ?>
                             </button>
-                            <a href="/SIKUBAH/portfolio" class="btn btn-secondary">
+                            <a href="/portfolio" class="btn btn-secondary">
                                 <i class="bi bi-arrow-left"></i> Kembali
                             </a>
                         </div>
@@ -252,7 +252,7 @@
     <button type="submit" class="btn btn-primary">
         <i class="bi bi-check-circle"></i> <?php echo $action === 'create' ? 'Tambah' : 'Update'; ?>
     </button>
-    <a href="/SIKUBAH/portfolio" class="btn btn-secondary">
+    <a href="/portfolio" class="btn btn-secondary">
         <i class="bi bi-arrow-left"></i> Kembali
     </a>
 </div>

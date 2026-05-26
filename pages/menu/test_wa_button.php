@@ -38,7 +38,7 @@
     <pre id="dbCheck">Run: SELECT * FROM wa_clicks ORDER BY id DESC LIMIT 1;</pre>
     
     <!-- Load Script -->
-    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
+    <script src="/assets/js/wa-tracker.js"></script>
     
     <script>
         const consoleDiv = document.getElementById('console');

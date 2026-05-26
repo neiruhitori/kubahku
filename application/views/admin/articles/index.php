@@ -204,7 +204,7 @@
                                         <td>
                                             <?php
                                             $clean_path = str_replace('./', '', $article['featured_image']);
-                                            $img_src = 'http://localhost/SIKUBAH/' . $clean_path;
+                                            $img_src = 'https://produsenkubahmasjid.id/' . $clean_path;
                                             ?>
                                             <img src="<?php echo htmlspecialchars($img_src); ?>"
                                                 alt="<?php echo htmlspecialchars($article['title']); ?>"
@@ -233,7 +233,7 @@
                                                 <button class="btn btn-warning" onclick="loadArticleForm('edit', <?php echo $article['id']; ?>)" title="Edit">
                                                     <i class="bi bi-pencil"></i>
                                                 </button>
-                                                <a href="/SIKUBAH/articles/delete/<?php echo $article['id']; ?>"
+                                                <a href="/articles/delete/<?php echo $article['id']; ?>"
                                                     class="btn btn-danger"
                                                     onclick="return confirm('Yakin hapus artikel \'<?php echo addslashes($article['title']); ?>\'?')"
                                                     title="Hapus">
@@ -324,9 +324,9 @@
 
             // Load article form for create/edit
             function loadArticleForm(action, id = null) {
-                let url = '/SIKUBAH/articles/form_create';
+                let url = '/articles/form_create';
                 if (action === 'edit' && id) {
-                    url = '/SIKUBAH/articles/form_edit/' + id;
+                    url = '/articles/form_edit/' + id;
                 }
 
                 $.ajax({
@@ -346,10 +346,10 @@
                                 CKEDITOR.replace('content', {
                                     height: 400,
                                     // Image Upload Configuration
-                                    filebrowserBrowseUrl: '/SIKUBAH/articles/browse_image',
-                                    filebrowserUploadUrl: '/SIKUBAH/articles/upload_image',
-                                    filebrowserImageBrowseUrl: '/SIKUBAH/articles/browse_image',
-                                    filebrowserImageUploadUrl: '/SIKUBAH/articles/upload_image',
+                                    filebrowserBrowseUrl: '/articles/browse_image',
+                                    filebrowserUploadUrl: '/articles/upload_image',
+                                    filebrowserImageBrowseUrl: '/articles/browse_image',
+                                    filebrowserImageUploadUrl: '/articles/upload_image',
                                     removePlugins: 'elementspath',
                                     resize_enabled: true,
                                     // Full toolbar with all features

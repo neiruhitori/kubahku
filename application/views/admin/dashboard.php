@@ -184,7 +184,7 @@
                                 <i class="bi bi-whatsapp" style="font-size: 32px; color: #25D366;"></i>
                                 <div class="stat-number" style="color: #25D366;"><?php echo $wa_stats['today_clicks'] ?? 0; ?></div>
                                 <div class="stat-label">Klik WA Hari Ini</div>
-                                <a href="/SIKUBAH/watracking/stats" style="font-size: 12px; color: #667eea;">Lihat Detail →</a>
+                                <a href="/watracking/stats" style="font-size: 12px; color: #667eea;">Lihat Detail →</a>
                             </div>
                         </div>
                     </div>
