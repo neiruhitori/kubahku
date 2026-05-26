@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Jasa Pembuatan Mihrab Masjid GRC Desain Elegan Harga Murah</title>
+    <title>PKM - Produsen Kubah Masjid</title>
 
     <!-- All in One SEO 4.9.7.1 - aioseo.com -->
     <meta name="description"
-        content="Call/WA 081333735000 (Antok) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
+        content="Call/WA 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
     <meta name="robots" content="max-image-preview:large" />
-    <meta name="author" content="PT. Anugerah Kubah Indonesia" />
+    <meta name="author" content="PT. Kubah Mandiri Indonesia" />
     <meta name="keywords"
         content="mihrab masjid grc,krawangan mihrab masjid,mihrab grc,grc mihrab masjid,harga mihrab masjid minimalis,jasa membuat mihrab masjid,jasa pembuatan grc mihrab masjid,jasa pembuatan mihrab masjid,pembuatan grc mihrab masjid,imaman masjid,desain imaman masjid,desain tempat imam masjid,desain pengimaman masjid minimalis,desain pengimaman masjid,imaman masjid minimalis,model imaman masjid,desain mihrab masjid,produk masjid" />
     <link rel="canonical"
@@ -20,7 +20,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Jasa Pembuatan Mihrab Masjid GRC Desain Elegan Harga Murah" />
     <meta property="og:description"
-        content="Call/WA 081333735000 (Antok) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
+        content="Call/WA 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
     <meta property="og:url"
         content="https://www.jualkubahmasjid.id/jasa-pembuatan-mihrab-masjid-grc-desain-elegan-harga-murah/" />
     <meta property="article:published_time" content="2025-06-23T03:00:02+00:00" />
@@ -28,7 +28,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Jasa Pembuatan Mihrab Masjid GRC Desain Elegan Harga Murah" />
     <meta name="twitter:description"
-        content="Call/WA 081333735000 (Antok) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
+        content="Call/WA 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info penjual krawangan GRC terdekat di kota anda Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih mihrab masjid GRC dari jasa kami dapat menjadi pilihan terbaik untuk anda. Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana" />
     <!-- All in One SEO -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1442,6 +1442,7 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
@@ -1458,11 +1459,19 @@
     <!-- Google Ads snippet added by Site Kit -->
     <script src="https://www.googletagmanager.com/gtag/js?id=G-GBHP9RL402" id="google_gtagjs-js" async></script>
     <script id="google_gtagjs-js-after">
-        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-        gtag("set", "linker", { "domains": ["www.jualkubahmasjid.id"] });
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("set", "linker", {
+            "domains": ["www.jualkubahmasjid.id"]
+        });
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "G-GBHP9RL402", { "googlesitekit_post_type": "post" });
+        gtag("config", "G-GBHP9RL402", {
+            "googlesitekit_post_type": "post"
+        });
         gtag("config", "AW-737332955");
         //# sourceURL=google_gtagjs-js-after
     </script>
@@ -1506,43 +1515,46 @@
     </style>
     <!--BEGIN: TRACKING CODE MANAGER (v2.5.0) BY INTELLYWP.COM IN HEAD//-->
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
+    </script>
     <!-- End Google Tag Manager -->
     <!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//-->
     <link rel="pingback" href="https://www.jualkubahmasjid.id/xmlrpc.php">
 
     <!-- Google Tag Manager snippet added by Site Kit -->
     <script>
-        (function (w, d, s, l, i) {
+        (function(w, d, s, l, i) {
             w[l] = w[l] || [];
-            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
             var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
-
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-32x32.png"
-        sizes="32x32" />
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-270x270.png" />
+    <link rel="icon" href="../../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../../images/icon.webp" />
 </head>
 
 <body
@@ -1579,13 +1591,11 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
-                                                    <img width="584" height="147"
-                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png"
+                                                <a href="#">
+                                                    <img width="60" height="2"
+                                                        src="../../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
-                                                        decoding="async" fetchpriority="high"
-                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png 584w, https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1-300x76.png 300w"
-                                                        sizes="(max-width: 584px) 100vw, 584px" /> </a>
+                                                        decoding="async" fetchpriority="high" /> </a>
                                             </div>
                                         </div>
                                     </div>
@@ -1651,11 +1661,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1718,11 +1728,11 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
@@ -1761,40 +1771,40 @@
                                             itemprop="datePublished">23/06/2025</time></span> <span class="byline">by
                                         <span class="author vcard" itemprop="author"
                                             itemtype="https://schema.org/Person" itemscope><a class="url fn n"
-                                                href="https://www.jualkubahmasjid.id/author/isaq-naser-salasa/"
-                                                title="View all posts by PT. Anugerah Kubah Indonesia" rel="author"
-                                                itemprop="url"><span class="author-name" itemprop="name">PT. Anugerah
-                                                    Kubah Indonesia</span></a></span></span>
+                                                href="#"
+                                                title="View all posts by PT. Kubah Mandiri Indonesia" rel="author"
+                                                itemprop="url"><span class="author-name" itemprop="name">PT. Kubah Mandiri Indonesia</span></a></span></span>
                                 </div>
                             </header>
 
                             <div class="entry-content" itemprop="text">
-                                <p><strong>Call/WA <a href="tel:+6281333735000">081333735000</a> (Antok) untuk info
+                                <p><strong>Call/WA <a href="tel:+6285188588596">085188588596</a> (Admin PT. Kubah Mandiri Indonesia) untuk info
                                         penjual krawangan GRC terdekat di kota anda</strong></p>
                                 <p><img decoding="async" class="aligncenter size-full wp-image-17141"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1.jpg"
+                                        src="../../../images/mihrab5.webp"
                                         alt="mihrab masjid grc" width="1254" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1.jpg 1254w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1-168x300.jpg 168w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1-572x1024.jpg 572w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1-768x1375.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1-858x1536.jpg 858w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-1-1144x2048.jpg 1144w"
+                                        srcset="../../../images/mihrab5.webp"
                                         sizes="(max-width: 1254px) 100vw, 1254px" /></p>
-                                <p>Kami adalah spesialis dalam pembuatan krawangan mihrab masjid menggunakan bahan GRC
-                                    (Glassfiber Reinforced Concrete) berkualitas tinggi. Kami akan bahas mengapa memilih
+                                <p>Kami merupakan ahli dalam produksi ornamen mihrab masjid dengan material GRC
+                                    (Glassfiber Reinforced Concrete) bermutu premium. Berikut kami jelaskan alasan memilih
                                     <a
-                                        href="https://www.jualkubahmasjid.id/jasa-pembuatan-mihrab-masjid-grc-desain-elegan-harga-murah/">mihrab
-                                        masjid GRC</a> dari jasa kami dapat menjadi pilihan terbaik untuk anda.</p>
-                                <p>Kami uraikan keunggulan produk kami, keuntungan yang anda dapatkan, serta bagaimana
-                                    kami memberikan layanan yang memenuhi kebutuhan masjid anda.</p>
+                                        href="#">mihrab
+                                        masjid GRC</a> dari layanan kami menjadi opsi paling tepat bagi Anda.
+                                </p>
+                                <p>Kami paparkan kelebihan hasil karya kami, manfaat yang Anda peroleh, beserta cara
+                                    kami menghadirkan pelayanan yang mencukupi keperluan masjid Anda.</p>
                                 <h2><span class="ez-toc-section"
                                         id="1_Keunggulan_Mihrab_Masjid_GRC_dari_Jasa_Kami"></span><strong>1. Keunggulan
                                         Mihrab Masjid GRC dari Jasa Kami</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Ketika Anda memutuskan untuk membeli mihrab masjid GRC, ada beberapa keunggulan yang
-                                    kami tawarkan:</p>
+                                <p>Saat Anda bertekad memesan mihrab masjid GRC, terdapat sejumlah kelebihan yang
+                                    kami sajikan:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="a_Kualitas_bahan_terbaik"></span><strong>a. Kualitas bahan
                                         terbaik</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami menggunakan bahan GRC berkualitas tinggi dalam
-                                    pembuatan mihrab masjid. GRC adalah material yang kuat, tahan lama, dan tahan
-                                    terhadap cuaca ekstrem. Dengan menggunakan bahan terbaik karena:</p>
+                                <p style="padding-left: 40px;">Kami memakai material GRC bermutu tinggi untuk
+                                    produksi mihrab masjid. GRC merupakan bahan yang tangguh, awet, serta resisten
+                                    menghadapi iklim ekstrem. Dengan memakai bahan unggulan karena:</p>
                                 <ul>
                                     <li style="list-style-type: none;">
                                         <ul>
@@ -1804,87 +1814,87 @@
                                         </ul>
                                     </li>
                                 </ul>
-                                <p style="padding-left: 40px;">Sehingga mihrab masjid GRC dari jasa kami akan tetap
-                                    indah dan kokoh dalam jangka waktu yang lama.</p>
+                                <p style="padding-left: 40px;">Maka mihrab masjid GRC dari layanan kami akan senantiasa
+                                    cantik dan solid dalam periode waktu yang panjang.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="b_Desain_yang_indah_dan_elegan"></span><strong>b. Desain yang indah dan
                                         elegan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami memiliki tim desainer yang berpengalaman dalam
-                                    menciptakan desain mihrab masjid yang indah dan elegan. Kami memahami pentingnya
-                                    keindahan dan estetika dalam mendesain mihrab masjid.</p>
-                                <p style="padding-left: 40px;">Dengan berbagai pilihan desain yang kami tawarkan, Anda
-                                    dapat memilih mihrab yang sesuai dengan gaya arsitektur masjid Anda.</p>
+                                <p style="padding-left: 40px;">Kami mempunyai kelompok perancang yang mahir dalam
+                                    mengkreasikan rancangan mihrab masjid yang cantik dan anggun. Kami menyadari urgensi
+                                    keindahan serta nilai estetis dalam merancang mihrab masjid.</p>
+                                <p style="padding-left: 40px;">Dengan aneka ragam opsi desain yang kami sediakan, Anda
+                                    bisa menentukan mihrab yang cocok dengan corak arsitektur masjid Anda.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="c_Customizable_dan_personalisasi"></span><strong>c. Customizable dan
                                         personalisasi</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami mengerti bahwa setiap masjid memiliki keunikan dan
-                                    kebutuhan yang berbeda. Oleh karena itu, kami menyediakan layanan custom dan
-                                    personalisasi untuk mihrab masjid GRC.</p>
-                                <p>Anda dapat berdiskusi dengan tim kami mengenai preferensi desain, ukuran, dan detail
-                                    lainnya agar mihrab yang kami buat sesuai dengan keinginan Anda.</p>
+                                <p style="padding-left: 40px;">Kami paham bahwa tiap masjid mempunyai ciri khas dan
+                                    keperluan yang berbeda-beda. Oleh sebab itu, kami menghadirkan jasa kustomisasi dan
+                                    personalisasi bagi mihrab masjid GRC.</p>
+                                <p>Anda dapat berkonsultasi dengan tim kami tentang selera desain, dimensi, serta aspek
+                                    lain supaya mihrab yang kami ciptakan selaras dengan harapan Anda.</p>
                                 <h2><span class="ez-toc-section"
                                         id="2_Keuntungan_Memilih_Mihrab_Masjid_GRC_dari_Jasa_Kami"></span><strong>2.
                                         Keuntungan Memilih Mihrab Masjid GRC dari Jasa Kami</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Ketika Anda memilih jasa pembuatan mihrab masjid GRC dari kami, Anda akan mendapatkan
-                                    beberapa keuntungan berikut:</p>
+                                <p>Ketika Anda menentukan layanan produksi mihrab masjid GRC dari kami, Anda bakal memperoleh
+                                    beberapa benefit berikut ini:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="a_Kualitas_terjamin"></span><strong>a. Kualitas terjamin</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami berkomitmen untuk menyediakan produk dengan kualitas
-                                    terbaik. Setiap mihrab masjid GRC yang kami produksi melalui proses yang ketat dan
-                                    diawasi oleh tim ahli kami. Anda dapat yakin bahwa Anda akan menerima mihrab
-                                    berkualitas tinggi yang memenuhi standar dan kebutuhan Anda.</p>
+                                <p style="padding-left: 40px;">Kami berjanji menghadirkan produk dengan mutu
+                                    terbaik. Tiap mihrab masjid GRC yang kami hasilkan lewat tahapan yang rigid dan
+                                    dikontrol oleh kelompok pakar kami. Anda bisa optimis bahwa Anda bakal mendapat mihrab
+                                    bermutu tinggi yang memenuhi standar serta keperluan Anda.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="b_Layanan_profesional_dan_responsif"></span><strong>b. Layanan profesional
                                         dan responsif</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami memiliki tim yang terampil, berpengalaman, dan
-                                    berdedikasi untuk memberikan layanan terbaik kepada pelanggan. Kami siap membantu
-                                    Anda dari tahap konsultasi hingga pemasangan mihrab.</p>
-                                <p style="padding-left: 40px;">Kami juga memberikan respons yang cepat terhadap
-                                    pertanyaan dan menyediakan dukungan setelah penjualan untuk memastikan kepuasan
-                                    pelanggan.</p>
+                                <p style="padding-left: 40px;">Kami mempunyai tim yang cakap, berpengalaman, serta
+                                    berdedikasi menghadirkan pelayanan optimal kepada konsumen. Kami siap mendampingi
+                                    Anda mulai fase konsultasi sampai instalasi mihrab.</p>
+                                <p style="padding-left: 40px;">Kami juga menghadirkan respon yang tangkas terhadap
+                                    pertanyaan dan menyajikan support pasca penjualan guna menjamin kepuasan
+                                    konsumen.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="c_Harga_kompetitif"></span><strong>c. Harga kompetitif</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami menyadari pentingnya faktor harga dalam memilih jasa
-                                    pembuatan mihrab masjid. Oleh karena itu, kami menawarkan harga yang kompetitif dan
-                                    terjangkau tanpa mengorbankan kualitas produk kami.</p>
-                                <p>Dengan begitu, Anda bisa mendapatkan mihrab masjid GRC berkualitas tinggi sesuai
-                                    dengan anggaran yang Anda miliki.</p>
+                                <p style="padding-left: 40px;">Kami menyadari pentingnya aspek biaya dalam menentukan jasa
+                                    produksi mihrab masjid. Oleh sebab itu, kami menghadirkan tarif yang kompetitif dan
+                                    ekonomis tanpa mengorbankan mutu produk kami.</p>
+                                <p>Dengan demikian, Anda bisa memperoleh mihrab masjid GRC bermutu tinggi sejalan
+                                    dengan budget yang Anda punya.</p>
                                 <h2><span class="ez-toc-section" id="3_Layanan_yang_Kami_Sediakan"></span><strong>3.
                                         Layanan yang Kami Sediakan</strong><span class="ez-toc-section-end"></span></h2>
-                                <p>Selain pembuatan mihrab masjid GRC, kami juga menyediakan layanan tambahan yang dapat
-                                    memberikan kepuasan lebih kepada pelanggan kami. Beberapa layanan yang kami tawarkan
-                                    antara lain:</p>
+                                <p>Selain produksi mihrab masjid GRC, kami juga menghadirkan layanan ekstra yang dapat
+                                    memberikan kepuasan lebih kepada klien kami. Sejumlah layanan yang kami sajikan
+                                    di antaranya:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="a_Konsultasi_desain"></span><strong>a. Konsultasi desain</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami memiliki tim ahli yang siap memberikan konsultasi
-                                    dalam pemilihan desain mihrab masjid yang sesuai dengan gaya dan kebutuhan masjid
-                                    Anda. Kami akan bekerja sama dengan Anda untuk menciptakan mihrab yang indah dan
-                                    mengesankan.</p>
+                                <p style="padding-left: 40px;">Kami mempunyai tim ahli yang siap menghadirkan konsultasi
+                                    dalam pemilihan desain mihrab masjid yang pas dengan gaya dan keperluan masjid
+                                    Anda. Kami bakal berkolaborasi dengan Anda guna menciptakan mihrab yang cantik dan
+                                    memukau.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="b_Pengiriman_dan_pemasangan"></span><strong>b. Pengiriman dan
                                         pemasangan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami menyediakan layanan pengiriman dan pemasangan mihrab
-                                    masjid GRC ke lokasi Anda. Tim kami akan memastikan bahwa mihrab dipasang dengan
-                                    aman dan sesuai dengan standar yang ditetapkan.</p>
+                                <p style="padding-left: 40px;">Kami menghadirkan layanan pengiriman dan instalasi mihrab
+                                    masjid GRC ke lokasi Anda. Tim kami bakal menjamin bahwa mihrab dipasang dengan
+                                    aman serta sesuai dengan standar yang ditentukan.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="c_Perawatan_dan_pemeliharaan"></span><strong>c. Perawatan dan
                                         pemeliharaan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami memberikan panduan perawatan dan pemeliharaan mihrab
-                                    masjid GRC yang akan memastikan agar mihrab tetap terlihat baik dan berfungsi dengan
-                                    baik dalam jangka waktu yang panjang. Kami juga siap memberikan layanan pemeliharaan
-                                    jika diperlukan.</p>
+                                <p style="padding-left: 40px;">Kami menghadirkan panduan perawatan dan maintenance mihrab
+                                    masjid GRC yang bakal menjamin supaya mihrab senantiasa tampak bagus dan berfungsi dengan
+                                    baik dalam periode waktu yang panjang. Kami juga siap menghadirkan layanan maintenance
+                                    apabila dibutuhkan.</p>
                                 <p><img decoding="async" class="size-full wp-image-18344 aligncenter"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc1.jpg"
+                                        src="../../../images/mihrab2.webp"
                                         alt="" width="1280" height="800"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc1.jpg 1280w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc1-300x188.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc1-1024x640.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc1-768x480.jpg 768w"
+                                        srcset="../../../images/mihrab2.webp"
                                         sizes="(max-width: 1280px) 100vw, 1280px" />Ingin mihrab GRC berkualitas dengan
                                     harga terjangkau? Hubungi <a
-                                        href="https://www.jualkubahmasjid.id/qoobah/">Qoobah</a> sekarang! Kami siap
-                                    memberikan penawaran terbaik untuk anda. Hubungi kami di +62 813-3373-5000 dan
+                                        href="#">Qoobah</a> sekarang! Kami siap
+                                    memberikan penawaran terbaik untuk anda. Hubungi kami di 085188588596 dan
                                     dapatkan mihrab GRC keinginan snda dengan harga yang ramah di kantong.</p>
                                 <p>Mihrab GRC adalah solusi elegan yang menawarkan banyak keunggulan, dan PT. Qoobah
                                     adalah ahlinya dalam pembuatan mihrab GRC yang berkualitas tinggi.</p>
@@ -1934,15 +1944,14 @@
                                     kekuatan dan tahan lama mihrab. Teknologi mutakhir juga digunakan dalam menghasilkan
                                     mihrab GRC yang mudah dirawat dan tahan terhadap perubahan cuaca ekstrem.</p>
                                 <p><img loading="lazy" decoding="async" class="size-full wp-image-18345 aligncenter"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2.jpg"
+                                        src="../../../images/mihrab.webp"
                                         alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/11/harga-mihrab-masjid-grc2-1448x2048.jpg 1448w"
+                                        srcset="../../../images/mihrab.webp"
                                         sizes="auto, (max-width: 1587px) 100vw, 1587px" /></p>
                                 <h2><span class="ez-toc-section" id="Kesimpulan"></span><strong>Kesimpulan</strong><span
                                         class="ez-toc-section-end"></span></h2>
                                 <p>Jika anda berencana untuk memesan mihrab GRC yang indah untuk masjid anda, tim sales
-                                    Qoobah siap memberikan konsultasi gratis. Hubungi kami di nomor <strong>+62
-                                        813-3373-5000</strong> dan kami akan dengan senang hati membantu anda
+                                    Qoobah siap memberikan konsultasi gratis. Hubungi kami di nomor <strong>085188588596</strong> dan kami akan dengan senang hati membantu anda
                                     merencanakan proyek pembuatan mihrab GRC yang sesuai dengan kebutuhan dan anggaran
                                     anda.</p>
                                 <p>Dalam memilih mihrab masjid GRC, kami percaya bahwa jasa kami dapat memberikan solusi
@@ -1950,13 +1959,13 @@
                                     tinggi, desain yang indah, dan layanan yang profesional, mihrab masjid GRC dari jasa
                                     kami akan meningkatkan keindahan dan kemegahan masjid anda.</p>
                                 <p>Dengan Qoobah, anda dapat memiliki <a
-                                        href="https://www.jualkubahmasjid.id/jasa-pembuatan-mihrab-masjid-grc-desain-elegan-harga-murah/">mihrab
+                                        href="#">mihrab
                                         masjid GRC</a> berkualitas tinggi yang tidak hanya mempercantik masjid anda,
                                     tetapi juga memperkaya pengalaman ibadah.</p>
                                 <p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-17195"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-2.jpg"
+                                        src="../../../images/mihrab3.webp"
                                         alt="mihrab masjid grc" width="1280" height="800"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-2.jpg 1280w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-2-300x188.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-2-1024x640.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/mihrab-masjid-grc-2-768x480.jpg 768w"
+                                        srcset="../../../images/mihrab3.webp"
                                         sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Pertanyaan_yang_Sering_Diajukan_FAQs"></span><strong>Pertanyaan yang Sering
@@ -2031,16 +2040,16 @@
                                     perubahan lingkungan, Anda dapat memastikan bahwa mihrab tetap indah dan berfungsi
                                     dengan baik dalam jangka waktu yang panjang.</p>
                                 <p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-17143"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid.jpg"
+                                        src="../../../images/mihrab4.webp"
                                         alt="krawangan mihrab masjid" width="1587" height="1980"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid-240x300.jpg 240w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid-821x1024.jpg 821w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid-768x958.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/07/krawangan-mihrab-masjid-1231x1536.jpg 1231w"
+                                        srcset="../../../images/mihrab4.webp"
                                         sizes="auto, (max-width: 1587px) 100vw, 1587px" /></p>
                                 <h2><span class="ez-toc-section" id="Hubungi_Kami_Sekarang"></span><strong>Hubungi Kami
                                         Sekarang</strong><span class="ez-toc-section-end"></span></h2>
                                 <p>Jangan ragu lagi untuk memesan jasa pembuatan mihrab masjid GRC dari PT. Qoobah. Kami
                                     adalah mitra terpercaya yang siap mewujudkan mihrab impian Anda dengan kualitas
                                     terbaik.</p>
-                                <p>Hubungi kami sekarang di nomor <strong>+62 813-3373-5000</strong> dan percayakan pada
+                                <p>Hubungi kami sekarang di nomor <strong>085188588596</strong> dan percayakan pada
                                     ahli kami untuk menghadirkan mihrab masjid yang elegan, tahan lama, dan sesuai
                                     dengan keinginan Anda. Jadikan masjid Anda lebih indah dan berkesan dengan mihrab
                                     masjid GRC dari PT. Qoobah.</p>
@@ -2050,13 +2059,13 @@
                                         Lokasi Jasa Pembuatan Mihrab Masjid pada Google Maps:</strong><span
                                         class="ez-toc-section-end"></span></h4>
                                 <p><iframe loading="lazy" style="border: 0;"
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126486.06712171304!2d111.93976523681447!3d-7.822641755067595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e0!3m2!1sen!2sid!4v1686970747918!5m2!1sen!2sid"
+                                        src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                         width="800" height="600" allowfullscreen="allowfullscreen"></iframe></p>
                                 <p>&nbsp;</p>
                                 <p>Baca juga: <a
-                                        href="https://www.jualkubahmasjid.id/harga-kubah-masjid-bahan-grc/"><strong>Harga
+                                        href="#"><strong>Harga
                                             Kubah Masjid Bahan GRC Anti Bocor</strong></a> dan <a
-                                        href="https://www.jualkubahmasjid.id/tips-dan-trik-membuat-replika-pintu-nabawi-yang-unik/"><strong>Tips
+                                        href="#"><strong>Tips
                                             dan Trik Membuat Replika Pintu Nabawi yang Unik</strong></a></p>
                                 <div id="ez-toc-container"
                                     class="ez-toc-v2_0_83 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
@@ -2207,20 +2216,20 @@
                                 </div>
                             </div>
 
-                            <footer class="entry-meta" aria-label="Entry meta">
+                            <!-- <footer class="entry-meta" aria-label="Entry meta">
                                 <span class="cat-links"><span class="screen-reader-text">Categories </span><a
-                                        href="https://www.jualkubahmasjid.id/category/produk-masjid/"
+                                        href="#"
                                         rel="category tag">Produk Masjid</a></span>
                                 <nav id="nav-below" class="post-navigation" aria-label="Posts">
                                     <div class="nav-previous"><span class="prev"><a
-                                                href="https://www.jualkubahmasjid.id/pengrajin-pintu-masjid-nabawi-berpengalaman-harga-terjangkau/"
+                                                href="#"
                                                 rel="prev">Pengrajin Pintu Masjid Nabawi Kuningan Harga
                                                 Terjangkau</a></span></div>
                                     <div class="nav-next"><span class="next"><a
-                                                href="https://www.jualkubahmasjid.id/portofolio-no-index/"
+                                                href="#"
                                                 rel="next">Portofolio No Index</a></span></div>
                                 </nav>
-                            </footer>
+                            </footer> -->
                         </div>
                     </article>
                 </main>
@@ -2228,77 +2237,67 @@
 
             <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="right-sidebar">
                 <div class="inside-right-sidebar">
-                    <aside id="search-3" class="widget inner-padding widget_search">
-                        <form method="get" class="search-form" action="https://www.jualkubahmasjid.id/">
-                            <label>
-                                <span class="screen-reader-text">Search for:</span>
-                                <input type="search" class="search-field" placeholder="Search &hellip;" value=""
-                                    name="s" title="Search for:">
-                            </label>
-                            <input type="submit" class="search-submit" value="Search">
-                        </form>
-                    </aside>
+
                     <aside id="text-4" class="widget inner-padding widget_text">
                         <div class="textwidget">
-                            <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png"
+                                    src="../../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-150x150.png 150w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-768x768.png 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah.png 864w"
+                                    srcset="../../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
-                            <p>Assalamualaikum, saya <strong>Antok</strong>.</p>
+                            <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
                             <p>Silakan konsultasi gratis dengan Call/WhatsApp saya di nomor <a
-                                    href="tel:+6281333735000"><strong>081333735000</strong></a> untuk mengetahui info
+                                    href="tel:+6285188588596"><strong>085188588596</strong></a> untuk mengetahui info
                                 harga pemesanan kubah enamel dan kubah masjid galvalum.</p>
                         </div>
                     </aside>
                     <aside id="text-5" class="widget inner-padding widget_text">
-                        <h2 class="widget-title">Temukan PT. Anugerah Kubah Indonesia pada Google Maps</h2>
+                        <h2 class="widget-title">Temukan PT. Kubah Mandiri Indonesia pada Google Maps</h2>
                         <div class="textwidget">
                             <p><iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.986012870826!2d111.99645505089666!3d-7.896529394283357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e0!3m2!1sen!2sid!4v1646564674316!5m2!1sen!2sid"
+                                    src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                     style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
                         </div>
                     </aside>
-                    <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
+                    <!-- <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
                         <h2 class="widget-title">Info Terkini</h2>
                         <ul>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-pusdai-bandung/">Mengintip Desain Ikonik
+                                <a href="#">Mengintip Desain Ikonik
                                     Masjid PUSDAI Bandung Jawa Barat</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-al-muttaqin-bogor/">Fasilitas dan
+                                <a href="#">Fasilitas dan
                                     Kegiatan di Masjid Raya Al Muttaqin Bogor</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-nurani-kranji/">Megahnya Masjid Nurani
+                                <a href="#">Megahnya Masjid Nurani
                                     Kranji Perpaduan Modern dan Spanyol</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-raya-raudhatul-irfan/">Pesona Arsitektur
+                                <a href="#">Pesona Arsitektur
                                     Masjid Raya Raudhatul Irfan Sukabumi</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-agung-kalianda/">Pesona Masjid Agung
+                                <a href="#">Pesona Masjid Agung
                                     Kalianda Ikon Megah Lampung Selatan</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/nama-nama-masjid-yang-bagus/">90 Daftar
+                                <a href="#">90 Daftar
                                     Nama-Nama Masjid yang Bagus dan Maknanya</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/masjid-terdekat/">Cara Cepat Cari Masjid
+                                <a href="#">Cara Cepat Cari Masjid
                                     Terdekat Agar Ibadah Tetap Lancar</a>
                             </li>
                             <li>
-                                <a href="https://www.jualkubahmasjid.id/jual-kubah-masjid-donggala/">Jual Kubah Masjid
+                                <a href="#">Jual Kubah Masjid
                                     Donggala Harga Pabrik Termurah Bergaransi</a>
                             </li>
                         </ul>
 
-                    </aside>
+                    </aside> -->
                 </div>
             </div>
 
@@ -2310,163 +2309,143 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section with 4 Columns -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default"
+                    data-element_type="section"
+                    style="background-color: #1a1a1a; padding: 60px 0 40px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+                            <!-- Column 1: Logo and Company Info -->
+                            <div style="flex: 1; min-width: 250px;">
+                                <div style="margin-bottom: 20px;">
+                                    <img src="../../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" style="width: 80px; height: auto; margin-bottom: 15px;">
                                 </div>
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 15px; line-height: 1.4;">PT. KUBAH MANDIRI INDONESIA</h3>
+                                <p style="color: #b0b0b0; font-size: 14px; line-height: 1.8; margin: 0;">
+                                    Kami adalah perusahaan terpercaya yang bergerak di bidang pembuatan kubah masjid dengan kualitas terbaik dan harga terjangkau. Melayani seluruh Indonesia dengan pengalaman puluhan tahun.
+                                </p>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div style="flex: 0.8; min-width: 200px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div style="flex: 1; min-width: 220px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Layanan Kami</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Enamel</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Galvalum</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Stainless Gold</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Menara Masjid</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Ornamen Masjid</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div style="flex: 1.2; min-width: 250px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Informasi Kontak</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-phone-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">0851-8858-8596</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-envelope" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">info@kubahmandiri.co.id</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-map-marker-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.</span>
+                                    </li>
+                                </ul>
+
+                                <div style="margin-top: 20px;">
+                                    <h4 style="color: #ffffff; font-size: 16px; font-weight: 600; margin-bottom: 15px;">Ikuti Kami</h4>
+                                    <div style="display: flex; gap: 12px;">
+                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1877F2; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-facebook-f" style="font-size: 18px;"></i>
+                                        </a>
+                                        <!-- / -->
+                                        <a href="https://wa.me/6285188588596" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f6fbfe4" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e09d0fc"
-                                data-id="4e09d0fc" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f8ee73 elementor-widget elementor-widget-button"
-                                            data-id="6f8ee73" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
-                                                        class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp
-                                                                081333735000</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    class="elementor-section elementor-top-section elementor-element"
+                    data-element_type="section"
+                    style="background-color: #0d0d0d; padding: 20px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="text-align: center;">
+                            <p style="color: #b0b0b0; font-size: 14px; margin: 0;">© 2026 PT Kubah Mandiri Indonesia — All rights reserved. | Dibuat oleh <strong style="color: #25D366;">Pyramidsoft</strong></p>
                         </div>
                     </div>
                 </section>
+
+                <!-- Sticky WhatsApp Button (Desktop) -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="6803c2cc" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e424efd"
-                                data-id="1e424efd" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-415227aa elementor-widget elementor-widget-button"
-                                            data-id="415227aa" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70a558ee"
-                                data-id="70a558ee" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-1ebb6fff call-generic elementor-widget elementor-widget-button"
-                                            data-id="1ebb6fff" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-call"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="call-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">Call</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-tablet elementor-hidden-phone"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; background-color: transparent;">
+                    <div>
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="display: inline-flex; align-items: center; gap: 10px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4); transition: all 0.3s;">
+                            <i class="fab fa-whatsapp" style="font-size: 20px;"></i>
+                            <span>WhatsApp 085188588596</span>
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Sticky WhatsApp & Call Buttons (Mobile/Tablet) -->
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-desktop"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: #ffffff; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); padding: 10px;">
+                    <div style="display: flex; gap: 10px; max-width: 600px; margin: 0 auto;">
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                        <a href="tel:+6285188588596"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #1877F2; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fas fa-phone-alt" style="font-size: 18px;"></i>
+                            <span>Call</span>
+                        </a>
                     </div>
                 </section>
             </div>
@@ -2474,19 +2453,79 @@
     </div>
 
     <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
     <script>
-        function ht(a, b, c, d) { let z1 = a * c; let z2 = d * c; let h1 = Math.round(z1); let h2 = Math.round(z2); let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. "); document.getElementById(b).innerHTML = hasil; } function bx() { let d = document.getElementById('d').value; let t = document.getElementById('t').value; let g = 3.1428571428571; let k = d * t * g; ht(2797727, "enamel", k, 3317273); ht(1499091, "galvalum", k, 1968636) } bx(); function d() { bx(); } function t() { bx(); } function fr(ak, prefix) { var number_string = ak.toString().replace(/[^,\d]/g, ''); var split = number_string.split(','); var sis = split[0].length % 3; var dph = split[0].substr(0, sis); var bnr = split[0].substr(sis).match(/\d{3}/gi); if (bnr) { separator = sis ? '.' : ''; dph += separator + bnr.join('.'); } dph = split[1] != undefined ? dph + ',' + split[1] : dph; return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : ''); }; document.getElementById('tombolhitung').addEventListener('click', function () { bx(); });
+        function ht(a, b, c, d) {
+            let z1 = a * c;
+            let z2 = d * c;
+            let h1 = Math.round(z1);
+            let h2 = Math.round(z2);
+            let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. ");
+            document.getElementById(b).innerHTML = hasil;
+        }
+
+        function bx() {
+            let d = document.getElementById('d').value;
+            let t = document.getElementById('t').value;
+            let g = 3.1428571428571;
+            let k = d * t * g;
+            ht(2797727, "enamel", k, 3317273);
+            ht(1499091, "galvalum", k, 1968636)
+        }
+        bx();
+
+        function d() {
+            bx();
+        }
+
+        function t() {
+            bx();
+        }
+
+        function fr(ak, prefix) {
+            var number_string = ak.toString().replace(/[^,\d]/g, '');
+            var split = number_string.split(',');
+            var sis = split[0].length % 3;
+            var dph = split[0].substr(0, sis);
+            var bnr = split[0].substr(sis).match(/\d{3}/gi);
+            if (bnr) {
+                separator = sis ? '.' : '';
+                dph += separator + bnr.join('.');
+            }
+            dph = split[1] != undefined ? dph + ',' + split[1] : dph;
+            return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : '');
+        };
+        document.getElementById('tombolhitung').addEventListener('click', function() {
+            bx();
+        });
     </script>
     <script id="generate-a11y">
-        !function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("pointerdown", (function () { e.classList.add("using-mouse") }), { passive: !0 }), e.addEventListener("keydown", (function () { e.classList.remove("using-mouse") }), { passive: !0 }) } }();
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("pointerdown", (function() {
+                    e.classList.add("using-mouse")
+                }), {
+                    passive: !0
+                }), e.addEventListener("keydown", (function() {
+                    e.classList.remove("using-mouse")
+                }), {
+                    passive: !0
+                })
+            }
+        }();
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/elementor-toc-anchor-fix.js?ver=2.0.83"
         id="eztoc-elementor-anchor-fix-js"></script>
     <script id="eztoc-scroll-scriptjs-js-extra">
-        var eztoc_smooth_local = { "scroll_offset": "30", "add_request_uri": "", "add_self_reference_link": "" };
+        var eztoc_smooth_local = {
+            "scroll_offset": "30",
+            "add_request_uri": "",
+            "add_self_reference_link": ""
+        };
         //# sourceURL=eztoc-scroll-scriptjs-js-extra
     </script>
     <script
@@ -2499,14 +2538,25 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2"
         id="eztoc-jquery-sticky-kit-js"></script>
     <script id="eztoc-js-js-extra">
-        var ezTOC = { "smooth_scroll": "1", "visibility_hide_by_default": "1", "scroll_offset": "30", "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E", "visibility_hide_by_device": "1", "chamomile_theme_is_on": "" };
+        var ezTOC = {
+            "smooth_scroll": "1",
+            "visibility_hide_by_default": "1",
+            "scroll_offset": "30",
+            "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E",
+            "visibility_hide_by_device": "1",
+            "chamomile_theme_is_on": ""
+        };
         //# sourceURL=eztoc-js-js-extra
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.83-1778255783"
         id="eztoc-js-js"></script>
     <script id="generate-menu-js-before">
-        var generatepressMenu = { "toggleOpenedSubMenus": true, "openSubMenuLabel": "Open Sub-Menu", "closeSubMenuLabel": "Close Sub-Menu" };
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": true,
+            "openSubMenuLabel": "Open Sub-Menu",
+            "closeSubMenuLabel": "Close Sub-Menu"
+        };
         //# sourceURL=generate-menu-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1"
@@ -2523,7 +2573,89 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.10"
         id="elementor-sticky-js"></script>
     <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php", "nonce": "7e3e625fa2", "i18n": { "toc_no_headings_found": "No headings were found on this page." }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "google": { "title": "Google+", "has_counter": true }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" } }, "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
+        var ElementorProFrontendConfig = {
+            "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php",
+            "nonce": "7e3e625fa2",
+            "i18n": {
+                "toc_no_headings_found": "No headings were found on this page."
+            },
+            "shareButtonsNetworks": {
+                "facebook": {
+                    "title": "Facebook",
+                    "has_counter": true
+                },
+                "twitter": {
+                    "title": "Twitter"
+                },
+                "google": {
+                    "title": "Google+",
+                    "has_counter": true
+                },
+                "linkedin": {
+                    "title": "LinkedIn",
+                    "has_counter": true
+                },
+                "pinterest": {
+                    "title": "Pinterest",
+                    "has_counter": true
+                },
+                "reddit": {
+                    "title": "Reddit",
+                    "has_counter": true
+                },
+                "vk": {
+                    "title": "VK",
+                    "has_counter": true
+                },
+                "odnoklassniki": {
+                    "title": "OK",
+                    "has_counter": true
+                },
+                "tumblr": {
+                    "title": "Tumblr"
+                },
+                "digg": {
+                    "title": "Digg"
+                },
+                "skype": {
+                    "title": "Skype"
+                },
+                "stumbleupon": {
+                    "title": "StumbleUpon",
+                    "has_counter": true
+                },
+                "mix": {
+                    "title": "Mix"
+                },
+                "telegram": {
+                    "title": "Telegram"
+                },
+                "pocket": {
+                    "title": "Pocket",
+                    "has_counter": true
+                },
+                "xing": {
+                    "title": "XING",
+                    "has_counter": true
+                },
+                "whatsapp": {
+                    "title": "WhatsApp"
+                },
+                "email": {
+                    "title": "Email"
+                },
+                "print": {
+                    "title": "Print"
+                }
+            },
+            "facebook_sdk": {
+                "lang": "en_US",
+                "app_id": ""
+            },
+            "lottie": {
+                "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+            }
+        };
         //# sourceURL=elementor-pro-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.10"
@@ -2541,7 +2673,62 @@
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6"
         id="swiper-js"></script>
     <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false, "isImprovedAssetsLoading": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.1.1", "is_static": false, "experimentalFeatures": [], "urls": { "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 17111, "title": "Jasa%20Pembuatan%20Mihrab%20Masjid%20GRC%20Desain%20Elegan%20Harga%20Murah", "excerpt": "", "featuredImage": false } };
+        var elementorFrontendConfig = {
+            "environmentMode": {
+                "edit": false,
+                "wpPreview": false,
+                "isScriptDebug": false,
+                "isImprovedAssetsLoading": false
+            },
+            "i18n": {
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnTwitter": "Share on Twitter",
+                "pinIt": "Pin it",
+                "download": "Download",
+                "downloadImage": "Download image",
+                "fullscreen": "Fullscreen",
+                "zoom": "Zoom",
+                "share": "Share",
+                "playVideo": "Play Video",
+                "previous": "Previous",
+                "next": "Next",
+                "close": "Close"
+            },
+            "is_rtl": false,
+            "breakpoints": {
+                "xs": 0,
+                "sm": 480,
+                "md": 768,
+                "lg": 1025,
+                "xl": 1440,
+                "xxl": 1600
+            },
+            "version": "3.1.1",
+            "is_static": false,
+            "experimentalFeatures": [],
+            "urls": {
+                "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/"
+            },
+            "settings": {
+                "page": [],
+                "editorPreferences": []
+            },
+            "kit": {
+                "global_image_lightbox": "yes",
+                "lightbox_enable_counter": "yes",
+                "lightbox_enable_fullscreen": "yes",
+                "lightbox_enable_zoom": "yes",
+                "lightbox_enable_share": "yes",
+                "lightbox_title_src": "title",
+                "lightbox_description_src": "description"
+            },
+            "post": {
+                "id": 17111,
+                "title": "Jasa%20Pembuatan%20Mihrab%20Masjid%20GRC%20Desain%20Elegan%20Harga%20Murah",
+                "excerpt": "",
+                "featuredImage": false
+            }
+        };
         //# sourceURL=elementor-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.1"
@@ -2550,13 +2737,110 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.1"
         id="preloaded-elements-handlers-js"></script>
     <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
-</script>
+        {
+            "baseUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/",
+            "ext": ".png",
+            "svgUrl": "https://s.w.org/images/core/emoji/17.0.2/svg/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"
+            }
+        }
+    </script>
     <script type="module">
         /*! This file is auto-generated */
-        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent), o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"), s = ["flag", "emoji"]; function i(e) { try { var t = { supportTests: e, timestamp: (new Date).valueOf() }; sessionStorage.setItem(o, JSON.stringify(t)) } catch (e) { } } function c(e, t, n) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0); const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); return t.every((e, t) => e === a[t]) } function p(e, t) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); var n = e.getImageData(16, 16, 1, 1); for (let e = 0; e < n.data.length; e++)if (0 !== n.data[e]) return !1; return !0 } function u(e, t, n, a) { switch (t) { case "flag": return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !a(e, "\ud83e\u1fac8") }return !1 } function f(e, t, n, a) { let r; const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", { willReadFrequently: !0 }), s = (o.textBaseline = "top", o.font = "600 32px Arial", {}); return e.forEach(e => { s[e] = t(o, e, n, a) }), s } function r(e) { var t = document.createElement("script"); t.src = e, t.defer = !0, document.head.appendChild(t) } a.supports = { everything: !0, everythingExceptFlag: !0 }, new Promise(t => { let n = function () { try { var e = JSON.parse(sessionStorage.getItem(o)); if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests } catch (e) { } return null }(); if (!n) { if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try { var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));", a = new Blob([e], { type: "text/javascript" }); const r = new Worker(URL.createObjectURL(a), { name: "wpTestEmojiSupports" }); return void (r.onmessage = e => { i(n = e.data), r.terminate(), t(n) }) } catch (e) { } i(n = f(s, u, c, p)) } t(n) }).then(e => { for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]); var t; a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji))) });
+        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent),
+            o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"),
+            s = ["flag", "emoji"];
+
+        function i(e) {
+            try {
+                var t = {
+                    supportTests: e,
+                    timestamp: (new Date).valueOf()
+                };
+                sessionStorage.setItem(o, JSON.stringify(t))
+            } catch (e) {}
+        }
+
+        function c(e, t, n) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0);
+            const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            return t.every((e, t) => e === a[t])
+        }
+
+        function p(e, t) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            var n = e.getImageData(16, 16, 1, 1);
+            for (let e = 0; e < n.data.length; e++)
+                if (0 !== n.data[e]) return !1;
+            return !0
+        }
+
+        function u(e, t, n, a) {
+            switch (t) {
+                case "flag":
+                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+                case "emoji":
+                    return !a(e, "\ud83e\u1fac8")
+            }
+            return !1
+        }
+
+        function f(e, t, n, a) {
+            let r;
+            const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", {
+                    willReadFrequently: !0
+                }),
+                s = (o.textBaseline = "top", o.font = "600 32px Arial", {});
+            return e.forEach(e => {
+                s[e] = t(o, e, n, a)
+            }), s
+        }
+
+        function r(e) {
+            var t = document.createElement("script");
+            t.src = e, t.defer = !0, document.head.appendChild(t)
+        }
+        a.supports = {
+            everything: !0,
+            everythingExceptFlag: !0
+        }, new Promise(t => {
+            let n = function() {
+                try {
+                    var e = JSON.parse(sessionStorage.getItem(o));
+                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                } catch (e) {}
+                return null
+            }();
+            if (!n) {
+                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));",
+                        a = new Blob([e], {
+                            type: "text/javascript"
+                        });
+                    const r = new Worker(URL.createObjectURL(a), {
+                        name: "wpTestEmojiSupports"
+                    });
+                    return void(r.onmessage = e => {
+                        i(n = e.data), r.terminate(), t(n)
+                    })
+                } catch (e) {}
+                i(n = f(s, u, c, p))
+            }
+            t(n)
+        }).then(e => {
+            for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]);
+            var t;
+            a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
+        });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
+
+    <!-- WhatsApp Click Tracking Script -->
+    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
 
 </body>
 

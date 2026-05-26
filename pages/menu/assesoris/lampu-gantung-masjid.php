@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Jual Lampu Gantung Masjid Kuningan &amp; Tembaga Desain Custom</title>
+    <title>PKM - Produsen Kubah Masjid</title>
 
     <!-- All in One SEO 4.9.7.1 - aioseo.com -->
     <meta name="description"
-        content="Call/WA: 081333735000 (Antok) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
+        content="Call/WA: 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
     <meta name="robots" content="max-image-preview:large" />
-    <meta name="author" content="Qoobah" />
+    <meta name="author" content="PT. Kubah Mandiri Indonesia" />
     <meta name="keywords"
         content="lampu gantung masjid,lampu gantung masjid minimalis,lampu gantung masjid kuningan,lampu gantung masjid tembaga,harga lampu gantung masjid,produk masjid" />
     <link rel="canonical"
@@ -20,7 +20,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Jual Lampu Gantung Masjid Kuningan &amp; Tembaga Desain Custom" />
     <meta property="og:description"
-        content="Call/WA: 081333735000 (Antok) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
+        content="Call/WA: 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
     <meta property="og:url"
         content="https://www.jualkubahmasjid.id/jual-lampu-gantung-masjid-kuningan-tembaga-desain-custom/" />
     <meta property="article:published_time" content="2023-09-22T14:15:38+00:00" />
@@ -28,7 +28,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Jual Lampu Gantung Masjid Kuningan &amp; Tembaga Desain Custom" />
     <meta name="twitter:description"
-        content="Call/WA: 081333735000 (Antok) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
+        content="Call/WA: 085188588596 (Admin PT. Kubah Mandiri Indonesia) untuk info Toko Lampu Gantung Masjid Terdekat Anda. Anda sedang membutuhkan replika lampu masjid Nabawi berbahan kuningan dan tembaga dengan desain custom? Jangan khawatir karena Qoobah menyediakan untuk anda. Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami menawarkan kualitas terbaik dengan harga yang terjangkau. Temukan lampu gantung masjid yang" />
     <!-- All in One SEO -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1442,6 +1442,7 @@
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1'
         media='all' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1'
         media='all' />
@@ -1458,11 +1459,19 @@
     <!-- Google Ads snippet added by Site Kit -->
     <script src="https://www.googletagmanager.com/gtag/js?id=G-GBHP9RL402" id="google_gtagjs-js" async></script>
     <script id="google_gtagjs-js-after">
-        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); }
-        gtag("set", "linker", { "domains": ["www.jualkubahmasjid.id"] });
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("set", "linker", {
+            "domains": ["www.jualkubahmasjid.id"]
+        });
         gtag("js", new Date());
         gtag("set", "developer_id.dZTNiMT", true);
-        gtag("config", "G-GBHP9RL402", { "googlesitekit_post_type": "post" });
+        gtag("config", "G-GBHP9RL402", {
+            "googlesitekit_post_type": "post"
+        });
         gtag("config", "AW-737332955");
         //# sourceURL=google_gtagjs-js-after
     </script>
@@ -1506,43 +1515,46 @@
     </style>
     <!--BEGIN: TRACKING CODE MANAGER (v2.5.0) BY INTELLYWP.COM IN HEAD//-->
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');</script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
+    </script>
     <!-- End Google Tag Manager -->
     <!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//-->
     <link rel="pingback" href="https://www.jualkubahmasjid.id/xmlrpc.php">
 
     <!-- Google Tag Manager snippet added by Site Kit -->
     <script>
-        (function (w, d, s, l, i) {
+        (function(w, d, s, l, i) {
             w[l] = w[l] || [];
-            w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
             var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-T5KVT6N');
-
     </script>
 
     <!-- End Google Tag Manager snippet added by Site Kit -->
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-32x32.png"
-        sizes="32x32" />
-    <link rel="icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-192x192.png"
-        sizes="192x192" />
-    <link rel="apple-touch-icon"
-        href="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-180x180.png" />
-    <meta name="msapplication-TileImage"
-        content="https://www.jualkubahmasjid.id/wp-content/uploads/2021/02/cropped-QOOBAH-logo-PNG-2-270x270.png" />
+    <link rel="icon" href="../../../images/icon.webp" type="image/png" />
+    <link rel="apple-touch-icon" href="../../../images/icon.webp" />
 </head>
 
 <body
@@ -1579,13 +1591,11 @@
                                         data-id="394efcd4" data-element_type="widget" data-widget_type="image.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-image">
-                                                <a href="https://www.jualkubahmasjid.id/">
-                                                    <img width="584" height="147"
-                                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png"
+                                                <a href="#">
+                                                    <img width="60" height="2"
+                                                        src="../../../images/icon.webp"
                                                         class="attachment-large size-large" alt="qoobah"
-                                                        decoding="async" fetchpriority="high"
-                                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1.png 584w, https://www.jualkubahmasjid.id/wp-content/uploads/2020/01/logo-qoobah-putih-min-1-300x76.png 300w"
-                                                        sizes="(max-width: 584px) 100vw, 584px" /> </a>
+                                                        decoding="async" fetchpriority="high" /> </a>
                                             </div>
                                         </div>
                                     </div>
@@ -1651,85 +1661,85 @@
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
+                                                    <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
                                                             class="elementor-item">Kontak</a>
-                                                    </li>
+                                                    </li> -->
                                                     <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
                                                             class="elementor-item">Blog</a>
                                                     </li>
                                                 </ul>
-                                            </nav>
-                                            <div class="elementor-menu-toggle" role="button" tabindex="0"
-                                                aria-label="Menu Toggle" aria-expanded="false">
-                                                <i class="eicon-menu-bar" aria-hidden="true"></i>
-                                                <span class="elementor-screen-only">Menu</span>
-                                            </div>
-                                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                role="navigation" aria-hidden="true">
-                                                <ul id="menu-2-2f88c2bf" class="elementor-nav-menu">
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20837 current_page_item menu-item-20961">
-                                                        <a href="http://localhost/SIKUBAH/" aria-current="page"
-                                                            class="elementor-item elementor-item-active">Home</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11694">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
-                                                            class="elementor-item">Produk</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
-                                                        <a href="http://localhost/SIKUBAH/#" aria-current="page"
-                                                            class="elementor-item elementor-item-anchor">Aksesoris</a>
-                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                            <li
-                                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16530">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/replika-pintu-nabawi.php"
-                                                                    class="elementor-sub-item">Replika Pintu Nabawi</a>
-                                                            </li>
-                                                            <li
-                                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17507">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/mihrab-masjid-grc.php"
-                                                                    class="elementor-sub-item">Mihrab Masjid GRC</a>
-                                                            </li>
-                                                            <li
-                                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17509">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/menara-masjid.php"
-                                                                    class="elementor-sub-item">Menara Masjid</a>
-                                                            </li>
-                                                            <li
-                                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18277">
-                                                                <a href="http://localhost/SIKUBAH/pages/menu/assesoris/lampu-gantung-masjid.php"
-                                                                    class="elementor-sub-item">Lampu Gantung Masjid</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
-                                                            class="elementor-item">Harga</a>
-                                                    </li>
-                                                    <!-- <li
+                                                </nav>
+                                                <div class="elementor-menu-toggle" role="button" tabindex="0"
+                                                    aria-label="Menu Toggle" aria-expanded="false">
+                                                    <i class="eicon-menu-bar" aria-hidden="true"></i>
+                                                    <span class="elementor-screen-only">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+                                                    role="navigation" aria-hidden="true">
+                                                    <ul id="menu-2-2f88c2bf" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20837 current_page_item menu-item-20961">
+                                                            <a href="http://localhost/SIKUBAH/" aria-current="page"
+                                                                class="elementor-item elementor-item-active">Home</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11694">
+                                                            <a href="http://localhost/SIKUBAH/pages/menu/produk.php"
+                                                                class="elementor-item">Produk</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-16529">
+                                                            <a href="http://localhost/SIKUBAH/#" aria-current="page"
+                                                                class="elementor-item elementor-item-anchor">Aksesoris</a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-16530">
+                                                                    <a href="http://localhost/SIKUBAH/pages/menu/assesoris/replika-pintu-nabawi.php"
+                                                                        class="elementor-sub-item">Replika Pintu Nabawi</a>
+                                                                </li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17507">
+                                                                    <a href="http://localhost/SIKUBAH/pages/menu/assesoris/mihrab-masjid-grc.php"
+                                                                        class="elementor-sub-item">Mihrab Masjid GRC</a>
+                                                                </li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-17509">
+                                                                    <a href="http://localhost/SIKUBAH/pages/menu/assesoris/menara-masjid.php"
+                                                                        class="elementor-sub-item">Menara Masjid</a>
+                                                                </li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18277">
+                                                                    <a href="http://localhost/SIKUBAH/pages/menu/assesoris/lampu-gantung-masjid.php"
+                                                                        class="elementor-sub-item">Lampu Gantung Masjid</a>
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155">
+                                                            <a href="http://localhost/SIKUBAH/pages/menu/harga.php"
+                                                                class="elementor-item">Harga</a>
+                                                        </li>
+                                                        <!-- <li
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5307">
                                                         <a href="http://localhost/SIKUBAH/pages/menu/video.php"
                                                             class="elementor-item">Video</a>
                                                     </li> -->
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
-                                                            class="elementor-item">Kontak</a>
-                                                    </li>
-                                                    <li
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
-                                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
-                                                            class="elementor-item">Blog</a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
+                                                        <!-- <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17606">
+                                                            <a href="http://localhost/SIKUBAH/pages/menu/kontak.php"
+                                                                class="elementor-item">Kontak</a>
+                                                        </li> -->
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
+                                                            <a href="http://localhost/SIKUBAH/pages/menu/blog.php"
+                                                                class="elementor-item">Blog</a>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
                                         </div>
                                     </div>
                                 </div>
@@ -1763,93 +1773,93 @@
                                             itemtype="https://schema.org/Person" itemscope><a class="url fn n"
                                                 href="https://www.jualkubahmasjid.id/author/ekydiscovergmail-com/"
                                                 title="View all posts by Qoobah" rel="author" itemprop="url"><span
-                                                    class="author-name" itemprop="name">Qoobah</span></a></span></span>
+                                                    class="author-name" itemprop="name">PT. Kubah Mandiri Indonesia</span></a></span></span>
                                 </div>
                             </header>
 
                             <div class="entry-content" itemprop="text">
                                 <blockquote>
-                                    <p><strong>Call/WA: <a href="tel:+6281333735000">081333735000</a> (Antok) untuk info
+                                    <p><strong>Call/WA: <a href="tel:+6285188588596">085188588596</a> (Antok) untuk info
                                             Toko Lampu Gantung Masjid Terdekat Anda.</strong></p>
                                 </blockquote>
-                                <p><img decoding="async" class="size-full wp-image-17885 aligncenter"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid.jpg"
-                                        alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-1448x2048.jpg 1448w"
-                                        sizes="(max-width: 1587px) 100vw, 1587px" /></p>
-                                <p>Anda sedang membutuhkan <a
+                                <p><img loading="lazy" decoding="async" class="aligncenter wp-image-20098 size-full"
+                                        src="../../../images/gantung2.webp"
+                                        alt="kontraktor menara masjid" width="1587" height="1185"
+                                        srcset="../../../images/gantung2.webp"
+                                        sizes="auto, (max-width: 1587px) 100vw, 1587px" /></p>
+                                <p>Anda tengah memerlukan <a
                                         href="https://www.jualkubahmasjid.id/pengrajin-replika-lampu-gantung-masjid-nabawi-kuningan/">replika
-                                        lampu masjid Nabawi</a> berbahan kuningan dan tembaga dengan desain custom?
-                                    Jangan khawatir karena <a href="https://www.jualkubahmasjid.id/qoobah/">Qoobah</a>
-                                    menyediakan untuk anda.</p>
-                                <p>Dengan berbagai pilihan lampu gantung masjid minimalis, kuningan, dan tembaga, kami
-                                    menawarkan kualitas terbaik dengan harga yang terjangkau.</p>
-                                <p>Temukan <a
+                                        lampu masjid Nabawi</a> dengan bahan kuningan dan tembaga menggunakan rancangan custom?
+                                    Tak perlu khawatir karena <a href="https://www.jualkubahmasjid.id/qoobah/">Qoobah</a>
+                                    menghadirkan untuk anda.</p>
+                                <p>Dengan beragam opsi lampu gantung masjid minimalis, kuningan, dan tembaga, kami
+                                    memberikan mutu terbaik dengan tarif yang terjangkau.</p>
+                                <p>Dapatkan <a
                                         href="https://www.jualkubahmasjid.id/jual-lampu-gantung-masjid-kuningan-tembaga-desain-custom/">lampu
-                                        gantung masjid</a> yang sesuai dengan kebutuhan anda dan ciptakan suasana yang
-                                    indah di dalam masjid anda.</p>
+                                        gantung masjid</a> yang cocok dengan keperluan anda dan wujudkan atmosfer yang
+                                    cantik di dalam masjid anda.</p>
                                 <p><img decoding="async" class="size-full wp-image-17884 aligncenter"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis.jpg"
+                                        src="../../../images/gantung3.webp"
                                         alt="" width="1587" height="2245"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis.jpg 1587w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis-212x300.jpg 212w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis-724x1024.jpg 724w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis-768x1086.jpg 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis-1086x1536.jpg 1086w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-minimalis-1448x2048.jpg 1448w"
+                                        srcset="../../../images/gantung3.webp"
                                         sizes="(max-width: 1587px) 100vw, 1587px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Lampu_Gantung_Masjid_Minimalis_Desain_Unik_Memikat_Hati"></span><strong>Lampu
                                         Gantung Masjid Minimalis Desain Unik Memikat Hati</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Ketika sedang menjalankan proyek masjid, maka jangan lupa untuk memikirkan bagaimana
-                                    aksesorisnya. Yaitu salah satunya adalah lampu gantung, simak lengkapnya di bawah
+                                <p>Saat tengah melaksanakan proyek masjid, maka jangan lupa untuk mempertimbangkan bagaimana
+                                    aksesorisnya. Yakni salah satunya ialah lampu gantung, simak detailnya di bawah
                                     ini:</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Menciptakan_karya_seni_cahaya_yang_elegan"></span><strong>1. Menciptakan
                                         karya seni cahaya yang elegan</strong><span class="ez-toc-section-end"></span>
                                 </h3>
-                                <p style="padding-left: 40px;">Sebuah masjid minimalis dapat memiliki desain yang sangat
-                                    memikat hati melalui pencahayaan yang tepat. Lampu gantung menjadi pilihan yang
-                                    sangat baik untuk menciptakan suasana yang hangat dan ramah.</p>
-                                <p style="padding-left: 40px;">Desain lampu gantung yang unik dan elegan tidak hanya
-                                    mampu menciptakan pencahayaan yang ideal, tetapi juga dapat menjadi karya seni yang
+                                <p style="padding-left: 40px;">Sebuah masjid minimalis bisa mempunyai rancangan yang sangat
+                                    memukau hati lewat pencahayaan yang pas. Lampu gantung menjadi opsi yang
+                                    sangat bagus untuk mewujudkan atmosfer yang hangat dan ramah.</p>
+                                <p style="padding-left: 40px;">Rancangan lampu gantung yang unik dan elegan tak hanya
+                                    sanggup mewujudkan pencahayaan yang ideal, namun juga bisa menjadi karya seni yang
                                     keindahannya menambah estetika ruangan.</p>
-                                <p style="padding-left: 40px;">Telah banyak variasi desain lampu gantung yang dirancang
-                                    dengan detail yang mengagumkan dan dapat dinikmati oleh semua kalangan.</p>
+                                <p style="padding-left: 40px;">Sudah banyak variasi rancangan lampu gantung yang didesain
+                                    dengan detail yang mengagumkan dan bisa dinikmati oleh seluruh kalangan.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Pilihan_Model_Custom"></span><strong>2. Pilihan Model Custom</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Dalam menentukan pilihan desain lampu gantung masjid
-                                    minimalis, opsi kustomisasi seringkali disediakan oleh produsen atau penjual. Mampu
-                                    menyesuaikan desain lampu sesuai dengan selera dan kebutuhan masjid menjadi suatu
-                                    nilai plus tersendiri. Anda bisa mengkustomisasi desain lampu di Qoobah.</p>
+                                <p style="padding-left: 40px;">Dalam menetapkan preferensi rancangan lampu gantung masjid
+                                    minimalis, opsi kustomisasi seringkali dihadirkan oleh produsen atau penjual. Sanggup
+                                    menyesuaikan rancangan lampu cocok dengan selera dan keperluan masjid menjadi suatu
+                                    nilai tambah tersendiri. Anda bisa mengkustomisasi desain lampu di Qoobah.</p>
                                 <p style="padding-left: 40px;"><img loading="lazy" decoding="async"
                                         class="alignnone size-full wp-image-17886"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-kuningan.jpg"
+                                        src="../../../images/gantung4.webp"
                                         alt="" width="1280" height="800"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-kuningan.jpg 1280w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-kuningan-300x188.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-kuningan-1024x640.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-kuningan-768x480.jpg 768w"
+                                        srcset="../../../images/gantung4.webp"
                                         sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Material_Kuningan_Maupun_Tembaga_Berkualitas_Tinggi"></span><strong>Material
                                         Kuningan Maupun Tembaga Berkualitas Tinggi</strong><span
                                         class="ez-toc-section-end"></span></h2>
-                                <p>Qoobah adalah pilihan tepat bagi anda yang mencari solusi desain dan pemilihan <a
+                                <p>Qoobah merupakan pilihan pas bagi anda yang membutuhkan solusi rancangan dan seleksi <a
                                         href="https://www.jualkubahmasjid.id/bingung-pilih-warna-kubah-yang-bagus-serahkan-ke-qoobah-saja/">warna
                                         kubah masjid</a> yang optimal.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Kualitas_yang_tak_terbandingkan"></span><strong>1. Kualitas yang tak
                                         terbandingkan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kuningan dan tembaga berpadu menjadi bahan kualitas
-                                    tinggi yang menawarkan kemewahan dan keindahan estetika kepada kubah masjid.
-                                    Penggunaan kedua material ini menegaskan keunggulan kualitas dalam tampilan dan
+                                <p style="padding-left: 40px;">Kuningan dan tembaga berpadu menjadi bahan bermutu
+                                    tinggi yang memberikan kemewahan dan keindahan estetika kepada kubah masjid.
+                                    Pemakaian kedua material ini menegaskan keunggulan mutu dalam tampilan dan
                                     ketahanan yang tak tertandingi.</p>
-                                <p style="padding-left: 40px;">Dengan Qoobah, anda akan mendapatkan solusi terbaik yang
-                                    menggabungkan keindahan dan kekuatan untuk kubah masjid yang mengesankan.</p>
+                                <p style="padding-left: 40px;">Bersama Qoobah, anda akan memperoleh solusi terbaik yang
+                                    mengombinasikan keindahan dan ketahanan untuk kubah masjid yang memukau.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Tahan_lama_dan_berkilau_selamanya"></span><strong>2. Tahan lama dan
                                         berkilau selamanya</strong><span class="ez-toc-section-end"></span></h3>
                                 <p style="padding-left: 40px;">Keselarasan antara material kuningan dan tembaga
-                                    menciptakan kubah masjid yang tahan lama serta berkilau sepanjang zaman. Oleh karena
-                                    itu, lampu gantung masjid minimalis akan selalu tampak baru dan memancarkan pesona
+                                    mewujudkan kubah masjid yang awet serta berkilau sepanjang masa. Maka dari
+                                    itu, lampu gantung masjid minimalis akan senantiasa tampak baru dan memancarkan daya tarik
                                     estetis yang memukau.</p>
-                                <p style="padding-left: 40px;">Bersama Qoobah, kami akan membantu anda memiliki lampu
-                                    kubah masjid kuningan yang senantiasa indah dan kokoh, untuk memperlengkapi
+                                <p style="padding-left: 40px;">Bersama Qoobah, kami akan menolong anda mempunyai lampu
+                                    kubah masjid kuningan yang selalu cantik dan solid, untuk melengkapi
                                     kemegahan masjid anda.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Pencahayaan_Merata_dengan_Efek_Menakjubkan_Instalasi_Mudah"></span><strong>Pencahayaan
@@ -1858,30 +1868,30 @@
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Pencahayaan_yang_merata_dan_hangat"></span><strong>1. Pencahayaan yang
                                         merata dan hangat</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Lampu gantung masjid minimalis memberikan pencahayaan
-                                    yang merata dan hangat pada setiap sudut ruangan. Dengan tersebarnya cahaya secara
-                                    efisien, ruang ibadah memiliki suasana yang nyaman dan spiritual yang membuat
+                                <p style="padding-left: 40px;">Lampu gantung masjid minimalis menghadirkan pencahayaan
+                                    yang merata dan hangat pada tiap sudut ruangan. Dengan tersebarnya cahaya secara
+                                    efisien, ruang ibadah mempunyai atmosfer yang nyaman dan spiritual yang membuat
                                     penghuni masjid merasa tenang dan khusyuk dalam beribadah.</p>
                                 <p style="padding-left: 40px;">Selain itu, hangatnya cahaya yang dihasilkan oleh lampu
-                                    gantung tersebut juga mampu menciptakan suasana sakral dan diterima dengan baik oleh
+                                    gantung tersebut juga sanggup mewujudkan atmosfer sakral dan diterima dengan baik oleh
                                     seluruh jemaah.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Teknologi_pencahayaan_modern_yang_mengagumkan"></span><strong>2. Teknologi
                                         pencahayaan modern yang mengagumkan</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Dalam lampu gantung masjid minimalis, teknologi
-                                    pencahayaan modern sangat berperan dalam menciptakan efek menakjubkan tanpa
-                                    mengorbankan aspek fungsional dan energi yang efisien. Lampu LED yang hemat energi
-                                    dan tahan lama menjadi pilihan utama dalam sistem pencahayaan untuk lampu gantung
+                                <p style="padding-left: 40px;">Pada lampu gantung masjid minimalis, teknologi
+                                    pencahayaan kontemporer sangat berperan dalam mewujudkan efek menakjubkan tanpa
+                                    mengorbankan aspek fungsional dan energi yang efisien. Lampu LED yang irit energi
+                                    dan awet menjadi preferensi utama dalam sistem pencahayaan untuk lampu gantung
                                     ini.</p>
-                                <p style="padding-left: 40px;">Selain itu, terdapat juga fitur-fitur canggih seperti
-                                    pengaturan intensitas cahaya dan pengendalian jarak jauh yang memudahkan jamaah
-                                    untuk mengatur suasana masjid sesuai kebutuhan.</p>
+                                <p style="padding-left: 40px;">Selain itu, tersedia juga fitur-fitur canggih seperti
+                                    pengaturan intensitas cahaya dan pengendalian jarak jauh yang mempermudah jamaah
+                                    untuk mengatur atmosfer masjid cocok keperluan.</p>
                                 <p style="padding-left: 40px;"><img loading="lazy" decoding="async"
                                         class="alignnone size-full wp-image-17887"
-                                        src="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga.jpg"
+                                        src="../../../images/gantung1.webp"
                                         alt="" width="1280" height="800"
-                                        srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga.jpg 1280w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga-300x188.jpg 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga-1024x640.jpg 1024w, https://www.jualkubahmasjid.id/wp-content/uploads/2023/09/lampu-gantung-masjid-tembaga-768x480.jpg 768w"
+                                        srcset="../../../images/gantung1.webp"
                                         sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
                                 <h2><span class="ez-toc-section"
                                         id="Instalasi_Lampu_Gantung_yang_Mudah"></span><strong>Instalasi Lampu Gantung
@@ -1890,23 +1900,23 @@
                                         id="1_Panduan_langkah_demi_langkah_untuk_pemasangan_yang_mudah"></span><strong>1.
                                         Panduan langkah demi langkah untuk pemasangan yang mudah</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami menyadari pentingnya memudahkan proses instalasi
-                                    lampu gantung masjid minimalis, sehingga Qoobah menyediakan panduan langkah demi
-                                    langkah yang detail dan mudah diikuti.</p>
-                                <p style="padding-left: 40px;">Rancangan panduan ini diperuntukkan untuk memastikan
-                                    pemasangan lampu gantung berjalan lancar dan efisien, sekaligus mengurangi potensi
-                                    kesalahan pemasangan. Dengan demikian, anda maupun tim kerja masjid diharapkan dapat
-                                    melaksanakan proses pemasangan dengan lebih mudah.</p>
+                                <p style="padding-left: 40px;">Kami menyadari pentingnya mempermudah tahapan instalasi
+                                    lampu gantung masjid minimalis, sehingga Qoobah menghadirkan panduan langkah demi
+                                    langkah yang detail dan gampang diikuti.</p>
+                                <p style="padding-left: 40px;">Rancangan panduan ini diperuntukkan untuk menjamin
+                                    instalasi lampu gantung berjalan lancar dan efisien, sekaligus menurunkan potensi
+                                    kesalahan instalasi. Dengan demikian, anda ataupun tim kerja masjid diharapkan bisa
+                                    melaksanakan tahapan instalasi dengan lebih gampang.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Layanan_instalasi_ahli_untuk_jaminan_kepuasan"></span><strong>2. Layanan
                                         instalasi ahli untuk jaminan kepuasan</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Terlebih lagi, Qoobah juga menawarkan layanan instalasi
-                                    dari ahli yang berpengalaman dalam pemasangan lampu gantung masjid untuk memberikan
-                                    jaminan kepuasan bagi para pelanggan.</p>
-                                <p style="padding-left: 40px;">Dengan memanfaatkan layanan profesional ini, anda tidak
-                                    perlu khawatir tentang kesulitan pemasangan atau kualitas hasil kerja. Tim ahli kami
-                                    siap membantu anda selama proses instalasi demi menciptakan suasana ibadah yang
+                                <p style="padding-left: 40px;">Terlebih lagi, Qoobah juga memberikan layanan instalasi
+                                    dari pakar yang berpengalaman dalam instalasi lampu gantung masjid untuk menghadirkan
+                                    garansi kepuasan bagi para konsumen.</p>
+                                <p style="padding-left: 40px;">Dengan memanfaatkan layanan profesional ini, anda tak
+                                    perlu khawatir tentang kesulitan instalasi atau mutu hasil kerja. Tim pakar kami
+                                    siap menolong anda sepanjang tahapan instalasi demi mewujudkan atmosfer ibadah yang
                                     optimal di masjid anda.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Jaminan_Kualitas_dan_Keamanan_Terpercaya"></span><strong>Jaminan Kualitas
@@ -1914,24 +1924,24 @@
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="1_Garansi_total_untuk_kepuasan_pelanggan"></span><strong>1. Garansi total
                                         untuk kepuasan pelanggan</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Dalam upaya untuk selalu memberi layanan terbaik kepada
-                                    pelanggan, Qoobah menjamin semua lampu gantung masjid tembaga dan kuningan yang kami
-                                    tawarkan dilengkapi dengan garansi total. Ini adalah komitmen kami untuk memastikan
-                                    kepuasan anda sebagai pelanggan.</p>
-                                <p style="padding-left: 40px;">Bila terjadi masalah apapun dengan produk lampu gantung
-                                    yang anda beli, Qoobah akan dengan senang hati membantu menyelesaikannya. Komitmen
-                                    kami adalah menghadirkan pencahayaan masjid dengan standar kualitas tinggi yang
-                                    dapat diandalkan oleh semua jemaah.</p>
+                                <p style="padding-left: 40px;">Dalam upaya untuk selalu menghadirkan layanan terbaik kepada
+                                    konsumen, Qoobah menjamin seluruh lampu gantung masjid tembaga dan kuningan yang kami
+                                    tawarkan dilengkapi dengan garansi total. Ini merupakan komitmen kami untuk menjamin
+                                    kepuasan anda sebagai konsumen.</p>
+                                <p style="padding-left: 40px;">Apabila terjadi masalah apapun dengan produk lampu gantung
+                                    yang anda beli, Qoobah akan dengan senang hati menolong menyelesaikannya. Komitmen
+                                    kami ialah menghadirkan pencahayaan masjid dengan standar mutu tinggi yang
+                                    bisa diandalkan oleh seluruh jemaah.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Produk_yang_memenuhi_standar_keamanan_tertinggi"></span><strong>2. Produk
                                         yang memenuhi standar keamanan tertinggi</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Kami sangat memahami bahwa keamanan adalah hal yang
-                                    sangat penting dalam pilihan produk pencahayaan masjid. Oleh karenanya, setiap lampu
+                                <p style="padding-left: 40px;">Kami sangat paham bahwa keamanan merupakan hal yang
+                                    sangat penting dalam preferensi produk pencahayaan masjid. Maka dari itu, tiap lampu
                                     gantung masjid tembaga dari Qoobah diproduksi dengan standar keamanan tertinggi.</p>
-                                <p style="padding-left: 40px;">Setiap komponen produk telah melalui proses pengujian
+                                <p style="padding-left: 40px;">Tiap komponen produk sudah melewati tahapan pengujian
                                     keamanan yang ketat dan memenuhi standar keamanan internasional. Anda dan jamaah
-                                    masjid bisa merasa aman dan nyaman dengan pilihan lampu gantung dari Qoobah.</p>
+                                    masjid bisa merasa aman dan nyaman dengan preferensi lampu gantung dari Qoobah.</p>
                                 <h2><span class="ez-toc-section"
                                         id="Kami_Beri_Harga_Lampu_Gantung_Masjid_Lebih_Terjangkau"></span><strong>Kami
                                         Beri Harga Lampu Gantung Masjid Lebih Terjangkau</strong><span
@@ -1940,36 +1950,36 @@
                                         id="1_Berapa_banyak_lampu_gantung_masjid_yang_anda_butuhkan_Kami_siap_membantu"></span><strong>1.
                                         Berapa banyak lampu gantung masjid yang anda butuhkan? Kami siap
                                         membantu</strong><span class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Layanan konsultasi personal yang dimiliki Qoobah akan
-                                    membantu anda menghitung berapa banyak lampu gantung masjid yang anda butuhkan. Kami
-                                    akan memastikan setiap sudut masjid anda mendapat pencahayaan yang hangat dan merata
-                                    sesuai kebutuhan.</p>
-                                <p style="padding-left: 40px;">Jangan ragu untuk menghubungi kami untuk mendapatkan
+                                <p style="padding-left: 40px;">Layanan konsultasi personal yang dipunyai Qoobah akan
+                                    menolong anda menghitung berapa banyak lampu gantung masjid yang anda perlukan. Kami
+                                    akan menjamin tiap sudut masjid anda mendapat pencahayaan yang hangat dan merata
+                                    cocok keperluan.</p>
+                                <p style="padding-left: 40px;">Jangan bimbang untuk menghubungi kami untuk memperoleh
                                     konsultasi tentang jumlah lampu gantung yang optimal bagi masjid anda, Qoobah siap
-                                    membantu anda memilih lampu gantung masjid yang terbaik sesuai anggaran Anda.</p>
+                                    menolong anda menentukan lampu gantung masjid yang terbaik cocok budget Anda.</p>
                                 <h3 style="padding-left: 40px;"><span class="ez-toc-section"
                                         id="2_Penawaran_harga_yang_bersaing_untuk_produk_berkualitas_tinggi"></span><strong>2.
                                         Penawaran harga yang bersaing untuk produk berkualitas tinggi</strong><span
                                         class="ez-toc-section-end"></span></h3>
-                                <p style="padding-left: 40px;">Qoobah menawarkan harga yang terjangkau untuk lampu
-                                    gantung masjid minimalis tanpa mengorbankan kualitas dan kepuasan pelanggan.
-                                    Pengalaman kami dalam menyediakan produk pencahayaan masjid yang berkualitas tinggi
-                                    menjamin bahwa penawaran harga yang kami berikan merupakan yang terbaik di pasar.
+                                <p style="padding-left: 40px;">Qoobah memberikan tarif yang terjangkau untuk lampu
+                                    gantung masjid minimalis tanpa mengorbankan mutu dan kepuasan konsumen.
+                                    Pengalaman kami dalam menghadirkan produk pencahayaan masjid yang bermutu tinggi
+                                    menjamin bahwa penawaran tarif yang kami berikan merupakan yang terbaik di pasaran.
                                 </p>
-                                <p style="padding-left: 40px;">Kerjasama dengan produsen yang andal juga memungkinkan
-                                    kami untuk menawarkan lampu gantung masjid yang indah dan tahan lama dengan harga
+                                <p style="padding-left: 40px;">Kolaborasi dengan produsen yang andal juga memungkinkan
+                                    kami untuk memberikan lampu gantung masjid yang cantik dan awet dengan tarif
                                     yang kompetitif.</p>
-                                <p>Banyak sekali keuntungan yang bisa anda dapatkan jika bekerja sama dengan Qoobah.
-                                    Jika anda takmir masjid atau sedang membutuhkan proyek kubah masjid atau lampu
-                                    gantung, maka bisa langsung menghubungi PT. Anugerah Kubah Indonesia atau Qoobah di
-                                    nomor berikut ini 881333735000. Semoga bisa bekerja sama di kesempatan kali ini!</p>
+                                <p>Banyak sekali keuntungan yang bisa anda peroleh apabila bekerja sama dengan Qoobah.
+                                    Apabila anda takmir masjid atau tengah memerlukan proyek kubah masjid atau lampu
+                                    gantung, maka bisa langsung menghubungi PT. Kubah Mandiri Indonesia atau Qoobah di
+                                    nomor berikut ini 085188588596. Semoga bisa bekerja sama di kesempatan kali ini!</p>
                                 <p>&nbsp;</p>
                                 <h4><span class="ez-toc-section"
                                         id="Temukan_Produsen_Lampu_Gantung_Masjid_pada_Google_Maps"></span><strong>Temukan
                                         Produsen Lampu Gantung Masjid pada Google Maps:</strong><span
                                         class="ez-toc-section-end"></span></h4>
                                 <p><iframe loading="lazy" style="border: 0;"
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12154.02486075852!2d111.98882683855577!3d-7.893922582108494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e1!3m2!1sen!2sid!4v1685804898525!5m2!1sen!2sid"
+                                        src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                         width="800" height="600" allowfullscreen="allowfullscreen"></iframe></p>
                                 <p>&nbsp;</p>
                                 <p>Baca juga: <a
@@ -2115,7 +2125,7 @@
                                 </div>
                             </div>
 
-                            <footer class="entry-meta" aria-label="Entry meta">
+                            <!-- <footer class="entry-meta" aria-label="Entry meta">
                                 <span class="cat-links"><span class="screen-reader-text">Categories </span><a
                                         href="https://www.jualkubahmasjid.id/category/produk-masjid/"
                                         rel="category tag">Produk Masjid</a></span>
@@ -2129,7 +2139,7 @@
                                                 rel="next">Penawaran Terbaik! Cek Harga Kubah GRC Per Meter
                                                 Termurah</a></span></div>
                                 </nav>
-                            </footer>
+                            </footer> -->
                         </div>
                     </article>
                 </main>
@@ -2137,28 +2147,19 @@
 
             <div class="widget-area sidebar is-right-sidebar grid-25 tablet-grid-25 grid-parent" id="right-sidebar">
                 <div class="inside-right-sidebar">
-                    <aside id="search-3" class="widget inner-padding widget_search">
-                        <form method="get" class="search-form" action="https://www.jualkubahmasjid.id/">
-                            <label>
-                                <span class="screen-reader-text">Search for:</span>
-                                <input type="search" class="search-field" placeholder="Search &hellip;" value=""
-                                    name="s" title="Search for:">
-                            </label>
-                            <input type="submit" class="search-submit" value="Search">
-                        </form>
-                    </aside>
+
                     <aside id="text-4" class="widget inner-padding widget_text">
                         <div class="textwidget">
                             <p>&nbsp;</p>
                             <p><img loading="lazy" decoding="async" class="aligncenter wp-image-19892 size-medium"
-                                    src="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png"
+                                    src="../../../images/pp.webp"
                                     alt="" width="300" height="300"
-                                    srcset="https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-300x300.png 300w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-150x150.png 150w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah-768x768.png 768w, https://www.jualkubahmasjid.id/wp-content/uploads/2024/11/antok-qoobah.png 864w"
+                                    srcset="../../../images/pp.webp"
                                     sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
                             <p>&nbsp;</p>
-                            <p>Assalamualaikum, saya <strong>Antok</strong>.</p>
+                            <p>Assalamualaikum, saya <strong>Admin PT. Kubah Mandiri Indonesia</strong>.</p>
                             <p>Silakan konsultasi gratis dengan Call/WhatsApp saya di nomor <a
-                                    href="tel:+6281333735000"><strong>081333735000</strong></a> untuk mengetahui info
+                                    href="tel:+6285188588596"><strong>085188588596</strong></a> untuk mengetahui info
                                 harga pemesanan kubah enamel dan kubah masjid galvalum.</p>
                         </div>
                     </aside>
@@ -2166,11 +2167,11 @@
                         <h2 class="widget-title">Temukan PT. Anugerah Kubah Indonesia pada Google Maps</h2>
                         <div class="textwidget">
                             <p><iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.986012870826!2d111.99645505089666!3d-7.896529394283357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78f98734161d59%3A0x1a71e9d89827ac13!2sJUALKUBAHMASJID.ID%20-%20Qoobah!5e0!3m2!1sen!2sid!4v1646564674316!5m2!1sen!2sid"
+                                    src="https://www.google.com/maps?q=-8.13276834379213,111.6860444625708&hl=id&z=17&output=embed"
                                     style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
                         </div>
                     </aside>
-                    <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
+                    <!-- <aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">
                         <h2 class="widget-title">Info Terkini</h2>
                         <ul>
                             <li>
@@ -2207,7 +2208,7 @@
                             </li>
                         </ul>
 
-                    </aside>
+                    </aside> -->
                 </div>
             </div>
 
@@ -2219,163 +2220,148 @@
         <div data-elementor-type="footer" data-elementor-id="4522"
             class="elementor elementor-4522 elementor-location-footer" data-elementor-settings="[]">
             <div class="elementor-section-wrap">
+                <!-- Main Footer Section with 4 Columns -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-76459804 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="76459804" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-230081a8"
-                                data-id="230081a8" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-16bbe883 elementor-widget elementor-widget-heading"
-                                            data-id="16bbe883" data-element_type="widget"
-                                            data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <p class="elementor-heading-title elementor-size-default">©
-                                                    JUALKUBAHMASJID.ID - All rights reserved</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-section-boxed elementor-section-height-default"
+                    data-element_type="section"
+                    style="background-color: #1a1a1a; padding: 60px 0 40px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
+
+                            <!-- Column 1: Logo and Company Info -->
+                            <div style="flex: 1; min-width: 250px;">
+                                <div style="margin-bottom: 20px;">
+                                    <img src="../../../images/icon.webp" alt="PT. KUBAH MANDIRI INDONESIA" style="width: 80px; height: auto; margin-bottom: 15px;">
                                 </div>
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 15px; line-height: 1.4;">PT. KUBAH MANDIRI INDONESIA</h3>
+                                <p style="color: #b0b0b0; font-size: 14px; line-height: 1.8; margin: 0;">
+                                    Kami adalah perusahaan terpercaya yang bergerak di bidang pembuatan kubah masjid dengan kualitas terbaik dan harga terjangkau. Melayani seluruh Indonesia dengan pengalaman puluhan tahun.
+                                </p>
                             </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-153e7792"
-                                data-id="153e7792" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6aa9e778 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                            data-id="6aa9e778" data-element_type="widget"
-                                            data-widget_type="icon-list.default">
-                                            <div class="elementor-widget-container">
-                                                <ul class="elementor-icon-list-items elementor-inline-items">
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-text">Ikuti Kami :</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-facebook-square"></i>
-                                                        </span>
-                                                        <span class="elementor-icon-list-text">Facebook</span>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos"
-                                                            target="_blank" rel="nofollow"> <span
-                                                                class="elementor-icon-list-icon">
-                                                                <i aria-hidden="true" class="fab fa-youtube"></i>
-                                                            </span>
-                                                            <span class="elementor-icon-list-text">Youtube</span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="elementor-icon-list-item elementor-inline-item">
-                                                        <span class="elementor-icon-list-icon">
-                                                            <i aria-hidden="true" class="fab fa-instagram"></i> </span>
-                                                        <span class="elementor-icon-list-text">Instagram</span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+
+                            <!-- Column 2: Link Cepat -->
+                            <div style="flex: 0.8; min-width: 200px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Link Cepat</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/index.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-home" style="margin-right: 8px; width: 16px;"></i>Beranda</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/produk.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-box" style="margin-right: 8px; width: 16px;"></i>Produk</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/harga.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-tags" style="margin-right: 8px; width: 16px;"></i>Harga</a>
+                                    </li>
+                                    <li style="margin-bottom: 12px; display: block !important; width: 100% !important;">
+                                        <a href="http://localhost/SIKUBAH/pages/menu/blog.php" style="color: #b0b0b0; text-decoration: none; font-size: 14px; transition: color 0.3s; display: block !important; width: 100% !important;"><i class="fas fa-newspaper" style="margin-right: 8px; width: 16px;"></i>Blog</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 3: Layanan Kami -->
+                            <div style="flex: 1; min-width: 220px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Layanan Kami</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0;">
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Enamel</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Galvalum</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Kubah Stainless Gold</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Menara Masjid</span>
+                                    </li>
+                                    <li style="margin-bottom: 12px;">
+                                        <span style="color: #b0b0b0; font-size: 14px;"><i class="fas fa-check-circle" style="color: #25D366; margin-right: 8px;"></i>Ornamen Masjid</span>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Column 4: Informasi Kontak & Social Media -->
+                            <div style="flex: 1.2; min-width: 250px;">
+                                <h3 style="color: #ffffff; font-size: 18px; font-weight: 600; margin-bottom: 20px; border-bottom: 2px solid #25D366; padding-bottom: 10px; display: inline-block;">Informasi Kontak</h3>
+                                <ul style="list-style: none; padding: 0; margin: 0 0 25px 0;">
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-phone-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">0851-8858-8596</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-envelope" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">info@kubahmandiri.co.id</span>
+                                    </li>
+                                    <li style="margin-bottom: 15px; display: flex; align-items: flex-start;">
+                                        <i class="fas fa-map-marker-alt" style="color: #25D366; margin-right: 12px; margin-top: 3px; font-size: 14px;"></i>
+                                        <span style="color: #b0b0b0; font-size: 14px; line-height: 1.6;">Jln Roros Sukodono, Ndayur, Sukorejo, Gundusari, Trenggalek, Jawa Timur.</span>
+                                    </li>
+                                </ul>
+
+                                <div style="margin-top: 20px;">
+                                    <h4 style="color: #ffffff; font-size: 16px; font-weight: 600; margin-bottom: 15px;">Ikuti Kami</h4>
+                                    <div style="display: flex; gap: 12px;">
+                                        <a href="https://www.facebook.com/people/ptkubah-mandiri-indonesia/61579226071407/" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #1877F2; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-facebook-f" style="font-size: 18px;"></i>
+                                        </a>
+                                        <!-- <a href="https://www.youtube.com/channel/UCMUM-6H_fqenbj6rxCJBirQ/videos" target="_blank" rel="nofollow" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #FF0000; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-youtube" style="font-size: 18px;"></i>
+                                        </a>
+                                        <a href="#" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s;">
+                                            <i class="fab fa-instagram" style="font-size: 18px;"></i>
+                                        </a> -->
+                                        <a href="https://wa.me/6285188588596" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background-color: #25D366; border-radius: 50%; color: #ffffff; text-decoration: none; transition: transform 0.3s, background-color 0.3s;">
+                                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
+                <!-- Copyright Section -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f6fbfe4 elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f6fbfe4" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e09d0fc"
-                                data-id="4e09d0fc" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-6f8ee73 elementor-widget elementor-widget-button"
-                                            data-id="6f8ee73" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
-                                                        class="elementor-button-link elementor-button elementor-size-xs"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp
-                                                                081333735000</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    class="elementor-section elementor-top-section elementor-element"
+                    data-element_type="section"
+                    style="background-color: #0d0d0d; padding: 20px 0;">
+                    <div class="elementor-container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+                        <div style="text-align: center;">
+                            <p style="color: #b0b0b0; font-size: 14px; margin: 0;">© 2026 PT Kubah Mandiri Indonesia — All rights reserved. | Dibuat oleh <strong style="color: #25D366;">Pyramidsoft</strong></p>
                         </div>
                     </div>
                 </section>
+
+                <!-- Sticky WhatsApp Button (Desktop) -->
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-6803c2cc elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="6803c2cc" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-row">
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e424efd"
-                                data-id="1e424efd" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-415227aa elementor-widget elementor-widget-button"
-                                            data-id="415227aa" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-whatsapp"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="wa-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fab fa-whatsapp"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">WhatsApp</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-70a558ee"
-                                data-id="70a558ee" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
-                                    <div class="elementor-widget-wrap">
-                                        <div class="elementor-element elementor-element-1ebb6fff call-generic elementor-widget elementor-widget-button"
-                                            data-id="1ebb6fff" data-element_type="widget"
-                                            data-widget_type="button.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper">
-                                                    <a href="https://mauorder.online/jualkubahmasjid-call"
-                                                        class="elementor-button-link elementor-button elementor-size-sm"
-                                                        role="button" id="call-generic">
-                                                        <span class="elementor-button-content-wrapper">
-                                                            <span
-                                                                class="elementor-button-icon elementor-align-icon-left">
-                                                                <i aria-hidden="true" class="fas fa-phone-alt"></i>
-                                                            </span>
-                                                            <span class="elementor-button-text">Call</span>
-                                                        </span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-tablet elementor-hidden-phone"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; background-color: transparent;">
+                    <div>
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="display: inline-flex; align-items: center; gap: 10px; background-color: #25D366; color: #ffffff; padding: 12px 24px; border-radius: 50px; text-decoration: none; font-size: 14px; font-weight: 600; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4); transition: all 0.3s;">
+                            <i class="fab fa-whatsapp" style="font-size: 20px;"></i>
+                            <span>WhatsApp 085188588596</span>
+                        </a>
+                    </div>
+                </section>
+
+                <!-- Sticky WhatsApp & Call Buttons (Mobile/Tablet) -->
+                <section
+                    class="elementor-section elementor-top-section elementor-element elementor-hidden-desktop"
+                    data-element_type="section"
+                    style="position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999; background-color: #ffffff; box-shadow: 0 -2px 10px rgba(0,0,0,0.1); padding: 10px;">
+                    <div style="display: flex; gap: 10px; max-width: 600px; margin: 0 auto;">
+                        <a href="https://wa.me/6285188588596?text=Assalamualaikum%20PT%20KUBAH%20MANDIRI%20INDONESIA%2C%20mohon%20info%20kubahnya%3F"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #25D366; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fab fa-whatsapp" style="font-size: 18px;"></i>
+                            <span>WhatsApp</span>
+                        </a>
+                        <a href="tel:+6285188588596"
+                            style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background-color: #1877F2; color: #ffffff; padding: 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 600;">
+                            <i class="fas fa-phone-alt" style="font-size: 18px;"></i>
+                            <span>Call</span>
+                        </a>
                     </div>
                 </section>
             </div>
@@ -2383,19 +2369,79 @@
     </div>
 
     <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
     <script>
-        function ht(a, b, c, d) { let z1 = a * c; let z2 = d * c; let h1 = Math.round(z1); let h2 = Math.round(z2); let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. "); document.getElementById(b).innerHTML = hasil; } function bx() { let d = document.getElementById('d').value; let t = document.getElementById('t').value; let g = 3.1428571428571; let k = d * t * g; ht(2797727, "enamel", k, 3317273); ht(1499091, "galvalum", k, 1968636) } bx(); function d() { bx(); } function t() { bx(); } function fr(ak, prefix) { var number_string = ak.toString().replace(/[^,\d]/g, ''); var split = number_string.split(','); var sis = split[0].length % 3; var dph = split[0].substr(0, sis); var bnr = split[0].substr(sis).match(/\d{3}/gi); if (bnr) { separator = sis ? '.' : ''; dph += separator + bnr.join('.'); } dph = split[1] != undefined ? dph + ',' + split[1] : dph; return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : ''); }; document.getElementById('tombolhitung').addEventListener('click', function () { bx(); });
+        function ht(a, b, c, d) {
+            let z1 = a * c;
+            let z2 = d * c;
+            let h1 = Math.round(z1);
+            let h2 = Math.round(z2);
+            let hasil = fr(h1, "Rp. ") + " - " + fr(h2, "Rp. ");
+            document.getElementById(b).innerHTML = hasil;
+        }
+
+        function bx() {
+            let d = document.getElementById('d').value;
+            let t = document.getElementById('t').value;
+            let g = 3.1428571428571;
+            let k = d * t * g;
+            ht(2797727, "enamel", k, 3317273);
+            ht(1499091, "galvalum", k, 1968636)
+        }
+        bx();
+
+        function d() {
+            bx();
+        }
+
+        function t() {
+            bx();
+        }
+
+        function fr(ak, prefix) {
+            var number_string = ak.toString().replace(/[^,\d]/g, '');
+            var split = number_string.split(',');
+            var sis = split[0].length % 3;
+            var dph = split[0].substr(0, sis);
+            var bnr = split[0].substr(sis).match(/\d{3}/gi);
+            if (bnr) {
+                separator = sis ? '.' : '';
+                dph += separator + bnr.join('.');
+            }
+            dph = split[1] != undefined ? dph + ',' + split[1] : dph;
+            return prefix == undefined ? dph : (dph ? 'Rp. ' + dph : '');
+        };
+        document.getElementById('tombolhitung').addEventListener('click', function() {
+            bx();
+        });
     </script>
     <script id="generate-a11y">
-        !function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("pointerdown", (function () { e.classList.add("using-mouse") }), { passive: !0 }), e.addEventListener("keydown", (function () { e.classList.remove("using-mouse") }), { passive: !0 }) } }();
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("pointerdown", (function() {
+                    e.classList.add("using-mouse")
+                }), {
+                    passive: !0
+                }), e.addEventListener("keydown", (function() {
+                    e.classList.remove("using-mouse")
+                }), {
+                    passive: !0
+                })
+            }
+        }();
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/elementor-toc-anchor-fix.js?ver=2.0.83"
         id="eztoc-elementor-anchor-fix-js"></script>
     <script id="eztoc-scroll-scriptjs-js-extra">
-        var eztoc_smooth_local = { "scroll_offset": "30", "add_request_uri": "", "add_self_reference_link": "" };
+        var eztoc_smooth_local = {
+            "scroll_offset": "30",
+            "add_request_uri": "",
+            "add_self_reference_link": ""
+        };
         //# sourceURL=eztoc-scroll-scriptjs-js-extra
     </script>
     <script
@@ -2408,14 +2454,25 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/vendor/sticky-kit/jquery.sticky-kit.min.js?ver=1.9.2"
         id="eztoc-jquery-sticky-kit-js"></script>
     <script id="eztoc-js-js-extra">
-        var ezTOC = { "smooth_scroll": "1", "visibility_hide_by_default": "1", "scroll_offset": "30", "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E", "visibility_hide_by_device": "1", "chamomile_theme_is_on": "" };
+        var ezTOC = {
+            "smooth_scroll": "1",
+            "visibility_hide_by_default": "1",
+            "scroll_offset": "30",
+            "fallbackIcon": "\u003Cspan class=\"\"\u003E\u003Cspan class=\"eztoc-hide\" style=\"display:none;\"\u003EToggle\u003C/span\u003E\u003Cspan class=\"ez-toc-icon-toggle-span\"\u003E\u003Csvg style=\"fill: #999;color:#999\" xmlns=\"http://www.w3.org/2000/svg\" class=\"list-377408\" width=\"20px\" height=\"20px\" viewBox=\"0 0 24 24\" fill=\"none\"\u003E\u003Cpath d=\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\" fill=\"currentColor\"\u003E\u003C/path\u003E\u003C/svg\u003E\u003Csvg style=\"fill: #999;color:#999\" class=\"arrow-unsorted-368013\" xmlns=\"http://www.w3.org/2000/svg\" width=\"10px\" height=\"10px\" viewBox=\"0 0 24 24\" version=\"1.2\" baseProfile=\"tiny\"\u003E\u003Cpath d=\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\"/\u003E\u003C/svg\u003E\u003C/span\u003E\u003C/span\u003E",
+            "visibility_hide_by_device": "1",
+            "chamomile_theme_is_on": ""
+        };
         //# sourceURL=eztoc-js-js-extra
     </script>
     <script
         src="https://www.jualkubahmasjid.id/wp-content/plugins/easy-table-of-contents/assets/js/front.min.js?ver=2.0.83-1778255783"
         id="eztoc-js-js"></script>
     <script id="generate-menu-js-before">
-        var generatepressMenu = { "toggleOpenedSubMenus": true, "openSubMenuLabel": "Open Sub-Menu", "closeSubMenuLabel": "Close Sub-Menu" };
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": true,
+            "openSubMenuLabel": "Open Sub-Menu",
+            "closeSubMenuLabel": "Close Sub-Menu"
+        };
         //# sourceURL=generate-menu-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.1"
@@ -2432,7 +2489,89 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.10"
         id="elementor-sticky-js"></script>
     <script id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php", "nonce": "7e3e625fa2", "i18n": { "toc_no_headings_found": "No headings were found on this page." }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "google": { "title": "Google+", "has_counter": true }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" } }, "facebook_sdk": { "lang": "en_US", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
+        var ElementorProFrontendConfig = {
+            "ajaxurl": "https:\/\/www.jualkubahmasjid.id\/wp-admin\/admin-ajax.php",
+            "nonce": "7e3e625fa2",
+            "i18n": {
+                "toc_no_headings_found": "No headings were found on this page."
+            },
+            "shareButtonsNetworks": {
+                "facebook": {
+                    "title": "Facebook",
+                    "has_counter": true
+                },
+                "twitter": {
+                    "title": "Twitter"
+                },
+                "google": {
+                    "title": "Google+",
+                    "has_counter": true
+                },
+                "linkedin": {
+                    "title": "LinkedIn",
+                    "has_counter": true
+                },
+                "pinterest": {
+                    "title": "Pinterest",
+                    "has_counter": true
+                },
+                "reddit": {
+                    "title": "Reddit",
+                    "has_counter": true
+                },
+                "vk": {
+                    "title": "VK",
+                    "has_counter": true
+                },
+                "odnoklassniki": {
+                    "title": "OK",
+                    "has_counter": true
+                },
+                "tumblr": {
+                    "title": "Tumblr"
+                },
+                "digg": {
+                    "title": "Digg"
+                },
+                "skype": {
+                    "title": "Skype"
+                },
+                "stumbleupon": {
+                    "title": "StumbleUpon",
+                    "has_counter": true
+                },
+                "mix": {
+                    "title": "Mix"
+                },
+                "telegram": {
+                    "title": "Telegram"
+                },
+                "pocket": {
+                    "title": "Pocket",
+                    "has_counter": true
+                },
+                "xing": {
+                    "title": "XING",
+                    "has_counter": true
+                },
+                "whatsapp": {
+                    "title": "WhatsApp"
+                },
+                "email": {
+                    "title": "Email"
+                },
+                "print": {
+                    "title": "Print"
+                }
+            },
+            "facebook_sdk": {
+                "lang": "en_US",
+                "app_id": ""
+            },
+            "lottie": {
+                "defaultAnimationUrl": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+            }
+        };
         //# sourceURL=elementor-pro-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.10"
@@ -2450,7 +2589,62 @@
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6"
         id="swiper-js"></script>
     <script id="elementor-frontend-js-before">
-        var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false, "isImprovedAssetsLoading": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.1.1", "is_static": false, "experimentalFeatures": [], "urls": { "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 17773, "title": "Jual%20Lampu%20Gantung%20Masjid%20Kuningan%20%26%20Tembaga%20Desain%20Custom", "excerpt": "", "featuredImage": false } };
+        var elementorFrontendConfig = {
+            "environmentMode": {
+                "edit": false,
+                "wpPreview": false,
+                "isScriptDebug": false,
+                "isImprovedAssetsLoading": false
+            },
+            "i18n": {
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnTwitter": "Share on Twitter",
+                "pinIt": "Pin it",
+                "download": "Download",
+                "downloadImage": "Download image",
+                "fullscreen": "Fullscreen",
+                "zoom": "Zoom",
+                "share": "Share",
+                "playVideo": "Play Video",
+                "previous": "Previous",
+                "next": "Next",
+                "close": "Close"
+            },
+            "is_rtl": false,
+            "breakpoints": {
+                "xs": 0,
+                "sm": 480,
+                "md": 768,
+                "lg": 1025,
+                "xl": 1440,
+                "xxl": 1600
+            },
+            "version": "3.1.1",
+            "is_static": false,
+            "experimentalFeatures": [],
+            "urls": {
+                "assets": "https:\/\/www.jualkubahmasjid.id\/wp-content\/plugins\/elementor\/assets\/"
+            },
+            "settings": {
+                "page": [],
+                "editorPreferences": []
+            },
+            "kit": {
+                "global_image_lightbox": "yes",
+                "lightbox_enable_counter": "yes",
+                "lightbox_enable_fullscreen": "yes",
+                "lightbox_enable_zoom": "yes",
+                "lightbox_enable_share": "yes",
+                "lightbox_title_src": "title",
+                "lightbox_description_src": "description"
+            },
+            "post": {
+                "id": 17773,
+                "title": "Jual%20Lampu%20Gantung%20Masjid%20Kuningan%20%26%20Tembaga%20Desain%20Custom",
+                "excerpt": "",
+                "featuredImage": false
+            }
+        };
         //# sourceURL=elementor-frontend-js-before
     </script>
     <script src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.1"
@@ -2459,13 +2653,110 @@
         src="https://www.jualkubahmasjid.id/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.1"
         id="preloaded-elements-handlers-js"></script>
     <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
-</script>
+        {
+            "baseUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/",
+            "ext": ".png",
+            "svgUrl": "https://s.w.org/images/core/emoji/17.0.2/svg/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"
+            }
+        }
+    </script>
     <script type="module">
         /*! This file is auto-generated */
-        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent), o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"), s = ["flag", "emoji"]; function i(e) { try { var t = { supportTests: e, timestamp: (new Date).valueOf() }; sessionStorage.setItem(o, JSON.stringify(t)) } catch (e) { } } function c(e, t, n) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0); const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data); return t.every((e, t) => e === a[t]) } function p(e, t) { e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0); var n = e.getImageData(16, 16, 1, 1); for (let e = 0; e < n.data.length; e++)if (0 !== n.data[e]) return !1; return !0 } function u(e, t, n, a) { switch (t) { case "flag": return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !a(e, "\ud83e\u1fac8") }return !1 } function f(e, t, n, a) { let r; const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", { willReadFrequently: !0 }), s = (o.textBaseline = "top", o.font = "600 32px Arial", {}); return e.forEach(e => { s[e] = t(o, e, n, a) }), s } function r(e) { var t = document.createElement("script"); t.src = e, t.defer = !0, document.head.appendChild(t) } a.supports = { everything: !0, everythingExceptFlag: !0 }, new Promise(t => { let n = function () { try { var e = JSON.parse(sessionStorage.getItem(o)); if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests } catch (e) { } return null }(); if (!n) { if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try { var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));", a = new Blob([e], { type: "text/javascript" }); const r = new Worker(URL.createObjectURL(a), { name: "wpTestEmojiSupports" }); return void (r.onmessage = e => { i(n = e.data), r.terminate(), t(n) }) } catch (e) { } i(n = f(s, u, c, p)) } t(n) }).then(e => { for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]); var t; a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji))) });
+        const a = JSON.parse(document.getElementById("wp-emoji-settings").textContent),
+            o = (window._wpemojiSettings = a, "wpEmojiSettingsSupports"),
+            s = ["flag", "emoji"];
+
+        function i(e) {
+            try {
+                var t = {
+                    supportTests: e,
+                    timestamp: (new Date).valueOf()
+                };
+                sessionStorage.setItem(o, JSON.stringify(t))
+            } catch (e) {}
+        }
+
+        function c(e, t, n) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0);
+            const a = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data);
+            return t.every((e, t) => e === a[t])
+        }
+
+        function p(e, t) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            var n = e.getImageData(16, 16, 1, 1);
+            for (let e = 0; e < n.data.length; e++)
+                if (0 !== n.data[e]) return !1;
+            return !0
+        }
+
+        function u(e, t, n, a) {
+            switch (t) {
+                case "flag":
+                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6") && !n(e, "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");
+                case "emoji":
+                    return !a(e, "\ud83e\u1fac8")
+            }
+            return !1
+        }
+
+        function f(e, t, n, a) {
+            let r;
+            const o = (r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : document.createElement("canvas")).getContext("2d", {
+                    willReadFrequently: !0
+                }),
+                s = (o.textBaseline = "top", o.font = "600 32px Arial", {});
+            return e.forEach(e => {
+                s[e] = t(o, e, n, a)
+            }), s
+        }
+
+        function r(e) {
+            var t = document.createElement("script");
+            t.src = e, t.defer = !0, document.head.appendChild(t)
+        }
+        a.supports = {
+            everything: !0,
+            everythingExceptFlag: !0
+        }, new Promise(t => {
+            let n = function() {
+                try {
+                    var e = JSON.parse(sessionStorage.getItem(o));
+                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                } catch (e) {}
+                return null
+            }();
+            if (!n) {
+                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), c.toString(), p.toString()].join(",") + "));",
+                        a = new Blob([e], {
+                            type: "text/javascript"
+                        });
+                    const r = new Worker(URL.createObjectURL(a), {
+                        name: "wpTestEmojiSupports"
+                    });
+                    return void(r.onmessage = e => {
+                        i(n = e.data), r.terminate(), t(n)
+                    })
+                } catch (e) {}
+                i(n = f(s, u, c, p))
+            }
+            t(n)
+        }).then(e => {
+            for (const n in e) a.supports[n] = e[n], a.supports.everything = a.supports.everything && a.supports[n], "flag" !== n && (a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && a.supports[n]);
+            var t;
+            a.supports.everythingExceptFlag = a.supports.everythingExceptFlag && !a.supports.flag, a.supports.everything || ((t = a.source || {}).concatemoji ? r(t.concatemoji) : t.wpemoji && t.twemoji && (r(t.twemoji), r(t.wpemoji)))
+        });
         //# sourceURL=https://www.jualkubahmasjid.id/wp-includes/js/wp-emoji-loader.min.js
     </script>
+
+    <!-- WhatsApp Click Tracking Script -->
+    <script src="/SIKUBAH/assets/js/wa-tracker.js"></script>
 
 </body>
 
