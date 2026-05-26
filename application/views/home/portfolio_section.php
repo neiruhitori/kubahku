@@ -63,30 +63,61 @@
 <?php
 // application/views/home/portfolio_section.php
 // Fetch portfolios from database and render them
+// Version 2.0 - Production Ready with Error Handling
 
-// Simple database connection
-$db_conn = new mysqli('localhost', 'root', '', 'db_sikubah');
-if ($db_conn->connect_error) {
-    echo '<p>Error: Gagal terhubung ke database</p>';
-    exit;
-}
-$db_conn->set_charset('utf8mb4');
-
-// Get all portfolios, ordered by newest first
-$result = $db_conn->query(
-    "SELECT id, title, description, image FROM portfolios ORDER BY created_at DESC"
-);
-
+// Database connection - PRODUCTION
+$portfolio_db_error = false;
 $portfolios = [];
-if ($result && $result->num_rows > 0) {
-    while ($row = $result->fetch_assoc()) {
-        $portfolios[] = $row;
+
+try {
+    // Turn off error reporting for mysqli
+    mysqli_report(MYSQLI_REPORT_OFF);
+
+    // Production database credentials
+    $db_conn = @new mysqli('localhost', 'produsen1_root', 'Ptkmi2026@', 'produsen1_pkm');
+
+    if ($db_conn->connect_error) {
+        throw new Exception('Database connection failed');
     }
+
+    $db_conn->set_charset('utf8mb4');
+
+    // Get all portfolios, ordered by newest first
+    $result = $db_conn->query(
+        "SELECT id, title, description, image FROM portfolio ORDER BY created_at DESC"
+    );
+
+    if ($result && $result->num_rows > 0) {
+        while ($row = $result->fetch_assoc()) {
+            $portfolios[] = $row;
+        }
+    }
+
+    $db_conn->close();
+} catch (Exception $e) {
+    // Database not available - set error flag but don't stop page rendering
+    $portfolio_db_error = true;
+    $portfolios = [];
+    // Optionally log error: error_log('Portfolio DB Error: ' . $e->getMessage());
 }
 
-if (empty($portfolios)):
+if ($portfolio_db_error):
+    // Show user-friendly message when database not available
+?>
+    <div style="padding: 40px 20px; text-align: center; background: #f9fafb; border-radius: 8px; margin: 20px 0;">
+        <p style="color: #6b7280; margin: 0;">
+            <i class="fas fa-image" style="font-size: 36px; display: block; margin-bottom: 10px; color: #d1d5db;"></i>
+            Portfolio sedang dalam proses update.
+        </p>
+    </div>
+<?php
+elseif (empty($portfolios)):
     // If no portfolios, show a message
-    echo '<p>Tidak ada portfolio yang tersedia saat ini.</p>';
+?>
+    <div style="padding: 40px 20px; text-align: center; background: #f9fafb; border-radius: 8px; margin: 20px 0;">
+        <p style="color: #6b7280; margin: 0;">Belum ada portfolio yang tersedia saat ini.</p>
+    </div>
+<?php
 else:
     // Split portfolios into chunks of 3 for multiple rows
     $portfolio_chunks = array_chunk($portfolios, 3);

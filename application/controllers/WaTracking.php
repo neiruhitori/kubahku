@@ -17,6 +17,7 @@ class WaTracking extends Controller
      * API endpoint untuk track klik WhatsApp
      * Method: POST
      * URL: /watracking/track
+     * Version 2.0 - With database error handling
      * 
      * Expected POST data:
      * - page_name: nama halaman (index, produk, harga, dll)
@@ -31,6 +32,21 @@ class WaTracking extends Controller
         header('Access-Control-Allow-Methods: POST');
 
         try {
+            // Check database connection
+            if (!$this->db->isConnected()) {
+                // Database belum ready - RETURN SUCCESS agar button WA tetap work!
+                echo json_encode([
+                    'success' => true,
+                    'message' => 'Click registered (database pending)',
+                    'tracking' => false,
+                    'data' => [
+                        'page_name' => $_POST['page_name'] ?? 'unknown',
+                        'timestamp' => date('Y-m-d H:i:s')
+                    ]
+                ]);
+                exit;
+            }
+
             // Ambil data dari POST
             $page_name = isset($_POST['page_name']) ? $this->db->escape_string($_POST['page_name']) : 'unknown';
             $page_url = isset($_POST['page_url']) ? $this->db->escape_string($_POST['page_url']) : '';
@@ -56,6 +72,7 @@ class WaTracking extends Controller
                 echo json_encode([
                     'success' => true,
                     'message' => 'Click tracked successfully',
+                    'tracking' => true,
                     'data' => [
                         'click_id' => $this->db->insert_id(),
                         'page_name' => $page_name,
@@ -63,14 +80,26 @@ class WaTracking extends Controller
                     ]
                 ]);
             } else {
-                throw new Exception('Failed to insert tracking data');
+                // Query failed tapi tetap return success agar button WA work
+                echo json_encode([
+                    'success' => true,
+                    'message' => 'Click registered (tracking unavailable)',
+                    'tracking' => false,
+                    'data' => [
+                        'page_name' => $page_name,
+                        'timestamp' => date('Y-m-d H:i:s')
+                    ]
+                ]);
             }
         } catch (Exception $e) {
-            http_response_code(500);
+            // Error tapi tetap return success agar button WA work
             echo json_encode([
-                'success' => false,
-                'message' => 'Error tracking click',
-                'error' => $e->getMessage()
+                'success' => true,
+                'message' => 'Click registered (error: ' . $e->getMessage() . ')',
+                'tracking' => false,
+                'data' => [
+                    'timestamp' => date('Y-m-d H:i:s')
+                ]
             ]);
         }
 
@@ -135,98 +164,119 @@ class WaTracking extends Controller
 
     /**
      * Get statistik hari ini
+     * Version 2.0 - With error handling
      */
     private function get_today_stats()
     {
-        $sql = "SELECT 
-                COUNT(*) as today_clicks,
-                COUNT(DISTINCT user_ip) as unique_visitors,
-                (SELECT page_name FROM wa_clicks WHERE click_date = CURDATE() GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1) as top_page,
-                (SELECT COUNT(*) FROM wa_clicks WHERE click_date = CURDATE() AND page_name = (SELECT page_name FROM wa_clicks WHERE click_date = CURDATE() GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1)) as top_page_clicks
-                FROM wa_clicks 
-                WHERE click_date = CURDATE()";
-
-        $result = $this->db->query($sql);
-        return $result ? $result->fetch_assoc() : [
+        $default = [
             'today_clicks' => 0,
             'unique_visitors' => 0,
             'top_page' => '-',
             'top_page_clicks' => 0
         ];
+
+        if (!$this->db->isConnected()) {
+            return $default;
+        }
+
+        try {
+            $sql = "SELECT 
+                    COUNT(*) as today_clicks,
+                    COUNT(DISTINCT user_ip) as unique_visitors,
+                    (SELECT page_name FROM wa_clicks WHERE click_date = CURDATE() GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1) as top_page,
+                    (SELECT COUNT(*) FROM wa_clicks WHERE click_date = CURDATE() AND page_name = (SELECT page_name FROM wa_clicks WHERE click_date = CURDATE() GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1)) as top_page_clicks
+                    FROM wa_clicks 
+                    WHERE click_date = CURDATE()";
+
+            $result = $this->db->query($sql);
+            return $result ? $result->fetch_assoc() : $default;
+        } catch (Exception $e) {
+            return $default;
+        }
     }
 
     /**
      * Get statistik per halaman hari ini
+     * Version 2.0 - With error handling
      */
     private function get_today_page_stats()
     {
-        $sql = "SELECT 
-                page_name,
-                COUNT(*) as clicks,
-                COUNT(DISTINCT user_ip) as unique_ips,
-                MIN(click_time) as first_click,
-                MAX(click_time) as last_click
-                FROM wa_clicks 
-                WHERE click_date = CURDATE()
-                GROUP BY page_name
-                ORDER BY clicks DESC";
-
-        $result = $this->db->query($sql);
         $data = [];
 
-        if ($result && $result->num_rows > 0) {
-            while ($row = $result->fetch_assoc()) {
-                $data[] = $row;
-            }
+        if (!$this->db->isConnected()) {
+            return $data;
         }
 
-        return $data;
+        try {
+            $sql = "SELECT 
+                    page_name,
+                    COUNT(*) as clicks,
+                    COUNT(DISTINCT user_ip) as unique_ips,
+                    MIN(click_time) as first_click,
+                    MAX(click_time) as last_click
+                    FROM wa_clicks 
+                    WHERE click_date = CURDATE()
+                    GROUP BY page_name
+                    ORDER BY clicks DESC";
+
+            $result = $this->db->query($sql);
+
+            if ($result && $result->num_rows > 0) {
+                while ($row = $result->fetch_assoc()) {
+                    $data[] = $row;
+                }
+            }
+
+            return $data;
+        } catch (Exception $e) {
+            return $data;
+        }
     }
 
     /**
      * Get statistik 7 hari terakhir
+     * Version 2.0 - With error handling
      */
     private function get_weekly_stats()
     {
-        $sql = "SELECT 
-                click_date,
-                COUNT(*) as total_clicks,
-                COUNT(DISTINCT user_ip) as unique_visitors,
-                COUNT(DISTINCT page_name) as pages_clicked
-                FROM wa_clicks 
-                WHERE click_date >= DATE_SUB(CURDATE(), INTERVAL 7 DAY)
-                GROUP BY click_date
-                ORDER BY click_date DESC";
-
-        $result = $this->db->query($sql);
         $data = [];
 
-        if ($result && $result->num_rows > 0) {
-            while ($row = $result->fetch_assoc()) {
-                $data[] = $row;
-            }
+        if (!$this->db->isConnected()) {
+            return $data;
         }
 
-        return $data;
+        try {
+            $sql = "SELECT 
+                    click_date,
+                    COUNT(*) as total_clicks,
+                    COUNT(DISTINCT user_ip) as unique_visitors,
+                    COUNT(DISTINCT page_name) as pages_clicked
+                    FROM wa_clicks 
+                    WHERE click_date >= DATE_SUB(CURDATE(), INTERVAL 7 DAY)
+                    GROUP BY click_date
+                    ORDER BY click_date DESC";
+
+            $result = $this->db->query($sql);
+
+            if ($result && $result->num_rows > 0) {
+                while ($row = $result->fetch_assoc()) {
+                    $data[] = $row;
+                }
+            }
+
+            return $data;
+        } catch (Exception $e) {
+            return $data;
+        }
     }
 
     /**
      * Get total statistik keseluruhan
+     * Version 2.0 - With error handling
      */
     private function get_total_stats()
     {
-        $sql = "SELECT 
-                COUNT(*) as total_all_clicks,
-                COUNT(DISTINCT user_ip) as total_unique_visitors,
-                COUNT(DISTINCT click_date) as total_active_days,
-                MIN(click_date) as first_click_date,
-                MAX(click_date) as last_click_date,
-                (SELECT page_name FROM wa_clicks GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1) as most_clicked_page,
-                (SELECT COUNT(*) FROM wa_clicks WHERE page_name = (SELECT page_name FROM wa_clicks GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1)) as most_clicked_page_total
-                FROM wa_clicks";
-
-        $result = $this->db->query($sql);
-        return $result ? $result->fetch_assoc() : [
+        $default = [
             'total_all_clicks' => 0,
             'total_unique_visitors' => 0,
             'total_active_days' => 0,
@@ -235,6 +285,27 @@ class WaTracking extends Controller
             'most_clicked_page' => '-',
             'most_clicked_page_total' => 0
         ];
+
+        if (!$this->db->isConnected()) {
+            return $default;
+        }
+
+        try {
+            $sql = "SELECT 
+                    COUNT(*) as total_all_clicks,
+                    COUNT(DISTINCT user_ip) as total_unique_visitors,
+                    COUNT(DISTINCT click_date) as total_active_days,
+                    MIN(click_date) as first_click_date,
+                    MAX(click_date) as last_click_date,
+                    (SELECT page_name FROM wa_clicks GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1) as most_clicked_page,
+                    (SELECT COUNT(*) FROM wa_clicks WHERE page_name = (SELECT page_name FROM wa_clicks GROUP BY page_name ORDER BY COUNT(*) DESC LIMIT 1)) as most_clicked_page_total
+                    FROM wa_clicks";
+
+            $result = $this->db->query($sql);
+            return $result ? $result->fetch_assoc() : $default;
+        } catch (Exception $e) {
+            return $default;
+        }
     }
 
     /**

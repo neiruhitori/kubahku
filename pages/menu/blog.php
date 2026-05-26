@@ -1,38 +1,70 @@
 <?php
-// Database connection
+// Version: 2.1 - Fixed Database Error Handling with Try-Catch
+// Last Updated: 26 Mei 2026, 08:30 WIB
+
+// Database connection - PRODUCTION
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "db_sikubah";
+$username = "produsen1_root";
+$password = "Ptkmi2026@";
+$dbname = "produsen1_pkm";
 
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
-
-// Pagination setup
-$articles_per_page = 6;
-$current_page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
-$current_page = max(1, $current_page); // Ensure page is at least 1
-$offset = ($current_page - 1) * $articles_per_page;
-
-// Count total articles
-$count_sql = "SELECT COUNT(*) as total FROM articles WHERE published = 1";
-$count_result = $conn->query($count_sql);
-$total_articles = $count_result->fetch_assoc()['total'];
-$total_pages = ceil($total_articles / $articles_per_page);
-
-// Fetch articles from database with pagination
-$sql = "SELECT * FROM articles WHERE published = 1 ORDER BY created_at DESC LIMIT $articles_per_page OFFSET $offset";
-$result = $conn->query($sql);
-
+// Initialize variables
+$db_error = false;
 $articles = [];
-if ($result && $result->num_rows > 0) {
-    while ($row = $result->fetch_assoc()) {
-        $articles[] = $row;
+$total_articles = 0;
+$total_pages = 0;
+$conn = null;
+
+// Try to connect with error handling
+try {
+    // Turn off error reporting temporarily for mysqli
+    mysqli_report(MYSQLI_REPORT_OFF);
+
+    $conn = new mysqli($servername, $username, $password, $dbname);
+
+    // Check connection
+    if ($conn->connect_error) {
+        throw new Exception('Connection failed: ' . $conn->connect_error);
     }
+
+    // Connection successful
+    $db_error = false;
+
+    // Pagination setup
+    $articles_per_page = 6;
+    $current_page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+    $current_page = max(1, $current_page); // Ensure page is at least 1
+    $offset = ($current_page - 1) * $articles_per_page;
+
+    // Count total articles
+    $count_sql = "SELECT COUNT(*) as total FROM articles WHERE published = 1";
+    $count_result = $conn->query($count_sql);
+
+    if ($count_result) {
+        $total_articles = $count_result->fetch_assoc()['total'];
+        $total_pages = ceil($total_articles / $articles_per_page);
+    } else {
+        $total_articles = 0;
+        $total_pages = 0;
+    }
+
+    // Fetch articles from database with pagination
+    $sql = "SELECT * FROM articles WHERE published = 1 ORDER BY created_at DESC LIMIT $articles_per_page OFFSET $offset";
+    $result = $conn->query($sql);
+
+    $articles = [];
+    if ($result && $result->num_rows > 0) {
+        while ($row = $result->fetch_assoc()) {
+            $articles[] = $row;
+        }
+    }
+} catch (Exception $e) {
+    // Database connection failed - set error flag
+    $db_error = true;
+    $articles = [];
+    $total_articles = 0;
+    $total_pages = 0;
+    // Optionally log error: error_log('DB Error: ' . $e->getMessage());
 }
 ?>
 <!DOCTYPE html>
@@ -1935,7 +1967,19 @@ if ($result && $result->num_rows > 0) {
                     </style>
 
                     <!-- Hubungan Blog/ Artikel dari database -->
-                    <?php if (!empty($articles)): ?>
+                    <?php if (isset($db_error) && $db_error): ?>
+                        <!-- Database not available message -->
+                        <div class="blog-empty" style="text-align: center; padding: 60px 20px;">
+                            <i class="fas fa-database" style="font-size: 64px; color: #fbbf24; margin-bottom: 20px;"></i>
+                            <h3 style="color: #1f2937; margin-bottom: 10px;">Database Belum Tersedia</h3>
+                            <p style="font-size: 16px; color: #6b7280; margin-bottom: 20px;">
+                                Sistem database sedang dalam proses setup. Halaman blog akan tersedia setelah database diaktifkan.
+                            </p>
+                            <a href="/" class="btn btn-primary" style="padding: 12px 24px; background: #2563eb; color: white; text-decoration: none; border-radius: 6px; display: inline-block;">
+                                Kembali ke Homepage
+                            </a>
+                        </div>
+                    <?php elseif (!empty($articles)): ?>
                         <div class="blog-cards-grid">
                             <?php foreach ($articles as $article): ?>
                                 <article id="post-<?php echo $article['id']; ?>"

@@ -28,38 +28,67 @@ spl_autoload_register(function ($class) {
 class Database
 {
     public $conn;
+    public $error = null;
 
     public function __construct()
     {
-        $this->conn = new mysqli('localhost', 'root', '', 'db_sikubah');
+        // PRODUCTION DATABASE CREDENTIALS
+        // Use @ to suppress mysqli connection errors
+        $this->conn = @new mysqli('localhost', 'produsen1_root', 'Ptkmi2026@', 'produsen1_pkm');
+
         if ($this->conn->connect_error) {
-            die('Database connection failed: ' . $this->conn->connect_error);
+            // Store error but don't die - let application continue
+            $this->error = 'Database connection failed: ' . $this->conn->connect_error;
+            $this->conn = null;
+            // Only show error in development, not production
+            // error_log($this->error);  // Log to server error log instead
+        } else {
+            $this->conn->set_charset('utf8mb4');
         }
-        $this->conn->set_charset('utf8mb4');
+    }
+
+    public function isConnected()
+    {
+        return $this->conn !== null;
     }
 
     public function query($sql)
     {
+        if (!$this->isConnected()) {
+            return false;
+        }
         return $this->conn->query($sql);
     }
 
     public function prepare($sql)
     {
+        if (!$this->isConnected()) {
+            return false;
+        }
         return $this->conn->prepare($sql);
     }
 
     public function escape_string($str)
     {
+        if (!$this->isConnected()) {
+            return $str;  // Return as-is if no connection
+        }
         return $this->conn->real_escape_string($str);
     }
 
     public function insert_id()
     {
+        if (!$this->isConnected()) {
+            return 0;
+        }
         return $this->conn->insert_id;
     }
 
     public function affected_rows()
     {
+        if (!$this->isConnected()) {
+            return 0;
+        }
         return $this->conn->affected_rows;
     }
 }
@@ -83,8 +112,8 @@ class Controller
 
 // Check if this is an admin route request
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-$uri = str_replace('/SIKUBAH', '', $uri); // Remove base path
-$uri = trim($uri, '/');
+                        // Production: no base path to remove, already at root
+                        $uri = trim($uri, '/');
 
 // Admin routes that need special handling
 $admin_routes = ['auth', 'dashboard', 'pages', 'portfolio', 'articles', 'content', 'settings', 'watracking'];

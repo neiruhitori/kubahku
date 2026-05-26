@@ -8,32 +8,17 @@ class Articles extends Controller {
     }
 
     // Tampilkan daftar articles - sorted by newest first
-    // Version 2.0 - With database error handling
     public function index() {
+        $sql = "SELECT * FROM articles ORDER BY created_at DESC";
+        $result = $this->db->query($sql);
+        
         $data['title'] = 'Kelola Artikel - SIKUBAH';
         $data['articles'] = [];
-        $data['db_error'] = false;
-
-        // Check database connection
-        if (!$this->db->isConnected()) {
-            $data['db_error'] = true;
-            $data['db_error_message'] = 'Database belum tersedia. Import database terlebih dahulu.';
-            $this->load_view('admin/articles/index', $data);
-            return;
-        }
-
-        try {
-            $sql = "SELECT * FROM articles ORDER BY created_at DESC";
-            $result = $this->db->query($sql);
-
-            if ($result && $result->num_rows > 0) {
-                while ($row = $result->fetch_assoc()) {
-                    $data['articles'][] = $row;
-                }
+        
+        if ($result && $result->num_rows > 0) {
+            while ($row = $result->fetch_assoc()) {
+                $data['articles'][] = $row;
             }
-        } catch (Exception $e) {
-            $data['db_error'] = true;
-            $data['db_error_message'] = 'Error: Tabel articles belum ada. Import database terlebih dahulu.';
         }
         
         $this->load_view('admin/articles/index', $data);
@@ -57,7 +42,6 @@ class Articles extends Controller {
     }
 
     // Return edit form HTML for AJAX modal
-    // Version 2.0 - With database error handling
     public function form_edit($id = null)
     {
         if (!$id) {
@@ -66,56 +50,35 @@ class Articles extends Controller {
             exit;
         }
 
-        // Check database connection
-        if (!$this->db->isConnected()) {
+        $sql = "SELECT * FROM articles WHERE id = " . intval($id) . " LIMIT 1";
+        $result = $this->db->query($sql);
+
+        if (!$result || $result->num_rows === 0) {
             header('Content-Type: application/json');
-            echo json_encode(['success' => false, 'message' => 'Database belum tersedia. Import database terlebih dahulu.']);
+            echo json_encode(['success' => false, 'message' => 'Artikel tidak ditemukan']);
             exit;
         }
 
-        try {
-            $sql = "SELECT * FROM articles WHERE id = " . intval($id) . " LIMIT 1";
-            $result = $this->db->query($sql);
+        $data['title'] = 'Edit Artikel';
+        $data['action'] = 'edit';
+        $data['article'] = $result->fetch_assoc();
+        $data['is_ajax'] = true;
 
-            if (!$result || $result->num_rows === 0) {
-                header('Content-Type: application/json');
-                echo json_encode(['success' => false, 'message' => 'Artikel tidak ditemukan']);
-                exit;
-            }
+        ob_start();
+        $this->load_view('admin/articles/form-modal', $data);
+        $html = ob_get_clean();
 
-            $data['title'] = 'Edit Artikel';
-            $data['action'] = 'edit';
-            $data['article'] = $result->fetch_assoc();
-            $data['is_ajax'] = true;
-
-            ob_start();
-            $this->load_view('admin/articles/form-modal', $data);
-            $html = ob_get_clean();
-
-            header('Content-Type: application/json');
-            echo json_encode(['success' => true, 'html' => $html]);
-            exit;
-        } catch (Exception $e) {
-            header('Content-Type: application/json');
-            echo json_encode(['success' => false, 'message' => 'Error: Tabel articles belum ada. Import database terlebih dahulu.']);
-            exit;
-        }
+        header('Content-Type: application/json');
+        echo json_encode(['success' => true, 'html' => $html]);
+        exit;
     }
 
     // Save article via AJAX (both create and update)
-    // Version 2.0 - With database error handling
     public function save_ajax()
     {
         if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
             header('Content-Type: application/json');
             echo json_encode(['success' => false, 'message' => 'Invalid request method']);
-            exit;
-        }
-
-        // Check database connection first
-        if (!$this->db->isConnected()) {
-            header('Content-Type: application/json');
-            echo json_encode(['success' => false, 'message' => 'Database belum tersedia. Import database terlebih dahulu.']);
             exit;
         }
 

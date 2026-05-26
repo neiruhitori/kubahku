@@ -22,20 +22,25 @@ class Auth extends Controller {
             if (empty($username) || empty($password)) {
                 $data['message'] = '<div class="alert alert-danger">Username dan password tidak boleh kosong!</div>';
             } else {
-                // Ambil user dari database
-                $user = $this->_get_user_by_username($username);
-                
-                if ($user && password_verify($password, $user['password'])) {
-                    // Login berhasil
-                    $_SESSION['admin_id'] = $user['id'];
-                    $_SESSION['admin_username'] = $user['username'];
-                    $_SESSION['admin_email'] = $user['email'];
-                    $_SESSION['admin_logged_in'] = true;
-
-                    header('Location: /dashboard');
-                    exit;
+                // Check database connection first
+                if (!$this->db->isConnected()) {
+                    $data['message'] = '<div class="alert alert-warning">Database belum tersedia. Silakan import database terlebih dahulu.</div>';
                 } else {
-                    $data['message'] = '<div class="alert alert-danger">Username atau password salah!</div>';
+                    // Ambil user dari database
+                    $user = $this->_get_user_by_username($username);
+
+                    if ($user && password_verify($password, $user['password'])) {
+                        // Login berhasil
+                        $_SESSION['admin_id'] = $user['id'];
+                        $_SESSION['admin_username'] = $user['username'];
+                        $_SESSION['admin_email'] = $user['email'];
+                        $_SESSION['admin_logged_in'] = true;
+
+                        header('Location: /dashboard');
+                        exit;
+                    } else {
+                        $data['message'] = '<div class="alert alert-danger">Username atau password salah!</div>';
+                    }
                 }
             }
         }
@@ -54,12 +59,21 @@ class Auth extends Controller {
     }
     
     private function _get_user_by_username($username) {
-        $sql = "SELECT * FROM admins WHERE username = '" . $this->db->escape_string($username) . "' LIMIT 1";
-        $result = $this->db->query($sql);
-        
-        if ($result && $result->num_rows > 0) {
-            return $result->fetch_assoc();
+        // Check database connection
+        if (!$this->db->isConnected()) {
+            return null;
         }
-        return null;
+
+        try {
+            $sql = "SELECT * FROM users WHERE username = '" . $this->db->escape_string($username) . "' LIMIT 1";
+            $result = $this->db->query($sql);
+
+            if ($result && $result->num_rows > 0) {
+                return $result->fetch_assoc();
+            }
+            return null;
+        } catch (Exception $e) {
+            return null;
+        }
     }
 }

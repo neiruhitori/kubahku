@@ -19,25 +19,42 @@ class Dashboard extends Controller {
 
     /**
      * Get WhatsApp statistics for today
+     * Version 2.0 - With database error handling
      */
     private function get_wa_today_stats()
     {
-        $sql = "SELECT 
-                COUNT(*) as today_clicks,
-                COUNT(DISTINCT user_ip) as unique_visitors
-                FROM wa_clicks 
-                WHERE click_date = CURDATE()";
+        // Default values jika database belum ready
+        $default = [
+            'today_clicks' => 0,
+            'unique_visitors' => 0,
+            'db_error' => false
+        ];
 
-        $result = $this->db->query($sql);
-
-        if ($result && $result->num_rows > 0) {
-            return $result->fetch_assoc();
+        // Check database connection
+        if (!$this->db->isConnected()) {
+            $default['db_error'] = true;
+            return $default;
         }
 
-        return [
-            'today_clicks' => 0,
-            'unique_visitors' => 0
-        ];
+        try {
+            $sql = "SELECT 
+                    COUNT(*) as today_clicks,
+                    COUNT(DISTINCT user_ip) as unique_visitors
+                    FROM wa_clicks 
+                    WHERE click_date = CURDATE()";
+
+            $result = $this->db->query($sql);
+
+            if ($result && $result->num_rows > 0) {
+                return $result->fetch_assoc();
+            }
+
+            return $default;
+        } catch (Exception $e) {
+            // Database error - return default values
+            $default['db_error'] = true;
+            return $default;
+        }
     }
 
     private function _check_auth() {
